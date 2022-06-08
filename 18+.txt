@@ -1,0 +1,2096 @@
+
+锘筐焽焽冲崼瑙嗛珮娓�,#genre#
+寰″案涔濆紡鎿嶆湇濂冲兊灏�,https://video2.51daao.com/btt1/2021/06/20210614/23uitKTM/index.m3u8
+鐖嗕钩 瀹屽叏鐗�,https://fc.imgscloud.com/e/odyuccjktj/odyuccjktj.m3u8
+绁炲ザ鏁欑粌鐨勬帆璇█鎸囧,https://fc.imgscloud.com/e/dslsaxfjsp/dslsaxfjsp.m3u8
+缇庝汉鑺掑涓兼瀬涓婁箣鍛�2 鍓嶇紪,https://fc.imgscloud.com/n/lbbcyteloq/lbbcyteloq.m3u8
+鍓嶆辰灏忕櫨鍚�,https://fc.imgscloud.com/f/vrtpyyczpf/vrtpyyczpf.m3u8
+鐒＄⒓褰辩墖,https://d3vfgw5crbffaq.cloudfront.net/20200109/FC2PPV-1224188/index.m3u8
+
+鍖椾含鍗,http://pull.brtvcloud.com:80/brtv8kapptv/brtv8kappweishi.m3u8?$鍏ㄧ綉瓒呮竻1080P
+鍖椾含鍗,rtsp://221.203.83.35/PLTV/88888888/224/3221226469/10000100000000060000000000133834_0.smil?$鑱旈€氳秴娓�1080P
+鍖椾含鍗,http://39.134.65.175/PLTV/88888888/224/3221225678/index.m3u8?$绉诲姩钃濆厜1080P
+鍖椾含鍗,http://111.20.41.249:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8?$绉诲姩瓒呮竻1080P
+鍖椾含鍗,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226092/10000100000000060000000002296930_0.smil?$绉诲姩瓒呮竻1080P
+鍖椾含鍗,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8?$鍏ㄧ綉瓒呮竻1080P
+鍖椾含鍗,http://117.148.179.168:80/PLTV/88888888/224/3221231732/index.m3u8?$鍜挄绉诲姩1080P
+涓婃捣鍗,http://111.40.196.35/PLTV/88888888/224/3221225509/index.m3u8?$绉诲姩楂樻竻720P
+涓婃捣鍗,http://39.134.193.100:6610/030000001001/dongfangstv/1.m3u8?$绉诲姩瓒呮竻1080P
+涓婃捣鍗,http://iptv.tvfix.org/hls/dfhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+涓婃捣鍗,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000292403.m3u8?$鍏ㄧ綉瓒呮竻1080P
+涓婃捣鍗,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226041/10000100000000060000000002296882_0.smil?$绉诲姩瓒呮竻1080P
+涓婃捣鍗,http://117.148.179.160:80/PLTV/88888888/224/3221231738/index.m3u8?$鍜挄绉诲姩1080P
+閲嶅簡鍗,http://111.20.106.13:6610/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$绉诲姩瓒呮竻1080P
+閲嶅簡鍗,http://39.135.138.59:18890/TVOD/88888910/224/3221225734/index.m3u8?$绉诲姩瓒呮竻1080P
+閲嶅簡鍗,rtsp://221.203.83.35/PLTV/88888888/224/3221226644/10000100000000060000000000623270_0.smil?$鑱旈€氳秴娓�1080P
+閲嶅簡鍗,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226753/45949735.smil?$绉诲姩瓒呮竻1080P
+澶╂触鍗,rtsp://221.203.83.35/PLTV/88888888/224/3221226509/10000100000000060000000000356893_0.smil?$鑱旈€氳秴娓�1080P
+澶╂触鍗,http://117.148.179.146:80/PLTV/88888888/224/3221228905/index.m3u8?$鍜挄绉诲姩1080P
+鏂扮枂鍗,http://221.179.136.148:443/PLTV/88888888/224/3221226422/1.m3u8?$绉诲姩鏍囨竻576P
+娴欐睙鍗,http://117.148.179.140:80/PLTV/88888888/224/3221229352/index.m3u8?$鍜挄绉诲姩1080P
+娴欐睙鍗,http://39.135.55.7:6610/PLTV/88888888/224/3221227193/index.m3u8?servicetype=1?$绉诲姩瓒呮竻1080P
+娴欐睙鍗,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8?$鍏ㄧ綉瓒呮竻1080P
+娴欐睙鍗,http://111.40.196.25/PLTV/88888888/224/3221225523/index.m3u8?$绉诲姩楂樻竻720P
+娴欐睙鍗,http://iptv.tvfix.org/hls/zjhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+绂忓缓鍗,http://39.135.55.7:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1?$绉诲姩瓒呮竻1080P
+绂忓缓鍗,http://221.179.136.148:443/PLTV/88888888/224/3221226406/1.m3u8?$绉诲姩瓒呮竻1080P
+绂忓缓鍗,http://39.135.138.59:18890/TVOD/88888910/224/3221225657/index.m3u8?$绉诲姩瓒呮竻1080P
+绂忓缓鍗,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil?$绉诲姩瓒呮竻1080P
+娴峰场鍗,http://39.135.55.7:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1?$绉诲姩瓒呮竻1080P
+鍘﹂棬鍗,http://39.135.55.7:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1?$绉诲姩瓒呮竻1080P
+婀栧崡鍗,http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8?$鍜挄绉诲姩1080P
+婀栧崡鍗,http://iptv.tvfix.org/hls/hunanhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+婀栧崡鍗,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226082/10000100000000060000000002296924_0.smil?$绉诲姩瓒呮竻1080P
+婀栧崡鍗,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8?$鍏ㄧ綉瓒呮竻1080P
+婀栧崡鍗,rtsp://221.203.83.35/PLTV/88888888/224/3221226467/10000100000000060000000000133832_0.smil?$鑱旈€氳秴娓�1080P
+婀栧崡鍗,http://117.148.179.172:80/PLTV/88888888/224/3221231729/index.m3u8?$鍜挄绉诲姩1080P
+姹熻嫃鍗,http://111.40.196.31/PLTV/88888888/224/3221225515/index.m3u8?$绉诲姩楂樻竻720P
+姹熻嫃鍗,http://221.179.136.134:443/PLTV/88888888/224/3221226242/1.m3u8?$绉诲姩瓒呮竻1080P
+姹熻嫃鍗,http://39.135.55.7:6610/PLTV/88888888/224/3221227160/index.m3u8?servicetype=1?$绉诲姩瓒呮竻1080P
+姹熻嫃鍗,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000295603.m3u8?$鍏ㄧ綉瓒呮竻1080P
+姹熻嫃鍗,http://117.148.179.175:80/PLTV/88888888/224/3221231447/index.m3u8?$鍜挄绉诲姩1080P
+姹熻タ鍗,http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8?$绉诲姩楂樻竻720P
+姹熻タ鍗,http://iptv.tvfix.org/hls/jxhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+浜戝崡鍗,http://39.135.55.7:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1?$绉诲姩瓒呮竻1080P
+璐靛窞鍗,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000293303.m3u8?$鍏ㄧ綉瓒呮竻1080P
+鍥涘窛鍗,http://39.135.55.7:6610/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1?$绉诲姩瓒呮竻1080P
+鍥涘窛鍗,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000295003.m3u8?$鍏ㄧ綉瓒呮竻1080P
+鍥涘窛鍗,http://iptv.tvfix.org/hls/schd.m3u8?$鍏ㄥ悍宸村崼瑙�,http://scgctvshow.sctv.com:80/h缃戣秴娓�1080P
+瀹夊窘鍗,http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8?$绉诲姩楂樻竻720P
+瀹夊窘鍗,http://iptv.tvfix.org/hls/ahhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+瀹夊窘鍗,rtsp://221.203.83.35/PLTV/88888888/224/3221226535/10000100000000060000000000499232_0.smil?$鑱旈€氳秴娓�1080P
+瀹夊窘鍗,http://111.20.41.252:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226203/1.m3u8?$绉诲姩瓒呮竻1080P
+瀹夊窘鍗,http://39.135.55.7:6610/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1?$绉诲姩瓒呮竻1080P
+瀹夊窘鍗,http://117.148.179.177:80/PLTV/88888888/224/3221230215/1.m3u8?$鍜挄绉诲姩1080P
+灞变笢鍗,http://111.40.196.36/PLTV/88888888/224/3221225545/index.m3u8?$绉诲姩楂樻竻720P
+灞变笢鍗,https://livealone302.iqilu.com/iqilu/sdtv.m3u8?$鍏ㄧ綉楂樻竻720P
+灞变笢鍗,http://iptv.tvfix.org/hls/sdhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+灞辫タ鍗,http://liveflash.sxrtv.com:80/live/sxwshd.m3u8?$鍏ㄧ綉楂樻竻720P
+灞辫タ鍗,http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd$鍏ㄧ綉楂樻竻720P
+骞夸笢鍗,http://39.135.55.7:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1?$绉诲姩瓒呮竻1080P
+骞夸笢鍗,http://117.148.179.141:80/PLTV/88888888/224/3221231891/1.m3u8?$鍜挄绉诲姩1080P
+骞胯タ鍗,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8?$鍏ㄧ綉瓒呮竻1080P
+骞胯タ鍗,http://iptv.tvfix.org/hls/gxhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+娣卞湷鍗,http://221.179.136.136:443/PLTV/88888888/224/3221226245/1.m3u8?$绉诲姩瓒呮竻1080P
+娣卞湷鍗,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8?$绉诲姩瓒呮竻1080P
+娣卞湷鍗,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000292201.m3u8?$鍏ㄧ綉瓒呮竻1080P
+娣卞湷鍗,rtsp://221.203.83.35/PLTV/88888888/224/3221226472/10000100000000060000000000133821_0.smil?$鑱旈€氳秴娓�1080P
+娣卞湷鍗,http://39.135.138.58:18890/PLTV/88888888/224/3221225700/index.m3u8?$绉诲姩钃濆厜1080P
+娣卞湷鍗,http://iptv.tvfix.org/hls/szhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+婀栧寳鍗,http://111.40.196.27/PLTV/88888888/224/3221225654/index.m3u8?$绉诲姩楂樻竻720P
+婀栧寳鍗,http://111.20.41.252:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8?$绉诲姩瓒呮竻1080P
+婀栧寳鍗,http://39.134.68.170:6610/PLTV/88888888/224/3221225627/index.m3u8?$绉诲姩瓒呮竻1080P
+婀栧寳鍗,http://iptv.tvfix.org/hls/hbhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+婀栧寳鍗,http://117.148.179.142:80/PLTV/88888888/224/3221231888/index.m3u8?$鍜挄绉诲姩1080P
+杈藉畞鍗,http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8?$绉诲姩楂樻竻720P
+杈藉畞鍗,http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8?$绉诲姩钃濆厜1080P
+杈藉畞鍗,http://111.20.41.248:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226210/1.m3u8?$绉诲姩瓒呮竻1080P
+杈藉畞鍗,http://iptv.tvfix.org/hls/lnhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+杈藉畞鍗,http://117.148.179.152:80/PLTV/88888888/224/3221231802/1.m3u8?$鍜挄绉诲姩1080P
+鍚夋灄鍗,http://39.134.65.177/PLTV/88888888/224/3221225872/1.m3u8?$绉诲姩钃濆厜1080P
+鍚夋灄鍗,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226792/48616745.smil?$绉诲姩瓒呮竻1080P
+榛戦緳姹熷崼瑙�,http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8?$绉诲姩瓒呮竻1080P
+榛戦緳姹熷崼瑙�,http://39.135.55.7:6610/PLTV/88888888/224/3221227197/index.m3u8?servicetype=1?$绉诲姩瓒呮竻1080P
+榛戦緳姹熷崼瑙�,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000293903.m3u8?$鍏ㄧ綉瓒呮竻1080P
+榛戦緳姹熷崼瑙�,http://39.135.138.58:18890/PLTV/88888888/224/3221225736/index.m3u8?$绉诲姩钃濆厜1080P
+榛戦緳姹熷崼瑙�,http://117.148.179.141:80/PLTV/88888888/224/3221231967/1.m3u8?$鍜挄绉诲姩1080P
+榛戦緳姹熷崼瑙�,http://iptv.tvfix.org/hls/hljhd.m3u8?$鍏ㄧ綉瓒呮竻1080P
+闄曡タ鍗,http://221.179.136.148:443/PLTV/88888888/224/3221226411/1.m3u8
+鍗楁柟鍗,http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8?$绉诲姩鏍囨竻576P
+灞变笢鍗,http://shbu4k.live.bestvcdn.com:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+
+
+锘筐焽焽冲ぇ闄嗛閬�,#genre#
+CCTV1,http://39.134.13.35:6610/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
+CCTV2,http://39.134.13.35:6610/180000001001/00000001000000001001000000000050/main.m3u8?IASHttpSessionId=OTT
+CCTV3,http://39.134.13.35:6610/180000001001/00000001000000001001000000000051/main.m3u8?IASHttpSessionId=OTT
+CCTV4,http://39.134.13.35:6610/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+CCTV5,http://39.134.13.35:6610/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
+CCTV6,http://39.134.13.35:6610/180000001001/00000001000000001001000000000054/main.m3u8?IASHttpSessionId=OTT
+CCTV7,http://39.134.13.35:6610/180000001001/00000001000000001001000000000055/main.m3u8?IASHttpSessionId=OTT
+CCTV8,http://39.134.13.35:6610/180000001001/00000001000000001001000000000056/main.m3u8?IASHttpSessionId=OTT
+CCTV9,http://39.134.13.35:6610/180000001001/00000001000000001001000000000057/main.m3u8?IASHttpSessionId=OTT
+CCTV10,http://39.134.13.35:6610/180000001001/00000001000000001001000000000058/main.m3u8?IASHttpSessionId=OTT
+CCTV11,http://39.134.13.35:6610/180000001001/00000001000000001019000000352943/main.m3u8?IASHttpSessionId=OTT
+CCTV12,http://39.134.13.35:6610/180000001001/00000001000000001001000000000060/main.m3u8?IASHttpSessionId=OTT
+CCTV13,http://39.134.13.35:6610/180000001001/00000001000000000045000000287929/main.m3u8?IASHttpSessionId=OTT
+CCTV14,http://39.134.13.35:6610/180000001001/00000001000000001001000000000059/main.m3u8?IASHttpSessionId=OTT
+CCTV15,http://39.134.13.35:6610/180000001001/00000001000000001019000000352948/main.m3u8?IASHttpSessionId=OTT
+CGTN,http://39.134.13.35:6610/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
+CGTN绾綍锛宧ttp://39.134.13.35:6610/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
+CCTV5+,http://39.134.13.35:6610/180000001001/00000001000000001001000000000061/main.m3u8?IASHttpSessionId=OTT
+CCTV17,http://39.134.13.35:6610/180000001001/00000001000000001018000000188913/main.m3u8?IASHttpSessionId=OTT
+CETV1,http://39.134.13.35:6610/180000001001/00000001000000001007000000063289/main.m3u8?IASHttpSessionId=OTT
+姹熻嫃鍗,http://39.134.13.35:6610/180000001001/00000001000000001001000000000043/main.m3u8?IASHttpSessionId=OTT
+娴欐睙鍗,http://39.134.13.35:6610/180000001001/00000001000000001001000000000042/main.m3u8?IASHttpSessionId=OTT
+瀹夊窘鍗,http://39.134.13.35:6610/180000001001/00000001000000001007000000063659/main.m3u8?IASHttpSessionId=OTT
+鍖椾含鍗,http://39.134.13.35:6610/180000001001/00000001000000001001000000000062/main.m3u8?IASHttpSessionId=OTT
+澶╂触鍗,http://39.134.13.35:6610/180000001001/00000001000000001001000000000063/main.m3u8?IASHttpSessionId=OTT
+涓滄柟鍗,http://39.134.13.35:6610/180000001001/00000001000000001001000000000064/main.m3u8?IASHttpSessionId=OTT
+娣卞湷鍗,http://39.134.13.35:6610/180000001001/00000001000000001001000000000065/main.m3u8?IASHttpSessionId=OTT
+杈藉畞鍗,http://39.134.13.35:6610/180000001001/00000001000000001007000000063293/main.m3u8?IASHttpSessionId=OTT
+婀栧寳鍗,http://39.134.13.35:6610/180000001001/00000001000000001001000000000066/main.m3u8?IASHttpSessionId=OTT
+灞变笢鍗,http://39.134.13.35:6610/180000001001/00000001000000001001000000000067/main.m3u8?IASHttpSessionId=OTT
+榛戦緳姹熷崼瑙�,http://39.134.13.35:6610/180000001001/00000001000000001001000000000068/main.m3u8?IASHttpSessionId=OTT
+璐靛窞鍗,http://39.134.13.35:6610/180000001001/00000001000000001007000000062998/main.m3u8?IASHttpSessionId=OTT
+娌冲寳鍗,http://39.134.13.35:6610/180000001001/00000001000000001007000000063290/main.m3u8?IASHttpSessionId=OTT
+鐢樿們鍗,http://39.134.13.35:6610/180000001001/00000001000000000045000000287932/main.m3u8?IASHttpSessionId=OTT
+婀栧崡鍗,http://39.134.13.35:6610/180000001001/00000001000000000002000000027982/main.m3u8?IASHttpSessionId=OTT
+
+
+
+
+
+CCTV-1,http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8
+CCTV-1,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+CCTV-1,http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-2,http://39.135.138.59:18890/PLTV/88888910/224/3221225643/index.m3u8
+CCTV-2,http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+CCTV-3,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+CCTV-3,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+CCTV-3,http://117.148.179.183/TVOD/88888888/224/3221231682/index.m3u8
+CCTV-3,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+CCTV-4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+CCTV-5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+CCTV-5,http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8
+CCTV-5,http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+CCTV-5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5+,http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+CCTV-5+,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
+CCTV-5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+CCTV-6,http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
+CCTV-6,http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+CCTV-6,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+CCTV-7,http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
+CCTV-7,http://39.134.65.179/PLTV/88888888/224/3221225671/1.m3u8
+CCTV-7,http://39.134.65.164/PLTV/88888888/224/3221225671/1.m3u8
+CCTV-7,http://39.134.65.181/PLTV/88888888/224/3221225671/1.m3u8
+CCTV-7,http://39.134.65.183/PLTV/88888888/224/3221225671/1.m3u8
+CCTV-7,http://39.134.65.173/PLTV/88888888/224/3221225671/1.m3u8
+CCTV-8,http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+CCTV-8,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+CCTV-8,http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+CCTV-9,http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
+CCTV-9,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-9,http://39.135.138.59:18890/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-9,http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+CCTV-10,http://39.134.65.179/PLTV/88888888/224/3221225677/1.m3u8
+CCTV-10,http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
+CCTV-10,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
+CCTV-10,http://39.135.138.59:18890/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-10,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+CCTV-11,http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+CCTV-11,http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
+CCTV-11,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12,http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+CCTV-12,http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-12,http://39.135.138.59:18890/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-12,http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+CCTV-13,http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
+CCTV-13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-14,http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8
+CCTV-14,http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
+CCTV-14,http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
+CCTV-14,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+CCTV-15,http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
+CCTV-15,http://39.134.65.183/PLTV/88888888/224/3221225513/1.m3u8
+CCTV-15,http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
+CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV-16,http://39.135.138.58:18890/TVOD/88888888/224/3221226230/index.m3u8
+CCTV-17,http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+CCTV-17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+CCTV-6,http://183.207.249.9/PLTV/3/224/3221225548/1.m3u8
+CCTV-6,http://183.207.249.9/PLTV/3/224/3221225548/2.m3u8
+CCTV-5,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+CCTV-5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CCTV-6,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+CCTV-6,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+CCTV-7,http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+CCTV-9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV-11,http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+CCTV-14,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
+CCTV-15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+CCTV-16,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+CCTV-17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+CCTV-1,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
+CCTV-2,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+CCTV-2,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+CCTV-4,http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+CCTV-10,http://117.148.179.164/PLTV/88888888/224/3221232492/index.m3u8
+CCTV-13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15,http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
+CCTV-4,http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
+CCTV-4,http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+CCTV-5,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5+,http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
+CCTV-5+,http://183.207.249.35/PLTV/4/224/3221227381/index.m3u8
+CCTV-6,http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
+CCTV-6,http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
+CCTV-7,http://183.207.249.36/PLTV/4/224/3221227314/index.m3u8
+CCTV-7,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-7,http://183.207.249.15/PLTV/3/224/3221225546/index.m3u8
+CCTV-7,http://183.207.249.9/PLTV/3/224/3221225546/index.m3u8
+CCTV-9,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-9,http://183.207.249.6/PLTV/3/224/3221225532/index.m3u8
+CCTV-10,http://183.207.249.34/PLTV/4/224/3221227317/index.m3u8
+CCTV-12,http://183.207.249.8/PLTV/3/224/3221225556/index.m3u8
+CCTV-13,http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8
+CCTV-13,http://117.169.120.140:8080/live/cctv-13/.m3u8
+CCTV-13,http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
+CCTV-17,http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8
+CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-3,http://117.169.120.140:8080/live/cctv-3/.m3u8
+CCTV-3,http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV-7,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-10,http://117.169.120.140:8080/live/cctv-10/.m3u8
+CCTV-14,http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
+CCTV-12,http://39.135.138.59:18890/TVOD/88888910/224/3221225629/index.m3u8
+CCTV-13,http://39.134.115.163:8080/TVOD/88888910/224/3221225638/index.m3u8
+CCTV-13,http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
+CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-17,http://111.12.101.23:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV-4,https://p.ggiptv.com/v/4k.m3u8
+CCTV-1,http://111.40.196.27/PLTV/88888888/224/3221225548/index.m3u8
+CCTV-4,http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226191/index.m3u8
+CCTV-6,http://117.148.179.165/PLTV/88888888/224/3221231724/index.m3u8
+CCTV-10,http://117.148.179.165/PLTV/88888888/224/3221232492/index.m3u8
+CCTV-17,https://iplive-try.wasu.tv/11123.m3u8?group=600112&servicetype=0&livemode=1&servicegrade=2&servicesp=dangbei&userid=dangbei_user_c4:e1:a1:c2:0e:91&tvid=03019Q9908AB284C41F8E&stbid=0fdf605ceb89598a4b4f3bbea5a9b315&authNum=1643180069564-2-40f2c2266db4900d2735db4bb2907327
+CCTV-4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
+CCTV-4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231654/index.m3u8
+Channel 1,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+CCTV-4,http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
+CCTV-5,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+CCTV-5+,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+CCTV-5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-鎬€鏃у墽鍦�,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
+CCTV-绗竴鍓у満,http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8
+CCTV-椋庝簯鍓у満,http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
+CCTV-椋庝簯瓒崇悆,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
+CCTV-涓栫晫鍦扮悊,http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
+CCTV-濂虫€ф椂灏�,http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
+CCTV-澶鍙扮悆,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
+CCTV-楂樺皵澶綉鐞�,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8
+CCTV-澶鏂囧寲绮惧搧,http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
+CGTN,http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
+CGTN璁板綍,http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
+CGTN娉曡,http://117.148.179.156/PLTV/88888888/224/3221231550/index.m3u8
+CETV1,http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
+CETV1,http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
+CETV2,http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
+CETV3,http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
+锘筐焽焽冲崼瑙嗛閬�,#genre#
+婀栧崡琛涜,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
+婀栧崡琛涜,http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
+婀栧崡琛涜,http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
+姹熻嫃琛涜,http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
+娴欐睙琛涜,http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
+娴欐睙琛涜,http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8
+骞挎澅琛涜,http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
+骞挎澅琛涜,http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
+鍖椾含琛涜,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+澶╂触琛涜,http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
+灞辨澅琛涜,http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
+婀栧寳琛涜,http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
+婀栧寳琛涜,http://117.148.179.134/PLTV/88888888/224/3221231523/index.m3u8
+榛戦緳姹熻瑕�,http://117.148.179.141/PLTV/88888888/224/3221231967/index.m3u8
+榛戦緳姹熻瑕�,http://117.148.179.162/PLTV/88888888/224/3221231520/index.m3u8
+瀹夊窘琛涜,http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
+杈藉畞琛涜,http://117.148.179.152/PLTV/88888888/224/3221231802/index.m3u8
+姹熻タ琛涜,http://117.148.179.141/PLTV/88888888/224/3221231964/index.m3u8
+姹熻タ琛涜,http://117.148.179.157/PLTV/88888888/224/3221231511/index.m3u8
+鍥涘窛琛涜,http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
+鍥涘窛琛涜,http://117.148.179.176/PLTV/88888888/224/3221231517/index.m3u8
+娌冲寳琛涜,http://117.148.179.179/PLTV/88888888/224/3221231411/index.m3u8
+灞辫タ琛涜,http://117.148.179.169/PLTV/88888888/224/3221231444/index.m3u8
+闈掓捣琛涜,http://117.148.179.151/PLTV/88888888/224/3221231435/index.m3u8
+浜戝崡琛涜,http://117.148.179.141/PLTV/88888888/224/3221231499/index.m3u8
+娌冲崡琛涜,http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8
+闄曡タ琛涜,http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8
+鍚夋灄琛涜,http://117.148.179.164/PLTV/88888888/224/3221231472/index.m3u8
+骞胯タ琛涜,http://117.148.179.164/PLTV/88888888/224/3221231600/index.m3u8
+瑗胯棌琛涜,http://117.148.179.162/PLTV/88888888/224/3221231558/index.m3u8
+鍐呰挋鍙よ瑕�,http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8
+鐢樿們琛涜,http://117.148.179.158/PLTV/88888888/224/3221231393/index.m3u8
+鏂扮枂琛涜,http://117.148.179.183/PLTV/88888888/224/3221231451/index.m3u8
+鍏靛洟琛涜,http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8
+鍘﹂棬琛涜,http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
+鍥涙捣閽撻奔,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
+鐜悆鏃呮父,http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8
+鍢変匠鍗￠€�,http://117.148.179.144/PLTV/88888888/224/3221231483/index.m3u8
+閲戦拱绾疄,http://117.148.179.141/PLTV/88888888/224/3221231582/index.m3u8
+姹熻嫃鏁欒偛,http://117.148.179.158/PLTV/88888888/224/3221231631/index.m3u8
+浼樻极鍗￠€�,http://117.148.179.183/PLTV/88888888/224/3221231574/index.m3u8
+灞辨澅鏁欒偛,http://117.148.179.157/PLTV/88888888/224/3221231549/index.m3u8
+CNC涓枃,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+CNC涓枃,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+
+馃嚚馃嚦涓婃捣鍖椾含,#genre#
+鏉辨柟琛涜,http://39.134.66.110/PLTV/88888888/224/3221225672/index.m3u8
+鏉辨柟琛涜,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
+鏉辨柟琛涜,http://117.148.179.167/PLTV/88888888/224/3221231450/index.m3u8
+鏂伴椈缁煎悎,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+涓婃捣閮藉競,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+绗竴璐㈢粡,http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+绗竴璐㈢粡,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+鏉辨柟璐㈢粡,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
+鏉辨柟褰辫,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+澶栬棰戦亾,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+绾疄浜烘枃,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+閮藉競鍓у満,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+绾疄浜烘枃,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+灏忕尓浣╁,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+灏忕尓浣╁瘎,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?
+涓冨僵鎴忓墽,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+娉曟不澶╁湴,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
+鏉辨柟褰辫,http://117.148.179.166/PLTV/88888888/224/3221231639/index.m3u8
+绾疄浜烘枃,http://117.148.179.168/PLTV/88888888/224/3221231612/index.m3u8
+涓婃捣閮藉競,http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
+娆㈢瑧鍓у満,http://117.148.179.168/PLTV/88888888/224/3221230739/index.m3u8
+鏉辨柟璐㈢粡,http://117.148.179.176/PLTV/88888888/224/3221231646/index.m3u8
+娉曟不澶╁湴,http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
+鍏ㄧ邯瀹�,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+绾疄浜烘枃,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+绾疄浜烘枃,http://iptv.tvfix.org/hls/docuchina.m3u8
+鐢熸椿鏃跺皻,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+涓婃捣閮藉競,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+鏂拌瑙�,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+澶栬棰戦亾,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
+绾疄浜烘枃,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+鍔茬垎浣撹偛,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+浜旀槦浣撹偛,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+鏉辨柟褰辫,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+鏉辨柟璐㈢粡,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
+浜旀槦浣撹偛,http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+浜旀槦浣撹偛,http://122.136.191.250/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+閲戝北琛涜,http://live.mudu.tv/watch/4zbn2f.m3u8
+涓婃捣閮藉競,http://140.207.241.3:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+鏂伴椈缁煎悎,http://140.207.241.3:8080/live/program/live/xwzhhd/2300000/d1.m3u8
+鏂伴椈缁煎悎,http://111.40.196.36/PLTV/88888888/224/3221225499/index.m3u8
+涓婃捣閮藉競,http://117.148.179.165:80/PLTV/88888888/224/3221231618/index.m3u8
+涓婃捣閮藉競,http://111.40.196.37/PLTV/88888888/224/3221225613/index.m3u8
+鏉辨柟褰辫,http://111.40.196.28/PLTV/88888888/224/3221225615/index.m3u8
+鏉辨柟褰辫,http://117.148.179.166:80/PLTV/88888888/224/3221231639/index.m3u8
+浜旀槦浣撹偛,http://140.207.241.3:8080/live/program/live/ssty/2300000/d1.m3u8
+鍔茬垎浣撹偛,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+鏂拌瑙�,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+绾疄浜烘枃,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+鍏ㄧ邯瀹�,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+鏋侀€熸苯杞�,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+鏋侀€熸苯杞�,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+娆㈢瑧鍓у満,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+瓒崇悆榄呭姏,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+瓒崇悆榄呭姏,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+鏉辨柟璐㈢粡,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
+涓婃捣鏁欒偛,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+鐢熸椿鏃跺皻,http://111.40.196.31/PLTV/88888888/224/3221225501/index.m3u8
+鏂拌瑙�,http://140.207.241.3:8080/live/program/live/xsjhd/2300000/d1.m3u8
+涓冨僵鎴忓墽,http://111.40.196.32/PLTV/88888888/224/3221225607/index.m3u8
+榄呭姏瓒崇悆,http://140.207.241.3:8080/live/program/live/mlyyhd/4000000/d1.m3u8
+閲戣壊棰戦亾,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
+涓婃捣鏁欒偛,http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
+鏂伴椈缁煎悎,http://112.25.48.70/live/program/live/xwzhhd/4000000/mnf.m3u8
+鏂伴椈缁煎悎,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=7487426726248458200&livemode=1&stbId=4
+鏉辨柟褰辫,http://112.25.48.70/live/program/live/dsjpdhd/4000000/mnf.m3u8
+澶栬棰戦亾,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6032059665143203976&livemode=1&stbId=4
+澶栬棰戦亾,http://112.25.48.70/live/program/live/wypdhd/4000000/mnf.m3u8
+涓婃捣閮藉競,http://112.25.48.70/live/program/live/ylpdhd/4000000/mnf.m3u8
+绾疄浜烘枃,http://39.134.19.248:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+娆㈢瑧鍓у満,http://39.135.55.105:6610/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1
+娆㈢瑧鍓у満,http://112.25.48.70/live/program/live/hxjchd/4000000/mnf.m3u8
+閮藉競鍓у満,http://39.135.55.105:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
+閮藉競鍓у満,http://39.134.19.251:6610/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+鏂拌瑙�,http://112.25.48.70/live/program/live/xsjhd/4000000/mnf.m3u8
+鍏ㄧ邯瀹�,http://39.135.55.105:6610/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
+鍏ㄧ邯瀹�,http://39.134.19.251:6610/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+鐢熸椿鏃跺皻,http://39.135.55.105:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
+鐢熸椿鏃跺皻,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&stbId=4
+鍔茬垎浣撹偛,http://112.25.48.69/live/program/live/jbtyhd/4000000/mnf.m3u8
+鍔茬垎浣撹偛,http://112.25.48.70/live/program/live/jbtyhd/4000000/mnf.m3u8
+浜旀槦浣撹偛,http://112.25.48.70/live/program/live/ssty/4000000/mnf.m3u8
+榄呭姏瓒崇悆,http://112.25.48.70/live/program/live/mlyyhd/4000000/mnf.m3u8
+鏋侀€熸苯杞�,http://39.135.55.105:6610/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1
+鏋侀€熸苯杞�,http://39.134.19.251:6610/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+绗竴璐㈢粡,http://112.25.48.70/live/program/live/dycjhd/4000000/mnf.m3u8
+绗竴璐㈢粡,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6617141658685778844&livemode=1&stbId=4
+鏉辨柟璐㈢粡,http://112.25.48.70/live/program/live/dfcj/1300000/mnf.m3u8
+鏉辨柟璐㈢粡,http://39.135.55.105:6610/PLTV/88888888/224/3221227087/index.m3u8?servicetype=1
+鍖椾含閫氬窞,http://pull.dayuntongzhou.com/live/tztv.m3u8
+鍖椾含琛涜,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+鍖椾含绾疄,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+鍖椾含鍗,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=
+鍖椾含鏂囪壓,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
+鍖椾含绉戞暀,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
+鍖椾含褰辫,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
+鍖椾含璐㈢粡,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
+鍖椾含鍐ゥ,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=
+鍖椾含鐢熸椿,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
+鍖椾含闈掑勾,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
+鍖椾含鏂伴椈,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
+鍖椾含鍗￠叿,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
+IPTV4K瓒呴珮娓�,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+IPTV娣樺ū涔�,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+IPTV娣橀浕褰�,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+IPTV娣楤aby,http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+IPTV钀屽疇TV,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+IPTV澶у仴搴�,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index.m3u8?servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOwqRuq1wlVOXKPSxUnb4JNQ%3D%3D%3A20211105223205%2C10000100000000050000000003887494%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+绾韩4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+鐖辫嚜鐒�4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+鐖变笂4K,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+
+
+馃嚬馃嚰鍙版咕鏂伴椈,#genre#
+瀵板畤鏂伴椈鍙�,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
+鍗庤鏂伴椈鍙�,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
+涓夌珛鏂伴椈鍙�,https://ssttvv1.6zxr.xyz/twtv/index.m3u8
+涓滄．鏂伴椈鍙�,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
+姘戣鏂伴椈鍙�,https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
+涓ぉ鏂伴椈鍙�,https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
+TVBS鏂伴椈,http://51.79.193.109:8080/hlsok/ea10c602/index.m3u8
+涓滄．鏂伴椈,http://51.79.193.109:8080/hlsok/1ecdeb5a/index.m3u8
+涓夌珛鏂伴椈,http://51.79.193.109:8080/hlsok/0ebc9684/index.m3u8
+闈炲嚒鏂伴椈,http://51.79.193.109:8080/hlsok/2187f64b/index.m3u8
+姘戣鏂伴椈,http://51.79.193.109:8080/hlsok/ced345d4/index.m3u8
+涓鏂伴椈,http://51.79.193.109:8080/hlsok/66836176/index.m3u8
+鍙拌鏂伴椈,http://51.79.193.109:8080/hlsok/c23f3737/index.m3u8
+鍗庤鏂伴椈,http://51.79.193.109:8080/hlsok/091887ce/index.m3u8
+澹规柊鑱�,http://51.79.193.109:8080/hlsok/cc4d59da/index.m3u8
+骞翠唬鏂拌仦,http://51.79.193.109:8080/hlsok/3abbaa2d/index.m3u8
+鏉辨．璨＄稉,http://51.79.193.109:8080/hlsok/7a3a85b7/index.m3u8
+涓ぉ鏂伴椈,http://51.79.193.109:8080/hlsok/565046de1/index.m3u8
+闈炲嚒鏂拌仦,http://51.79.193.109:8080/hlsok/2187f64b/index.m3u8
+瀵板畤鏂伴椈,http://51.79.193.109:8080/hlsok/1fb0838b/index.m3u8
+
+
+馃嚬馃嚰鍙版咕棰戦亾,#genre#
+鍑ゅ嚢涓枃鍙�,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8
+鍑ゅ嚢璧勮鍙�,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8
+鍑ゅ嚢棣欐腐鍙�,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+鍑ゅ嚢鐢靛奖鍙�,http://live.scuec.edu.cn:8080/hls/fhdy.m3u8#http://iptv.tvfix.org/hls/fhdy.m3u8
+澶х埍涓€鍙�,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+澶х埍浜屽彴,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+NHK鍗庤瑙嗙晫,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
+CCM澶╂槧缁忓吀,http://iptv.tvfix.org/hls/tyjd2.m3u8
+缈＄繝鍙�,http://iptv.tvfix.org/hls/jade.m3u8
+鏄庣彔鍙�,http://astream.apk1088.com:18888/channel.php?id=1351_1500&/PLTV/hls.smil.m3u8
+缁忓吀鍙�,http://iptv.tvfix.org:80/hls/tvbjd.m3u8
+骞夸笢缈＄繝,http://astream.apk1088.com:18888/channel.php?id=1350_1500&/PLTV/hls.smil.m3u8#http://103.140.229.13/gudou.php?id=1350_4500
+鏃犵嚎鏂伴椈,http://61.222.202.191:80/live/yzyh.php?id=12
+鏃犵嚎璐㈢粡,http://iptv.tvfix.org/hls/finance.m3u8
+鏄熸渤棰戦亾,http://iptv.tvfix.org/hls/tvbxh2.m3u8
+姝﹀姛棰戦亾,http://iptv.tvfix.org/hls/tvbkf.m3u8
+J2,http://dllb.jxin122.top/jj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
+CBS鏂伴椈,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+FOX鏂伴椈,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+HBO缁煎悎,http://50.7.61.148:30080/Entry/hbo
+涓,rtmp://59.124.75.138:1935/sat/tv091#rtmp://219.80.97.35/sat/tv091
+鍗庤,rtmp://59.124.75.138:1935/sat/tv111#rtmp://219.80.97.35/sat/tv111
+鍙拌,rtmp://59.124.75.138:1935/sat/tv071#rtmp://219.80.97.35/sat/tv071
+姘戣,rtmp://59.124.75.138:1935/sat/tv051#rtmp://219.80.97.35/sat/tv051
+涓ぉ鏂伴椈,https://tv1.6zxr.xyz/1/ztxw/hls/index.m3u8#http://iptv.tvfix.org/hls/ztxw.m3u8
+涓鏂伴椈,http://61.222.202.191:80/live/yzyh.php?id=138
+鑾茶姳鍗,http://nettvpro.live/hls/lotustv.php
+TVBS鏂伴椈鍙�,rtmp://59.124.75.138:1935/sat/tv551#rtmp://219.80.97.35/sat/tv551
+TVBS娆箰鍙�,rtmp://59.124.75.138:1935/sat/tv421#rtmp://219.80.97.35/sat/tv421
+鐜畤鏂伴椈,http://59.125.101.187:8528/1.m3u8#http://59.125.101.187:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
+鏈夌嚎鏂伴椈,http://140.238.51.187:8080/hls/03/index.m3u8
+鏈夌嚎18鍙�,rtmp://59.124.75.138:1935/sat/hk041#rtmp://219.80.97.35/sat/hk041
+鏃ュ瀵屽＋,https://fujitv1.mov3.co/hls/fujitv.m3u8
+濂芥秷鎭患鍚堝彴,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+绾潵鑲蹭箰,rtmp://59.124.75.138:1935/sat/tv701#rtmp://219.80.97.35/sat/tv701
+绾潵浣撹偛,rtmp://59.124.75.138:1935/sat/tv721#rtmp://219.80.97.35/sat/tv721
+绾潵鏃ユ湰,rtmp://59.124.75.138:1935/sat/tv771#rtmp://219.80.97.35/sat/tv771
+鍘熶綇姘戞棌,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+鎺㈢储棰戦亾,http://iptv.tvfix.org/hls/discovery.m3u8
+鍥藉鍦扮悊,http://iptv.tvfix.org/hls/natlgeo.m3u8
+鍦扮悊閲庣敓,http://61.222.202.191:80/live/yzyh.php?id=121#https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+浜氭床鏃呮父,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+涓滄．鐢靛奖,http://61.222.202.191:80/live/yzyh.php?id=98
+涓滄．璐㈢粡,rtmp://59.124.75.138:1935/sat/tv571#rtmp://219.80.97.35/sat/tv571
+涓滄．瓒呰,rtmp://59.124.75.138:1935/sat/tv331#rtmp://219.80.97.35/sat/tv331
+涓滄．鍛﹀懄,http://61.222.202.191:80/live/yzyh.php?id=54
+闄岄檶缁煎悎,rtmp://59.124.75.138:1935/sat/tv761#rtmp://219.80.97.35/sat/tv761
+缇庝簹鐢靛奖,http://61.222.202.191:80/live/yzyh.php?id=110
+ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731#rtmp://219.80.97.35/sat/tv731
+ELEVEN2,rtmp://219.80.97.35/sat/tv741#rtmp://59.124.75.138:1935/sat/tv741
+NHK缁煎悎棰戦亾,https://nhk1.mov3.co/hls/nhk.m3u8
+CNN鏂伴椈棰戦亾,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+
+
+馃幁鍓у満棰戦亾,#genre#
+浜戜笂鐢靛奖,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+鍍靛案鍓у満,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+鍐涙梾鍓у満,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+鍒樹害鑿�,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+鍒樺痉鍗�,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+鍗堝鍓у満,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
+鍙ゅぉ涔�,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+鍙ら緳,http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
+鍚翠含,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
+鍛ㄦ槦椹�,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+鍛ㄦ鼎鍙�,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+灏戞灄鍓у満,http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
+寮犲浗鑽�,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+鎬€鏃ц€佺墖,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+鎴愰緳,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+鏂扮墖鏀炬槧,http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+鏉ㄥ箓,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
+姝︿緺鍓у満,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+绉戝够鐢靛奖,http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
+姣忔棩鑽愬奖,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+鐖辨儏鍏瘬,http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
+鐩楀鏂规硶,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+绁炴帰鐙勪粊鏉�,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+璋嶆垬鍓у満,http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
+缁忓吀璐哄瞾,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+钁涗紭,http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
+璇曡儐澶т細,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+杩藉墽灏戝コ,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+閮瘜鍩�,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+閲戝焊棰戦亾,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
+楂樺垎褰遍櫌,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
+楂樿兘鐑ц剳,http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
+榛勯噾鍓у満,http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
+閲戞洸绉︽槬,http://bp-caster.bestv.com.cn/561/1/video.m3u8
+杩藉厜鍚у摜鍝�,http://bp-caster.bestv.com.cn/460/1/video.m3u8
+鑺辨牱濮愬,http://bp-caster.bestv.com.cn/559/1/video.m3u8
+鏋侀檺鎸戞垬,http://bp-caster.bestv.com.cn/511/1/video.m3u8
+浜戞父鏃ユ湰,http://bp-caster.bestv.com.cn/514/1/video.m3u8
+浜烘枃绉樺,http://bp-caster.bestv.com.cn/513/1/video.m3u8
+4K鍓у満,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
+SNH48鍓у満,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+TVB鍓у満,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+鍔ㄦ极绉€鍦�,http://140.207.241.3:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+閮藉競鍓у満,http://140.207.241.3:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+鏋侀€熸苯杞�,http://140.207.241.3:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+绗戞鍓у満,http://140.207.241.3:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+榄呭姏瓒崇悆,http://140.207.241.3:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+HWF鏁ｆ墦,http://pull-g.kktv8.com/livekktv/57588147.flv
+鍥涙捣閽撻奔,http://117.148.129.14:80/PLTV/88888888/224/3221231718/1.m3u8
+娆箰鍓у満,http://39.134.115.163:8080/PLTV/88888910/224/3221226210/index.m3u8
+鏄庢槦缁煎悎,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+鏄庢槦缁煎悎,http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
+涓浗鍔熷か,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/1.m3u8
+涓浗鍔熷か,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/1.m3u8
+绮惧搧璁板綍,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
+绮惧搧璁板綍,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
+绮惧搧璁板綍,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
+鍐滀笟鑷村瘜,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/1.m3u8
+鍐滀笟鑷村瘜,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/1.m3u8
+鍐滀笟鑷村瘜,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/1.m3u8
+瀹跺涵鍓у満,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/1.m3u8
+瀹跺涵鍓у満,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/1.m3u8
+瀹跺涵鍓у満,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/1.m3u8
+娼杈ｅ﹩,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/1.m3u8
+娼杈ｅ﹩,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/1.m3u8
+鍐涗簨璇勮,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
+鍐涗簨璇勮,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
+缁艰壓閾滆壓,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/1.m3u8
+缁艰壓閾滆壓,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/1.m3u8
+缁艰壓閾滆壓,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/1.m3u8
+鍙よ鍓у満,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/1.m3u8
+鍙よ鍓у満,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/1.m3u8
+鍐涙梾鍓у満,http://117.148.179.134/PLTV/88888888/224/3221231585/index.m3u8
+鍠滃墽鑱旂洘,http://117.148.179.134/PLTV/88888888/224/3221231621/index.m3u8
+鏂扮墖鏀炬槧,http://117.148.179.134/PLTV/88888888/224/3221231640/index.m3u8
+寮犲浗鑽�,http://117.148.179.134/PLTV/88888888/224/3221231790/index.m3u8
+浜戜笂闆诲奖,http://117.148.179.134/PLTV/88888888/224/3221231565/index.m3u8
+姣忔棩闆诲奖,http://117.148.179.134/PLTV/88888888/224/3221231568/index.m3u8
+4K鍓у満,http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8
+鍚翠含,http://117.148.179.134/PLTV/88888888/224/3221231564/index.m3u8
+鍛ㄦ鼎鍙�,http://117.148.179.134/PLTV/88888888/224/3221231709/index.m3u8
+钁涗紭,http://117.148.179.134/PLTV/88888888/224/3221231754/index.m3u8
+鍒樺痉鍗�,http://117.148.179.134/PLTV/88888888/224/3221231757/index.m3u8
+鍑屾櫒鍓у満,http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8
+鍒樹害鑿�,http://117.148.179.134/PLTV/88888888/224/3221231787/index.m3u8
+鐩楀鏂规硶,http://117.148.179.134/PLTV/88888888/224/3221231652/index.m3u8
+璇曡儐澶т細,http://117.148.179.134/PLTV/88888888/224/3221231672/index.m3u8
+楂樿兘鐑ц剳,http://117.148.179.134/PLTV/88888888/224/3221231504/index.m3u8
+鏉ㄥ箓,http://117.148.179.134/PLTV/88888888/224/3221231556/index.m3u8
+鏂囪壓濞变箰,http://117.148.179.134/PLTV/88888888/224/3221231570/index.m3u8
+鏉ㄥ箓,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542372
+娆㈢瑧鍓у満,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
+绉戝够闆诲奖,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
+澶辩湢鍓у満,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
+鍚村瓱杈�,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+姝荤鏉ヤ簡,http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
+鎼炵瑧楝肩墖,http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
+涓浗鍔熷か,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+浜旂鏄熺郴鍒�,http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
+棣欐腐榛戝府,http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
+缁忓吀娓墖,http://txtest-xp2p.p2p.huya.com/src/1199563479483-1199563479483-5444317290487087104-2399127082422-10057-A-0-1.xs
+鎭愭儳绔炴妧,http://txtest-xp2p.p2p.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.xs
+鐧芥辰瀛楀箷,http://txtest-xp2p.p2p.huya.com/src/1199562244544-1199562244544-5439013267869532160-2399124612544-10057-A-0-1.xs
+鍐烽棬娓墖,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
+鐏靛紓棰嗗煙,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
+鏉卞寳鐑墽,http://39.135.137.46:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/1.m3u8
+鏉卞寳鐑墽,http://39.135.137.47:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/1.m3u8
+鏉卞寳鐑墽,http://39.134.115.163:8080/PLTV/88888910/224/3221226202/index.m3u8
+瓒呯骇闆昏鍓�,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/1.m3u8
+瓒呯骇闆昏鍓�,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/1.m3u8
+瓒呯骇闆昏鍓�,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
+瓒呯骇闆昏鍓�,http://39.134.115.163:8080/PLTV/88888910/224/3221225765/index.m3u8
+瓒呯骇缁艰壓,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/1.m3u8
+瓒呯骇缁艰壓,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/1.m3u8
+鐩楀鏂规硶,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
+缁忓吀褰辫,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
+璇曡儐澶т細,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
+楂樿兘鐑ц剳,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
+鍒樹害鑿�,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386
+浜戜笂鐢靛奖,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
+鏆戞湡鍓у満,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
+榛勯噾鍓у満,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
+鍐涙梾鍓у満,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
+灏戞灄鍓у満,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
+楂樻竻澶х墖,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
+鍙ゅぉ涔�,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
+鐑墽鑱旀挱,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
+鍠滃墽鑱旂洘,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
+鍍靛案鍓у満,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
+鐙勪粊鏉�,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625574493
+璋嶆垬鍓у満,http://112.74.200.9:88/tv000000/m3u8.php?/migu/634274665
+缁忓吀璐哄瞾,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
+杩藉墽灏戝コ,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
+鎬€鏃ц€佺墖,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
+姝︿緺鍓у満,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
+鐩楀鏂规硶,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
+鍛ㄦ鼎鍙�,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
+鍙ら緳浣�,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
+鍛ㄦ槦椹�,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
+鎴愰緳,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
+寮犲浗鑽�,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
+閮瘜鍩�,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
+鍒樺痉鍗�,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
+KiD褰遍櫌9,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822/index.m3u8
+KiD褰遍櫌10,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
+涓婃捣娓墖,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+姝︿緺缁忓吀,http://data.3g.yy.com/live/hls/1353587611/1353587611
+瓒呯骇闆诲奖,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/1.m3u8
+瓒呯骇闆诲奖,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
+瓒呯骇闆昏鍓�,http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8
+铏庣墮闆诲奖,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+铏庣墮娓墽,https://txtest-xp2p.p2p.huya.com/huylive/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1_2000.xs
+鈶ｅ奖闄D,http://117.148.179.157/PLTV/88888888/224/3221231787/index.m3u8
+鈶㈠奖闄D,http://117.148.179.157/PLTV/88888888/224/3221231763/index.m3u8
+鈶″奖闄D,http://117.148.179.157/PLTV/88888888/224/3221231757/index.m3u8
+鍠滃墽鐢靛奖,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+榛戣帗闆诲奖,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
+榛戣帗闆诲奖,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+CHC鍔ㄤ綔闆诲奖,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC瀹跺涵褰遍櫌,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+CHC楂樻竻褰遍櫌,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+CHC鍔ㄤ綔闆诲奖,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+CHC瀹跺涵褰遍櫌,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+CHC瀹跺涵褰遍櫌,http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8
+CHC鍔ㄤ綔闆诲奖,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+CHC鍔ㄤ綔闆诲奖,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888893/224/3221226465/index.m3u8
+CHC鍔ㄤ綔闆诲奖,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8
+CHC瀹跺涵褰遍櫌,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC楂樻竻闆诲奖,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+鍞愪汉琛�3,https://cdn.zoubuting.com/20210625/YAsZuFuS/1200kb/hls/index.m3u8
+鐖辩粡鍏�,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
+鐖辨帰绱�,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+鐖辨偓鐤�,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+鐖辩骞�,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
+鐖遍櫌绾�,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
+鐖遍櫌绾�,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
+鐖卞ū涔�,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
+鐖卞ū涔�,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
+鐖辨偓鐤�,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+鐖辨偓鐤�,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+鐖卞枩鍓�,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
+鐖辩帺鍏�,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
+鐖变綋鑲�,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
+鐖辩寧濂�,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
+鐖辨氮婕�,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
+鐖遍兘甯�,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
+鐖辫皪鎴�,http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
+
+
+
+馃悷鏂楅奔鍓у満,#genre#
+
+鏂楅奔闆诲奖2,http://zzy789.xyz/douyu1.php?id=6763930
+鏂楅奔闆诲奖2,http://epg.112114.xyz/douyu/6763930
+鏂楅奔闆诲奖3,http://zzy789.xyz/douyu1.php?id=122402
+鏂楅奔闆诲奖3,http://epg.112114.xyz/douyu/122402
+鏂楅奔闆诲奖4,http://zzy789.xyz/douyu1.php?id=747764
+鏂楅奔闆诲奖4,http://epg.112114.xyz/douyu/747764
+鏂楅奔闆诲奖6,http://zzy789.xyz/douyu1.php?id=263824
+鏂楅奔闆诲奖6,http://epg.112114.xyz/douyu/263824
+鏂楅奔闆诲奖7,http://zzy789.xyz/douyu1.php?id=3637726
+鏂楅奔闆诲奖7,http://epg.112114.xyz/douyu/3637726
+鏂楅奔闆诲奖8,http://zzy789.xyz/douyu1.php?id=323876
+鏂楅奔闆诲奖8,http://epg.112114.xyz/douyu/323876
+鏂楅奔闆诲奖9,http://zzy789.xyz/douyu1.php?id=3928
+鏂楅奔闆诲奖9,http://epg.112114.xyz/douyu/3928
+鏂楅奔闆诲奖10,http://zzy789.xyz/douyu1.php?id=2935323
+鏂楅奔鐢靛奖10,http://epg.112114.xyz/douyu/2935323
+鏂楅奔闆诲奖11,http://zzy789.xyz/douyu1.php?id=7459925
+鏂楅奔闆诲奖11,http://epg.112114.xyz/douyu/7459925
+鏂楅奔闆诲奖12,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
+鏂楅奔闆诲奖13,http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
+鏂楅奔闆诲奖14,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
+鏂楅奔闆诲奖15,http://epg.112114.xyz/douyu/6537888
+鏂楅奔鐢靛奖15,http://zzy789.xyz/douyu1.php?id=6537888
+鏂楅奔闆诲奖16,http://epg.112114.xyz/douyu/431460
+鏂楅奔鐢靛奖16,http://zzy789.xyz/douyu1.php?id=431460
+鏂楅奔闆诲奖17,http://epg.112114.xyz/douyu/6140589
+鏂楅奔鐢靛奖17,http://zzy789.xyz/douyu1.php?id=6140589
+鏂楅奔闆诲奖18,http://epg.112114.xyz/douyu/4246519
+鏂楅奔鐢靛奖18,http://zzy789.xyz/douyu1.php?id=4246519
+鏂楅奔闆诲奖19,http://epg.112114.xyz/douyu/7116591
+鏂楅奔闆诲奖20,http://epg.112114.xyz/douyu/1171463
+鏂楅奔闆诲奖21,http://epg.112114.xyz/douyu/6776615
+鏂楅奔闆诲奖22,http://epg.112114.xyz/douyu/1979257
+鏂楅奔鐢靛奖22,http://zzy789.xyz/douyu1.php?id=1979257
+鏂楅奔闆诲奖23,http://epg.112114.xyz/douyu/6949033
+鏂楅奔鐢靛奖23,http://zzy789.xyz/douyu1.php?id=6949033
+鏂楅奔闆诲奖23,http://epg.112114.xyz/douyu/7494871
+鏂楅奔鐢靛奖23,http://zzy789.xyz/douyu1.php?id=7494871
+鏂楅奔闆诲奖24,http://epg.112114.xyz/douyu/6808473
+鏂楅奔闆诲奖25,http://epg.112114.xyz/douyu/8661527
+鏂楅奔闆诲奖26,http://epg.112114.xyz/douyu/8413092
+鏂楅奔鐢靛奖26,http://zzy789.xyz/douyu1.php?id=8413092
+鏂楅奔闆诲奖27,http://epg.112114.xyz/douyu/6596220
+鏂楅奔闆诲奖28,http://epg.112114.xyz/douyu/6497464
+鏂楅奔闆诲奖29,http://epg.112114.xyz/douyu/20415
+鏂楅奔鐢靛奖29,http://zzy789.xyz/douyu1.php?id=20415
+鏂楅奔闆诲奖30,http://epg.112114.xyz/douyu/252802
+鏂楅奔鐢靛奖30,http://zzy789.xyz/douyu1.php?id=252802
+鏂楅奔闆诲奖31,http://epg.112114.xyz/douyu/6799973
+鏂楅奔闆诲奖32,http://epg.112114.xyz/douyu/6632254
+鏂楅奔闆诲奖33,http://epg.112114.xyz/douyu/96577
+鏂楅奔鐢靛奖33,http://zzy789.xyz/douyu1.php?id=96577
+鏂楅奔闆诲奖34,http://epg.112114.xyz/douyu/315457
+鏂楅奔鐢靛奖34,http://zzy789.xyz/douyu1.php?id=315457
+鏂楅奔闆诲奖35,http://epg.112114.xyz/douyu/248753
+鏂楅奔鐢靛奖35,http://zzy789.xyz/douyu1.php?id=248753
+鏂楅奔闆诲奖36,http://epg.112114.xyz/douyu/1409682
+鏂楅奔闆诲奖37,http://epg.112114.xyz/douyu/1955264
+鏂楅奔闆诲奖38,http://epg.112114.xyz/douyu/8014575
+鏂楅奔闆诲奖48,http://epg.112114.xyz/douyu/3392656
+鏂楅奔闆诲奖49,http://epg.112114.xyz/douyu/4332
+鏂楅奔鐢靛奖49,http://zzy789.xyz/douyu1.php?id=4332
+鏂楅奔闆诲奖50,http://epg.112114.xyz/douyu/4167368
+鏂楅奔闆诲奖53,http://epg.112114.xyz/douyu/6854590
+鏂楅奔闆诲奖54,http://epg.112114.xyz/douyu/3619464
+鏂楅奔闆诲奖55,http://epg.112114.xyz/douyu/3568481
+鏂楅奔闆诲奖56,http://epg.112114.xyz/douyu/668785
+鏂楅奔闆诲奖59,http://epg.112114.xyz/douyu/7221304
+鏂楅奔闆诲奖66,http://epg.112114.xyz/douyu/7842226
+鏂楅奔闆诲奖67,http://epg.112114.xyz/douyu/2317390
+鏂楅奔闆诲奖71,http://epg.112114.xyz/douyu/2987100
+鏂楅奔闆诲奖73,http://epg.112114.xyz/douyu/771006
+鏂楅奔闆诲奖74,http://epg.112114.xyz/douyu/498772
+鏂楅奔闆诲奖75,http://epg.112114.xyz/douyu/5926392
+鏂楅奔闆诲奖76,http://epg.112114.xyz/douyu/638963
+鏂楅奔闆诲奖77,http://epg.112114.xyz/douyu/2758565
+鏂楅奔闆诲奖78,http://epg.112114.xyz/douyu/8058642
+鏂楅奔闆诲奖79,http://epg.112114.xyz/douyu/805235
+鏂楅奔闆诲奖80,http://epg.112114.xyz/douyu/8706129
+鏂楅奔闆诲奖81,http://epg.112114.xyz/douyu/3870925
+鏂楅奔闆诲奖85,http://epg.112114.xyz/douyu/920389
+鏂楅奔闆诲奖86,http://epg.112114.xyz/douyu/6167524
+鏂楅奔闆诲奖91,http://epg.112114.xyz/douyu/229743
+鏂楅奔闆诲奖94,http://epg.112114.xyz/douyu/4396972
+鏂楅奔闆诲奖95,http://epg.112114.xyz/douyu/4549169
+鏂楅奔闆诲奖96,http://epg.112114.xyz/douyu/4523233
+鏂楅奔闆诲奖97,http://epg.112114.xyz/douyu/8867878
+鏂楅奔闆诲奖98,http://epg.112114.xyz/douyu/8166878
+鏂楅奔闆诲奖99,http://epg.112114.xyz/douyu/7655471
+鏂楅奔闆诲奖101,http://epg.112114.xyz/douyu/7673566
+鏂楅奔闆诲奖103,http://epg.112114.xyz/douyu/875795
+鏂楅奔闆诲奖105,http://epg.112114.xyz/douyu/4290711
+鏂楅奔闆诲奖106,http://epg.112114.xyz/douyu/5655535
+鏂楅奔闆诲奖108,http://epg.112114.xyz/douyu/6566671
+鏂楅奔闆诲奖109,http://epg.112114.xyz/douyu/8580340
+鏂楅奔闆诲奖111,http://epg.112114.xyz/douyu/8475821
+鏂楅奔闆诲奖112,http://epg.112114.xyz/douyu/5088784
+鏂楅奔闆诲奖117,http://epg.112114.xyz/douyu/338759
+鏂楅奔闆诲奖124,http://epg.112114.xyz/douyu/2793084
+鏂楅奔闆诲奖125,http://epg.112114.xyz/douyu/5067952
+鏂楅奔闆诲奖128,http://epg.112114.xyz/douyu/675072
+鏂楅奔闆诲奖129,http://epg.112114.xyz/douyu/413573
+鏂楅奔闆诲奖134,http://epg.112114.xyz/douyu/6725858
+鏂楅奔闆诲奖135,http://epg.112114.xyz/douyu/7476264
+鏂楅奔闆诲奖136,http://epg.112114.xyz/douyu/5689514
+鏂楅奔闆诲奖138,http://epg.112114.xyz/douyu/326852
+鏂楅奔闆诲奖141,http://epg.112114.xyz/douyu/7623292
+鏂楅奔闆诲奖142,http://epg.112114.xyz/douyu/105265
+鏂楅奔闆诲奖144,http://epg.112114.xyz/douyu/6732990
+鏂楅奔闆诲奖145,http://epg.112114.xyz/douyu/5033502
+鏂楅奔闆诲奖146,http://epg.112114.xyz/douyu/436240
+鏂楅奔闆诲奖147,http://epg.112114.xyz/douyu/7226091
+鏂楅奔闆诲奖148,http://epg.112114.xyz/douyu/6786937
+鏂楅奔闆诲奖151,http://epg.112114.xyz/douyu/426517
+鏂楅奔闆诲奖152,http://epg.112114.xyz/douyu/1543154
+鏂楅奔闆诲奖153,http://epg.112114.xyz/douyu/8799435
+鏂楅奔闆诲奖154,http://epg.112114.xyz/douyu/218859
+鏂楅奔闆诲奖155,http://epg.112114.xyz/douyu/4258555
+鏂楅奔闆诲奖162,http://epg.112114.xyz/douyu/8116528
+鏂楅奔闆诲奖163,http://epg.112114.xyz/douyu/8768613
+鏂楅奔闆诲奖165,http://epg.112114.xyz/douyu/8705754
+鏂楅奔闆诲奖166,http://epg.112114.xyz/douyu/5581257
+鏂楅奔闆诲奖167,http://epg.112114.xyz/douyu/7712894
+鏂楅奔闆诲奖169,http://epg.112114.xyz/douyu/7528160
+鏂楅奔闆诲奖173,http://epg.112114.xyz/douyu/8408317
+鏂楅奔闆诲奖175,http://epg.112114.xyz/douyu/8313496
+鏂楅奔闆诲奖176,http://epg.112114.xyz/douyu/7672838
+鏂楅奔鐢靛奖2,http://zzy789.xyz/douyu1.php?id=36337
+鏂楅奔鐢靛奖5,http://epg.112114.xyz/douyu/5423
+鏂楅奔鐢靛奖5,http://zzy789.xyz/douyu1.php?id=5423
+鏂楅奔鐢靛奖11,http://epg.112114.xyz/douyu/5635000
+鏂楅奔鐢靛奖15,http://epg.112114.xyz/douyu/2288676
+鏂楅奔鐢靛奖17,http://zzy789.xyz/douyu1.php?id=434971
+鏂楅奔鐢靛奖21,http://zzy789.xyz/douyu1.php?id=1504768
+鏂楅奔鐢靛奖22,http://epg.112114.xyz/douyu/8413908
+鏂楅奔鐢靛奖22,http://zzy789.xyz/douyu1.php?id=8413908
+鏂楅奔鐢靛奖27,http://zzy789.xyz/douyu1.php?id=6079455
+鏂楅奔鐢靛奖28,http://epg.112114.xyz/douyu/8461020
+鏂楅奔鐢靛奖28,http://zzy789.xyz/douyu1.php?id=8461020
+鏂楅奔鐢靛奖29,http://epg.112114.xyz/douyu/8657920
+鏂楅奔鐢靛奖29,http://zzy789.xyz/douyu1.php?id=8657920
+鏂楅奔鐢靛奖30,http://epg.112114.xyz/douyu/85894
+鏂楅奔鐢靛奖30,http://zzy789.xyz/douyu1.php?id=85894
+鏂楅奔鐢靛奖42,http://epg.112114.xyz/douyu/7270927
+鏂楅奔鐢靛奖42,http://zzy789.xyz/douyu1.php?id=7270927
+鏂楅奔鐢靛奖45,http://epg.112114.xyz/douyu/2337939
+鏂楅奔鐢靛奖45,http://zzy789.xyz/douyu1.php?id=2337939
+鏂楅奔鐢靛奖51,http://epg.112114.xyz/douyu/1226741
+鏂楅奔鐢靛奖51,http://zzy789.xyz/douyu1.php?id=1226741
+鏂楅奔鐢靛奖52,http://epg.112114.xyz/douyu/6896398
+鏂楅奔鐢靛奖52,http://zzy789.xyz/douyu1.php?id=6896398
+鏂楅奔鐢靛奖58,http://epg.112114.xyz/douyu/7582564
+鏂楅奔鐢靛奖58,http://zzy789.xyz/douyu1.php?id=7582564
+鏂楅奔鐢靛奖60,http://epg.112114.xyz/douyu/3508304
+鏂楅奔鐢靛奖60,http://zzy789.xyz/douyu1.php?id=3508304
+鏂楅奔鐢靛奖61,http://zzy789.xyz/douyu1.php?id=7356023
+鏂楅奔鐢靛奖62,http://epg.112114.xyz/douyu/8656759
+鏂楅奔鐢靛奖62,http://zzy789.xyz/douyu1.php?id=8656759
+鏂楅奔鐢靛奖63,http://epg.112114.xyz/douyu/5658951
+鏂楅奔鐢靛奖63,http://zzy789.xyz/douyu1.php?id=5658951
+鏂楅奔鐢靛奖64,http://zzy789.xyz/douyu1.php?id=8611011
+鏂楅奔鐢靛奖65,http://zzy789.xyz/douyu1.php?id=2436390
+鏂楅奔鐢靛奖68,http://epg.112114.xyz/douyu/5422706
+鏂楅奔鐢靛奖68,http://zzy789.xyz/douyu1.php?id=5422706
+鏂楅奔鐢靛奖71,http://zzy789.xyz/douyu1.php?id=2987100
+鏂楅奔鐢靛奖77,http://zzy789.xyz/douyu1.php?id=2758565
+鏂楅奔鐢靛奖79,http://zzy789.xyz/douyu1.php?id=805235
+鏂楅奔鐢靛奖81,http://zzy789.xyz/douyu1.php?id=3870925
+鏂楅奔鐢靛奖82,http://epg.112114.xyz/douyu/4944033
+鏂楅奔鐢靛奖82,http://zzy789.xyz/douyu1.php?id=4944033
+鏂楅奔鐢靛奖83,http://epg.112114.xyz/douyu/7925840
+鏂楅奔鐢靛奖83,http://zzy789.xyz/douyu1.php?id=7925840
+鏂楅奔鐢靛奖87,http://epg.112114.xyz/douyu/7305938
+鏂楅奔鐢靛奖87,http://zzy789.xyz/douyu1.php?id=7305938
+鏂楅奔鐢靛奖88,http://epg.112114.xyz/douyu/4360596
+鏂楅奔鐢靛奖88,http://zzy789.xyz/douyu1.php?id=4360596
+鏂楅奔鐢靛奖89,http://epg.112114.xyz/douyu/4373285
+鏂楅奔鐢靛奖89,http://zzy789.xyz/douyu1.php?id=4373285
+鏂楅奔鐢靛奖90,http://epg.112114.xyz/douyu/6785471
+鏂楅奔鐢靛奖90,http://zzy789.xyz/douyu1.php?id=6785471
+鏂楅奔鐢靛奖92,http://epg.112114.xyz/douyu/7537296
+鏂楅奔鐢靛奖92,http://zzy789.xyz/douyu1.php?id=7537296
+鏂楅奔鐢靛奖93,http://epg.112114.xyz/douyu/5508997
+鏂楅奔鐢靛奖95,http://zzy789.xyz/douyu1.php?id=4549169
+鏂楅奔鐢靛奖97,http://zzy789.xyz/douyu1.php?id=8867878
+鏂楅奔鐢靛奖99,http://zzy789.xyz/douyu1.php?id=7655471
+鏂楅奔鐢靛奖100,http://epg.112114.xyz/douyu/8168353
+鏂楅奔鐢靛奖105,http://zzy789.xyz/douyu1.php?id=4290711
+鏂楅奔鐢靛奖108,http://zzy789.xyz/douyu1.php?id=6566671
+鏂楅奔鐢靛奖110,http://epg.112114.xyz/douyu/8415464
+鏂楅奔鐢靛奖110,http://zzy789.xyz/douyu1.php?id=8415464
+鏂楅奔鐢靛奖111,http://zzy789.xyz/douyu1.php?id=8475821
+鏂楅奔鐢靛奖113,http://epg.112114.xyz/douyu/5522351
+鏂楅奔鐢靛奖113,http://zzy789.xyz/douyu1.php?id=5522351
+鏂楅奔鐢靛奖114,http://epg.112114.xyz/douyu/562225
+鏂楅奔鐢靛奖115,http://epg.112114.xyz/douyu/223521
+鏂楅奔鐢靛奖115,http://zzy789.xyz/douyu1.php?id=223521
+鏂楅奔鐢靛奖116,http://epg.112114.xyz/douyu/8651489
+鏂楅奔鐢靛奖116,http://zzy789.xyz/douyu1.php?id=8651489
+鏂楅奔鐢靛奖117,http://zzy789.xyz/douyu1.php?id=338759
+鏂楅奔鐢靛奖118,http://epg.112114.xyz/douyu/4631599
+鏂楅奔鐢靛奖119,http://epg.112114.xyz/douyu/953193
+鏂楅奔鐢靛奖119,http://zzy789.xyz/douyu1.php?id=953193
+鏂楅奔鐢靛奖120,http://epg.112114.xyz/douyu/5354713
+鏂楅奔鐢靛奖120,http://zzy789.xyz/douyu1.php?id=5354713
+鏂楅奔鐢靛奖122,http://epg.112114.xyz/douyu/3485629
+鏂楅奔鐢靛奖123,http://epg.112114.xyz/douyu/3811092
+鏂楅奔鐢靛奖124,http://zzy789.xyz/douyu1.php?id=2793084
+鏂楅奔鐢靛奖125,http://zzy789.xyz/douyu1.php?id=5067952
+鏂楅奔鐢靛奖127,http://epg.112114.xyz/douyu/5503962
+鏂楅奔鐢靛奖129,http://zzy789.xyz/douyu1.php?id=413573
+鏂楅奔鐢靛奖130,http://epg.112114.xyz/douyu/8014467
+鏂楅奔鐢靛奖130,http://zzy789.xyz/douyu1.php?id=8014467
+鏂楅奔鐢靛奖132,http://zzy789.xyz/douyu1.php?id=2466104
+鏂楅奔鐢靛奖133,http://epg.112114.xyz/douyu/5192695
+鏂楅奔鐢靛奖133,http://zzy789.xyz/douyu1.php?id=5192695
+鏂楅奔鐢靛奖134,http://zzy789.xyz/douyu1.php?id=6725858
+鏂楅奔鐢靛奖135,http://zzy789.xyz/douyu1.php?id=7476264
+鏂楅奔鐢靛奖136,http://zzy789.xyz/douyu1.php?id=5689514
+鏂楅奔鐢靛奖137,http://epg.112114.xyz/douyu/1274132
+鏂楅奔鐢靛奖139,http://epg.112114.xyz/douyu/5129261
+鏂楅奔鐢靛奖140,http://epg.112114.xyz/douyu/508118
+鏂楅奔鐢靛奖140,http://zzy789.xyz/douyu1.php?id=508118
+鏂楅奔鐢靛奖141,http://zzy789.xyz/douyu1.php?id=7623292
+鏂楅奔鐢靛奖143,http://epg.112114.xyz/douyu/7314294
+鏂楅奔鐢靛奖143,http://zzy789.xyz/douyu1.php?id=7314294
+鏂楅奔鐢靛奖145,http://zzy789.xyz/douyu1.php?id=5033502
+鏂楅奔鐢靛奖149,http://epg.112114.xyz/douyu/6582435
+鏂楅奔鐢靛奖149,http://zzy789.xyz/douyu1.php?id=6582435
+鏂楅奔鐢靛奖150,http://epg.112114.xyz/douyu/3980787
+鏂楅奔鐢靛奖150,http://zzy789.xyz/douyu1.php?id=3980787
+鏂楅奔鐢靛奖151,http://zzy789.xyz/douyu1.php?id=426517
+鏂楅奔鐢靛奖153,http://zzy789.xyz/douyu1.php?id=8799435
+鏂楅奔鐢靛奖155,http://zzy789.xyz/douyu1.php?id=4258555
+鏂楅奔鐢靛奖156,http://epg.112114.xyz/douyu/785252
+鏂楅奔鐢靛奖157,http://epg.112114.xyz/douyu/8362978
+鏂楅奔鐢靛奖157,http://zzy789.xyz/douyu1.php?id=8362978
+鏂楅奔鐢靛奖158,http://epg.112114.xyz/douyu/8788687
+鏂楅奔鐢靛奖158,http://zzy789.xyz/douyu1.php?id=8788687
+鏂楅奔鐢靛奖159,http://epg.112114.xyz/douyu/1735337
+鏂楅奔鐢靛奖159,http://zzy789.xyz/douyu1.php?id=1735337
+鏂楅奔鐢靛奖160,http://epg.112114.xyz/douyu/8741860
+鏂楅奔鐢靛奖160,http://zzy789.xyz/douyu1.php?id=8741860
+鏂楅奔鐢靛奖161,http://epg.112114.xyz/douyu/8774345
+鏂楅奔鐢靛奖161,http://zzy789.xyz/douyu1.php?id=8774345
+鏂楅奔鐢靛奖164,http://epg.112114.xyz/douyu/8413226
+鏂楅奔鐢靛奖164,http://zzy789.xyz/douyu1.php?id=8413226
+鏂楅奔鐢靛奖165,http://zzy789.xyz/douyu1.php?id=8705754
+鏂楅奔鐢靛奖168,http://epg.112114.xyz/douyu/6861249
+鏂楅奔鐢靛奖168,http://zzy789.xyz/douyu1.php?id=6861249
+鏂楅奔鐢靛奖169,http://zzy789.xyz/douyu1.php?id=7528160
+鏂楅奔鐢靛奖170,http://zzy789.xyz/douyu1.php?id=1377142
+鏂楅奔鐢靛奖171,http://epg.112114.xyz/douyu/8706084
+鏂楅奔鐢靛奖171,http://zzy789.xyz/douyu1.php?id=8706084
+鏂楅奔鐢靛奖172,http://epg.112114.xyz/douyu/2040822
+鏂楅奔鐢靛奖172,http://zzy789.xyz/douyu1.php?id=2040822
+鏂楅奔鐢靛奖174,http://epg.112114.xyz/douyu/8317926
+鏂楅奔鐢靛奖174,http://zzy789.xyz/douyu1.php?id=8317926
+鏂楅奔鐢靛奖177,http://epg.112114.xyz/douyu/9292492
+鏂楅奔鐢靛奖177,http://zzy789.xyz/douyu1.php?id=9292492
+鐑垶178,http://epg.112114.xyz/douyu/17732
+鐑垶179,http://epg.112114.xyz/douyu/7971641
+鐑垶179,http://zzy789.xyz/douyu1.php?id=7971641
+鐑垶180,http://epg.112114.xyz/douyu/231464
+鐑垶180,http://zzy789.xyz/douyu1.php?id=231464
+鐑垶181,http://epg.112114.xyz/douyu/6852568
+鐑垶182,http://epg.112114.xyz/douyu/2556433
+鐑垶183,http://epg.112114.xyz/douyu/8504956
+鐑垶185,http://epg.112114.xyz/douyu/40471
+鐑垶185,http://zzy789.xyz/douyu1.php?id=40471
+鐑垶187,http://epg.112114.xyz/douyu/1574329
+鐑垶188,http://epg.112114.xyz/douyu/3221207
+鐑垶188,http://zzy789.xyz/douyu1.php?id=3221207
+鐑垶189,http://epg.112114.xyz/douyu/8017332
+闊充箰190,http://epg.112114.xyz/douyu/8666210
+闊充箰190,http://zzy789.xyz/douyu1.php?id=8666210
+闊充箰191,http://epg.112114.xyz/douyu/8667755
+闊充箰191,http://zzy789.xyz/douyu1.php?id=8667755
+闊充箰192,http://epg.112114.xyz/douyu/123351
+闊充箰192,http://zzy789.xyz/douyu1.php?id=123351
+闊充箰193,http://epg.112114.xyz/douyu/8861179
+闊充箰193,http://zzy789.xyz/douyu1.php?id=8861179
+闊充箰194,http://epg.112114.xyz/douyu/7298478
+闊充箰195,http://epg.112114.xyz/douyu/5949064
+鏂扮増涓夊浗,http://zzy789.xyz/douyu1.php?id=276200
+鍥涘ぇ鍚嶈憲,http://epg.112114.xyz/douyu/1046540
+鍥涘ぇ鍚嶈憲,http://zzy789.xyz/douyu1.php?id=1046540
+鍥涘ぇ鍚嶈憲,https://cn-nmghhht-cu-live-03.bilivideo.com/live-bvc/725073/live_3002469_4192488.m3u8
+瀹舵湁鍎垮コ,http://epg.112114.xyz/douyu/6648727
+瀹舵湁鍎垮コ,http://zzy789.xyz/douyu1.php?id=6648727
+鐪熷疄妗堜緥,http://epg.112114.xyz/douyu/922564
+鐪熷疄妗堜緥,http://zzy789.xyz/douyu1.php?id=922564
+鐕曞弻楣扮郴鍒�,http://epg.112114.xyz/douyu/3439096
+鐕曞弻楣扮郴鍒�,http://zzy789.xyz/douyu1.php?id=3439096
+绁炴帰鐙勪粊鏉�,http://epg.112114.xyz/douyu/6027991
+绁炴帰鐙勪粊鏉�,http://zzy789.xyz/douyu1.php?id=6027991
+
+
+锘筐焽焽抽椊鍗楀崄浜屽ぇ缇庡コ,#genre#
+
+鐖变汉璺熶汉璧�,https://vd3.bdstatic.com/mda-jdvnru13349ke17c/mda-jdvnru13349ke17c.mp4
+鐪熸儏鏀炬按娴�,https://vd4.bdstatic.com/mda-jdv0dv5eaazejkx8/mda-jdv0dv5eaazejkx8.mp4
+鍒濇亱,https://vd2.bdstatic.com/mda-jecre7pwujhk9za9/mda-jecre7pwujhk9za9.mp4
+鏈嬪弸鎯�,https://vd4.bdstatic.com/mda-jdvp9fphc27r6g5e/v1-cae/sc/mda-jdvp9fphc27r6g5e.mp4
+浜虹敓鐨勭涓€姝�,https://vd2.bdstatic.com/mda-jdsnd19m47jrqp4d/mda-jdsnd19m47jrqp4d.mp4
+鐖辨儏鐨勯獥瀛愭垜闂綘 ,https://vd3.bdstatic.com/mda-jgni2nehaktwd4mh/mda-jgni2nehaktwd4mh.mp4
+鐑ч厭璇�,https://vd3.bdstatic.com/mda-jdvphdexuphgijzt/v1-cae/sc/mda-jdvphdexuphgijzt.mp4
+鏈嬪弸鎯�,https://vd4.bdstatic.com/mda-jdvp9fphc27r6g5e/v1-cae/sc/mda-jdvp9fphc27r6g5e.mp4
+鍏嶉ギ浜哄厛閱�,https://vd2.bdstatic.com/mda-jenpdh07589ewyb2/v1-cae/mda-jenpdh07589ewyb2.mp4
+鍙垜鎬庝箞娲讳笅鍘�,https://vd2.bdstatic.com/mda-jf5jsiurjv9fraya/v1-cae/mda-jf5jsiurjv9fraya.mp4
+鏃犲僵鎴戠埍浣�,https://vd3.bdstatic.com/mda-kh9zv2u98phv1v39/default/bd265_nowatermark/mda-kh9zv2u98phv1v39.mp4
+寰屾倲鐖变笂浣�,https://vd2.bdstatic.com/mda-je6u5fedd3sf9w5s/mda-je6u5fedd3sf9w5s.mp4
+鏁呬埂,https://vd2.bdstatic.com/mda-jdtqamrw3x3j7uxj/sc/mda-jdtqamrw3x3j7uxj.mp4
+蹇冪棝,https://vd4.bdstatic.com/mda-jdmf95qce2mj8mmg/v1-cae/mda-jdmf95qce2mj8mmg.mp4
+蹇�,https://vd2.bdstatic.com/mda-je1d1ywww05g1e45/v1-cae/sc/mda-je1d1ywww05g1e45.mp4
+鐖辨嫾鎵嶄細璧�,https://vd1.bdstatic.com/mda-hc6petr0yeuhsnwe/mda-hc6petr0yeuhsnwe.mp4
+鐖变汉璺熶汉璧�,https://vd3.bdstatic.com/mda-jdvnru13349ke17c/v1-cae/sc/mda-jdvnru13349ke17c.mp4
+娴瓙鐨勫績鎯�,https://vd3.bdstatic.com/mda-jircwmh3x254qy3a/v1-cae/mda-jircwmh3x254qy3a.mp4
+鍏嶅け蹇�,https://vd4.bdstatic.com/mda-je7nte3m37r5t44a/hd/mda-je7nte3m37r5t44a.mp4
+鏈嬪弸鎯�,https://vd2.bdstatic.com/mda-je1fedk1gxdg229j/v1-cae/hd/mda-je1fedk1gxdg229j.mp4
+鍙€滅殑浜�,https://vd3.bdstatic.com/mda-je7mtzyr5cybtyr8/v1-cae/hd/mda-je7mtzyr5cybtyr8.mp4
+鍠滄骞蹭竴鏉�,https://vd3.bdstatic.com/mda-jdrg91sn0bat1f74/hd/bd265_cae_delogo/1644145443442392086/mda-jdrg91sn0bat1f74.mp4
+鏉腑褰�,https://vd2.bdstatic.com/mda-jdnnsnviqbzm3sm9/v1-cae/hd/mda-jdnnsnviqbzm3sm9.mp4
+鎬濇厱鐨勫舰褰�,https://vd3.bdstatic.com/mda-je5pb5t9em3841zv/hd/bd265_cae_delogo/1648225091349038647/mda-je5pb5t9em3841zv.mp4
+浜虹敓鐨勭涓€姝�,https://vd1.bdstatic.com/mda-hj3j627k0yf2ycbr/vs-10823507f6723f1b8f49bff37417885d-watermark/hd/mda-hj3j627k0yf2ycbr.mp4
+鍙€滅殑浜�,https://vd3.bdstatic.com/mda-je7mtzyr5cybtyr8/v1-cae/hd/mda-je7mtzyr5cybtyr8.mp4
+鐪熸儏涔庝汉鍑哄崠,https://vd4.bdstatic.com/mda-jdppgc8yq1g41zw6/mda-jdppgc8yq1g41zw6.mp4
+濂嬫枟鐨勬瓕鎵�,https://vd4.bdstatic.com/mda-jdjnz2n9v2ennnmi/mda-jdjnz2n9v2ennnmi.mp4
+姝屽０鎭嬫儏,https://vd3.bdstatic.com/mda-jdpp3nkwjb6k8c50/hd/bd265_cae_delogo/1647594846777454740/mda-jdpp3nkwjb6k8c50.mp4
+鐢峰効鐨勫績鎯�,https://vd3.bdstatic.com/mda-je2m1at3xxm8k5sh/hd/bd265_cae_delogo/1648504547433964038/mda-je2m1at3xxm8k5sh.mp4
+涓轰綘鎵撴嫾,https://vd4.bdstatic.com/mda-jfmmhyrpec3bt2gy/v1-cae/hd/mda-jfmmhyrpec3bt2gy.mp4
+
+馃嚬馃嚰鍙版咕褰╄櫣,#genre#
+
+IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+IBizaHDTV,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+Extasy/LeoTV,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+1Pondo-053017_533  鎮剁刀锛佺編濂�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-053017_533/index.m3u8
+1Pondo-060117_534  钘や簳銇仾,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060117_534/index.m3u8
+1Pondo-060317_535 鐫€鐗┿伄浼煎悎娣贡 鍗楁銈屻亜銇�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060317_535/index.m3u8
+1Pondo-060617_536  澶у櫞灏勶紒娼惞,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060617_536/index.m3u8
+1Pondo-061317_539  涓婂師鑼夊挷,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061317_539/index.m3u8
+1Pondo-061517_540 绱犱汉瀹呰í鍟� 瀹枔钁�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061517_540/index.m3u8
+1Pondo-061717_541 鍒舵湇澶╀娇 銈傘倐銇嶅笇,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061717_541/index.m3u8
+1Pondo-062117_001 姘寸潃 鐧界煶楹楀,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062117_001/index.m3u8
+1Pondo-062317_543  灞变腑楹楀瓙,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062317_543/index.m3u8
+1Pondo-062717_545  鏈悏銈娿倞,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062717_545/index.m3u8
+1Pondo-062817_001  褰╂尝鏈夌磤,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062817_001/index.m3u8
+1Pondo-063017_546  闊虫捣銇曘倓,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-063017_546/index.m3u8
+1Pondo-070117_547  鍙岃憠銇裤亰 鏈濇瘮濂堣彍銆呭瓙,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070117_547/index.m3u8
+1Pondo-070517_001 姘寸潃 鏈濇瘮濂堣彍銆呭瓙,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070517_001/index.m3u8
+1Pondo-070817_550  銈嗐亞銇嶇編缇�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070817_550/index.m3u8
+1Pondo-071117_001  銇曘亸銈夈伩銈嗐亶,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071117_001/index.m3u8
+1Pondo-071417_552  鏈濇瘮濂堣彍銆呭瓙,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071417_552/index.m3u8
+1Pondo-071817_554 鎾奖浼氱敓涓嚭 杈汇儲銈�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071817_554/index.m3u8
+1Pondo-072017_555 缇庡コ銇編鑴氾紒鐪熺惔銈娿倗銇�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072017_555/index.m3u8
+1Pondo-072217_556  澶у挷钀�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072217_556/index.m3u8
+1Pondo-072517_557  鍊夌敯楹荤磤,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072517_557/index.m3u8
+1Pondo-072617_001  鍙岃憠銇裤亰,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072617_001/index.m3u8
+1Pondo-072817_558  绫冲€夈伄銇�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072817_558/index.m3u8
+1Pondo-080417_001 浠婃潙鍔犲瀛�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080417_001/index.m3u8
+1Pondo-080417_002  缇庨瓟濂� 鍗楁銈屻亜銇�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080417_002/index.m3u8
+1Pondo-080617_562  绁炵敯銈嬨仾,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080617_562/index.m3u8
+1Pondo-080815_130 涓€鏈亾  閰掍簳銈傘倐銇�,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-080815_130/index.m3u8
+1Pondo-080917_563  瑕虫湀濂�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080917_563/index.m3u8
+1Pondo-081115_131 涓€鏈亾 涓婇噹鐪熷缇� 钖勫垢娣贡鏈骸浜�,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081115_131/index.m3u8
+1Pondo-081215_132 涓€鏈亾 鑲夋缇╂瘝 鏉戜笂娑煎瓙,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081215_132/index.m3u8
+1Pondo-081217_565 浠曚簨銇簿娆叉椇鐩�  姹熸尝銈娿倕銇�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081217_565/index.m3u8
+1Pondo-081315_133 涓€鏈亾 鐚韩浠嬭澹獚瀹氳│  娉㈠閲庣祼琛�,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081315_133/index.m3u8
+1Pondo-081317_566  鍜蹭箖鏌戣彍,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081317_566/index.m3u8
+1Pondo-081415_134 涓€鏈亾 鎰熻瑵闅涳紒绉嬮噹鍗冨皨锛�,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081415_134/index.m3u8
+1Pondo-081515_135 涓€鏈亾  婊濆窛銈ㄣ儶銉�,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081515_135/index.m3u8
+1Pondo-081517_567 榄旀€с伄鑲変綋 鍚嶆尝銉儕,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081517_567/index.m3u8
+1Pondo-081615_136 涓€鏈亾  纰с仐銇�,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081615_136/index.m3u8
+1Pondo-081717_568 娼惞鐥村コ锛� 瀹夊煄銈兂銉�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081717_568/index.m3u8
+1pondo-081815_137 涓€鏈亾  缇庡挷绲愯。,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081815_137/index.m3u8
+1Pondo-081915_138 涓€鏈亾  缇庡法涔崇編鐔熷コ銇甋ex  ASUKA,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081915_138/index.m3u8
+1Pondo-082115_139 涓€鏈亾  鐩哥敯鐬� 妤电窗寰钩闀疯韩缇庡コ,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082115_139/index.m3u8
+1Pondo-082215_140 涓€鏈亾 娓呮按鐞嗙礂,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082215_140/index.m3u8
+1Pondo-082217_570  榄呮儜銇亰鎴� 鍧傝タ鐪熺敱缇�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-082217_570/index.m3u8
+1Pondo-082515_141 涓€鏈亾 Sky Angel  鏃╁窛銉偆,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082515_141/index.m3u8
+1Pondo-082617_572  缇庝汉OL 濡傛湀銈搞儱銉�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-082617_572/index.m3u8
+1Pondo-082715_142 涓€鏈亾  鏂版湪銇俱仼銇�,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082715_142/index.m3u8
+1Pondo-082917_573 灏昏唤濂� 涓噹銈嗐亞,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-082917_573/index.m3u8
+1Pondo-083117_574  鍖楁潯楹诲,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-083117_574/index.m3u8
+1Pondo-090117_001  缇芥湀銉熴儶銈�,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-090117_001/index.m3u8
+1Pondo-090117_002  搴冪€娲ョ編,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-090117_002/index.m3u8
+1Pondo-090217_575  绲愬笇鐪熺惔,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-090217_575/index.m3u8
+1Pondo-091815_155  鏈ㄦ潙缇庣窘 浣欒涓夐€ｇ櫤妤典笂銇コ鍎�,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-091815_155/index.m3u8
+1Pondo-092215_157 妯＄壒  绁炲熬鑸�,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-092215_157/index.m3u8
+1Pondo-092515_160  宸ㄤ钩 娓呮按鐞嗙礂,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-092515_160/index.m3u8
+1Pondo-100115_163  缇庝汉姹� 钘や簳銇仾,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-100115_163/index.m3u8
+1Pondo-121518_783 涓€鏈亾  娓嬭胺銇俱仾銇�,http://videocdn.hndtl.com:8091/20181220/hd_1pondo-121518_783/index.m3u8
+1Q缇ゅ仠姝㈡洿鏂�,https://video2.51daao.com/btt1/2021/01/20210124/vUoWLMKt/index.m3u8
+1灏忔檪灏勬恫褰欑法锛�1,http://12156.vod.adultiptv.net/ph5c0d2241b1873/play.m3u8
+02锛夈€婂緸瀛楅潰涓婄湅鏄畬缇庣殑銆嬶細鍚愬嚭鍏夎姃...锛圡elena A锛�,http://13216.vod.adultiptv.net/ph5a5a29cd8ce2c/play.m3u8
+2?,https://video2.51daao.com/btt1/2021/01/20210128/3wDXV6Je/index.m3u8
+2 B锛乬 A $$ 3 $,http://11216.vod.redtraffic.xyz/ph585fa0c688e60/play.m3u8
+2Q缇ゅ仠姝㈡洿鏂�,https://video2.51daao.com/btt1/2021/02/20210207/WreGPEg7/index.m3u8
+2teens 1teacher,http://12156.vod.redtraffic.xyz/ph5aed99a349f8f/play.m3u8
+2鍊嬬敺鐢�1鍊嬪コ瀛�,http://1465.vod.adultiptv.net/ph57cb852b3b67f/play.m3u8
+2鎷変竵瑁旂啽鎯呭湴鎺ュ惢,http://10238.vod.adultiptv.net/ph5bf3984866974/play.m3u8
+3?,https://video2.51daao.com/btt1/2021/02/20210224/E61AhMeH/index.m3u8
+3D HENTA闈掑皯骞撮粦鑹查牠楂コ瀛〨ANGBANG,http://1244.vod.redtraffic.xyz/ph5b8d7b32bc7bd/play.m3u8
+3Q缇ゅ仠姝㈡洿鏂�,https://video2.51daao.com/btt1/2021/02/20210207/TYnvo7Nk/index.m3u8
+3rdmovies-璁撴垜鎿嶆垜鐨勫コ鍏払FF,http://21470.vod.redtraffic.xyz/ph56822b47cfb7a/play.m3u8
+3way lop澶ф埌鍒╁搧Twerk閻垫】浠栧鐨勶紒Karmen Karma鍜孠issa Sins,http://21470.vod.redtraffic.xyz/ph59f255ffa18ac/play.m3u8
+4?,https://video2.51daao.com/btt1/2021/02/20210224/ymPaAsvE/index.m3u8
+4 PornHub涓婄殑涓€浜涙€ф剾娲惧皪锛�,http://1465.vod.adultiptv.net/ph5b09b29af3318/play.m3u8
+4K Tiny Blonde Hope闇€瑕佹渶澶х殑璺ㄧó鏃忛粦鍏洖锛�,http://6122.vod.redtraffic.xyz/ph57ab11cc391f2/play.m3u8
+4K锛堣秴楂樻竻锛�-Alena LamLam,http://1465.vod.redtraffic.xyz/ph5aac1c7e576ad/play.m3u8
+4K锛堣秴楂樻竻锛�-Kriss Kiss,http://6122.vod.adultiptv.net/ph5ab40d1e2cba1/play.m3u8
+4K鍗＄壒閲屽棰堕ⅷ鐜夛紙Katrina Jade锛夎鏈€澶х殑榛戝叕闆烇紙Biggest Black Cock锛夐Υ鏈嶏紒,http://12204.vod.adultiptv.net/ph581c977b370f1/play.m3u8
+4K鍙剾鐨勫崡鏂瑰コ瀛╁媺寮锋帴鍙楅亷鏈夊彶浠ヤ締鏈€澶х殑榛戝叕闆烇紒,http://12156.vod.redtraffic.xyz/ph57b1bd2ea3f93/play.m3u8
+4K璩界惓濞溌锋濉旂磵锛圫elena Santana锛夌殑鍏у績琚獶redd锛侀噸鏂颁綀缃簡,http://13216.vod.redtraffic.xyz/ph587f4e9420594/play.m3u8
+4Q缇ゅ仠姝㈡洿鏂�,https://video2.51daao.com/btt1/2021/01/20210129/d9ab6For/index.m3u8
+4鑰佹贩铔嬪皬鐢峰鑲�,http://10238.vod.adultiptv.net/ph5bf862484bd41/play.m3u8
+5?,https://video2.51daao.com/btt1/2021/02/20210212/zWfTUXZt/index.m3u8
+5 GIRL NAKED RUN IN SCHOOL,http://218158.vod.adultiptv.net/ph5bb20e892be0e/play.m3u8
+5Q缇ゅ仠姝㈡洿鏂�,https://video2.51daao.com/btt1/2021/01/20210129/f5Xha65H/index.m3u8
+7鏈�4鏃モ€滄剾涓夎鈥濅腑鐨勨€滅辜姣嶁€濆拰鈥滅辜姣嶅濯解€�,http://12204.vod.adultiptv.net/ph57f6d8383dfa4/play.m3u8
+7鏈�4鏃ヤ笁浜鸿鑸囬潚灏戝勾姝ラ濂冲厭鍜岀啽BFF锛丼3锛欵3,http://12156.vod.redtraffic.xyz/ph5b34085a8c5ed/play.m3u8
+8绋笉鍚岄鍨嬬殑cumsot鍙嶆噳-GEMCUTTER CUMBLAST褰欑法,http://11216.vod.redtraffic.xyz/ph5861d4a963acf/play.m3u8
+10musume-053017_01   妫伨銈�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-053017_01/index.m3u8
+10musume-060617_01   鐪嬭甯� 宀搞亗銈勩伃,http://videocdn.quweikm.com:8091/20181101/hd_10musume-060617_01/index.m3u8
+10musume-061017_01   鍒舵湇鏅備唬 锝� 鏈濇瘮濂堛伩銇伩,http://videocdn.quweikm.com:8091/20181101/hd_10musume-061017_01/index.m3u8
+10musume-061517_01   瀹墠銇撱仺銇�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-061517_01/index.m3u8
+10musume-061717_01  鍊夌敯楹荤磤,http://videocdn.quweikm.com:8091/20181101/hd_10musume-061717_01/index.m3u8
+10musume-062017_01   涓讳汉妲� 闁€鍊夈倎銇愩伩,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062017_01/index.m3u8
+10musume-062417_01   绱犱汉銇粫浜� 锝� 绔嬭姳閲屽,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062417_01/index.m3u8
+10musume-062917_01    鍒舵湇鏅備唬 锝� 妤犳湪鐪熷缇�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062917_01/index.m3u8
+10musume-070117_01   涓潙銇层亱銈�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-070117_01/index.m3u8
+10musume-070817_01   娴磋。 椋敯涔呭疅瀛�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-070817_01/index.m3u8
+10musume-071117_01  绱犱汉AV闈㈡帴 锝� 婊濆窛銇°仌,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071117_01/index.m3u8
+10musume-071317_01    绉樿數 鑿呴噹銇裤倝銇�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071317_01/index.m3u8
+10musume-071517_01   绱犱汉鍒濇挳娴磋。銇甋M锝� 钘嶅師鍎,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071517_01/index.m3u8
+10musume-071715_01  澶╃劧绱犱汉 閫忔槑涓弧瓒�,http://videocdn.hndtl.com:8091/20181220/hd_10musume-071715_01/index.m3u8
+10musume-071717_01   銇ゃ倠銇倖銇�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071717_01/index.m3u8
+10musume-071817_01   銇俱仌銇�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071817_01/index.m3u8
+10musume-071915_01  SEX!鏍煎ソ 浣愩€呮湪鎰涚編,http://videocdn.hndtl.com:8091/20181220/hd_10musume-071915_01/index.m3u8
+10musume-072217_01   鍒舵湇鏅備唬 锝� 娴呭€夈伄銇┿亱,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072217_01/index.m3u8
+10musume-072517_01    闁€鍊夈倎銇愩伩,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072517_01/index.m3u8
+10musume-072917_01  娉″Й濞橈綖 鏈濆窛銇撱亾銇�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072917_01/index.m3u8
+10musume-080117_01    璞婂磶銇嬨仾銇�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-080117_01/index.m3u8
+10musume-080517_01  AV闈㈡帴 锝炵鍫磋帀绶�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-080517_01/index.m3u8
+10musume-080815_01 缇庡锝�  浣愩€呮湪銇嗐伄,http://videocdn.hndtl.com:8091/20181231/hd_10musume-080815_01/index.m3u8
+10musume-080817_01  鍒舵湇濮匡綖 鏉剧敯鐞嗘矙瀛�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-080817_01/index.m3u8
+10musume-081015_01   宸ㄤ钩濞� 钁夊北妤�,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081015_01/index.m3u8
+10musume-081115_01  閰掗２濞橈綖娴滃磶銇嬨仾,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081115_01/index.m3u8
+10musume-081117_01   閲庛€呮潙銇傘亜銈�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081117_01/index.m3u8
+10musume-081217_01   銇亣锝炵潃鎻�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081217_01/index.m3u8
+10musume-081317_01   Best30 Part 2,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081317_01/index.m3u8
+10musume-081415_01  鍒濅綋楱�,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081415_01/index.m3u8
+10musume-081515_01    瀹湰銈嬨伩,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081515_01/index.m3u8
+10musume-081615_01 缇庨銇叆闁€ 娌㈤噹缇庨,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081615_01/index.m3u8
+10musume-081617_01   Best30 Part 3,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081617_01/index.m3u8
+10musume-081815_01   绉樿數锝� 鏈夐Μ缇庡竼,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081815_01/index.m3u8
+10musume-082015_01  纰鸿獚锝� 瀹湰銈嬨伩,http://videocdn.hndtl.com:8091/20181231/hd_10musume-082015_01/index.m3u8
+10musume-082115_01    鍑﹀コ鍠け,http://videocdn.hndtl.com:8091/20181231/hd_10musume-082115_01/index.m3u8
+10musume-082215_01  鎰涚編  浣愩€呮湪鎰涚編,http://videocdn.hndtl.com:8091/20181231/hd_10musume-082215_01/index.m3u8
+10musume-082217_01   鍒舵湇鏅備唬锝� 涓夊磶銇堛倞,http://videocdn.quweikm.com:8091/20181101/hd_10musume-082217_01/index.m3u8
+10musume-082515_01   鑷參銇荡琛�  璋蜂腑鏅寸編,http://videocdn.hndtl.com:8091/20181231/hd_10musume-082515_01/index.m3u8
+10musume-082617_01   濮噹鏈潵,http://videocdn.quweikm.com:8091/20181101/hd_10musume-082617_01/index.m3u8
+10musume-083117_01    灏忔并銇嬨倢銈�,http://videocdn.quweikm.com:8091/20181101/hd_10musume-083117_01/index.m3u8
+10musume-092115_01   SEX鍒濅綋楱搤缍剧€伨銈�,http://videocdn.hndtl.com:8091/20190331/hd_10musume-092115_01/index.m3u8
+10musume-092515_01   绱犱汉锛★级闈㈡帴  鐝惧焦缇庡甯�  钘ょ敯鐢辩編瀛�,http://videocdn.hndtl.com:8091/20190331/hd_10musume-092515_01/index.m3u8
+10musume-121518_01     鐢熶腑鍑� 鐎埜鎰涜帀,http://videocdn.hndtl.com:8091/20181220/hd_10musume-121518_01/index.m3u8
+10灏忎簽娲蹭汉16-鍫存櫙3,http://1244.vod.redtraffic.xyz/ph56b4299c58ba3/play.m3u8
+11鐔卞コ鍚屾€ф垁涔嬪惢,http://1244.vod.redtraffic.xyz/ph5baafe340bca3/play.m3u8
+12鑻卞榛戣壊鍏洖閲嶆搳鐧戒汉濂冲褰欑法,http://6122.vod.adultiptv.net/ph57cdc491da210/play.m3u8
+13锛夎帿鑾夛紙aka Regina CL-Erotic锛�,http://6122.vod.redtraffic.xyz/ph59e763c175f91/play.m3u8
+14,https://2.ddyunbo.com/20191008/uI8rwtGb/index.m3u8
+15,https://2.ddyunbo.com/20191007/w4IeM92g/index.m3u8
+16,https://2.ddyunbo.com/20191007/qISqWik0/index.m3u8
+17,https://2.ddyunbo.com/20191007/IFlq5eON/index.m3u8
+18,https://2.ddyunbo.com/20191007/7G1CWNc8/index.m3u8
+18 Years Old Tight Pussy Getting Fucked,http://12156.vod.redtraffic.xyz/ph5ad4e021dbc0a/play.m3u8
+18 yo Asian Creampie-涓湅浜ゆ祦瀛哥敓,http://10238.vod.redtraffic.xyz/ph5aa528fd01031/play.m3u8
+18 YO浜炴床Pinoy鍠厠绲傛柤璁婂緱鏈変簺璨撱€傚畠姘搁仩瀛樺湪锛�,http://60106.vod.redtraffic.xyz/ph5b57963be63d7/play.m3u8
+18videoz-Gf璩ｇ郸涓変汉绲勪粬濯界殑,http://13216.vod.adultiptv.net/ph590c19a12225e/play.m3u8
+18videoz-Stephanie Moon-Teeny鎬т氦杌熶欢,http://1244.vod.adultiptv.net/ph5b4c36e6699ec/play.m3u8
+18videoz-鍦ㄥス18姝茬殑鏅傚€欙紝濂规瘡澶╄鎿�3娆�,http://13216.vod.adultiptv.net/ph59291729cc07e/play.m3u8
+18videoz-濂规兂瑕佹洿澶氱従閲戝拰鎬ф剾,http://60106.vod.adultiptv.net/ph58afd0e7dfc1c/play.m3u8
+18videoz-鎱剁娲诲嫊璁婃垚鐙傛,http://10238.vod.redtraffic.xyz/ph594766194ee17/play.m3u8
+18videoz-鎿嶄粬锛屾垜鍊戝幓閫涜锛�,http://12204.vod.redtraffic.xyz/ph58ee00f21fb70/play.m3u8
+18videoz-妤电娓噺閭勬槸楠珤鐨勫够鎯筹紵,http://1465.vod.redtraffic.xyz/ph58e36ada5f4fc/play.m3u8
+18videoz-闆欓噸璐忓埄,http://12204.vod.adultiptv.net/ph59534c4c4226b/play.m3u8
+18yo Latina TEEN鎺″彇浜嗗ス鐨勭涓€鍊嬪法澶х殑鍏洖鍜屽皷鍙€�,http://21470.vod.redtraffic.xyz/ph5c243241c676b/play.m3u8
+18yo榛戣壊闈掑皯骞寸殑鑴傝偑灞佽偂 琚法澶х殑鐧借壊鍏洖閼介€层€�,http://218158.vod.adultiptv.net/ph5ad5906143094/play.m3u8
+18姝插コ瀛╁仛鑹叉儏,http://13216.vod.redtraffic.xyz/ph56f264dc5b051/play.m3u8
+18姝茬殑FUCKS HER鑰佸斧,http://21470.vod.adultiptv.net/ph5bfed38aaa93a/play.m3u8
+18姝茬殑浜炴床浜鸿畵濂圭殑璨撳厖婊夸簡鏆�,http://6122.vod.adultiptv.net/ph5bb6703d100c8/play.m3u8
+18姝茬殑瀣屽皬闈掑皯骞寸嵅寰楃啽椁�4K,http://13216.vod.redtraffic.xyz/ph5b9bd88cca220/play.m3u8
+18姝茬殑鎬墿鍏洖闈掑皯骞翠粬濯界殑瀛告牎寰皬鐨勬媺涓佸コ瀛�,http://1244.vod.adultiptv.net/ph5b57963b8eb42/play.m3u8
+18姝茬殑璨濊矟鍦ㄥ崍澶滅敤闆昏┍鎼炵牳涓︽媿鏀濅簡褰辩墖-MiaQueen,http://10238.vod.redtraffic.xyz/ph5a9eaa039a050/play.m3u8
+18姝茬殑閲戠櫦灏戝勾鑸囨紓浜殑灞佽偂琚挒,http://1465.vod.adultiptv.net/ph56b29f154b955/play.m3u8
+18姝茬殑闈掑皯骞寸敤绮炬恫瑕嗚搵,http://11216.vod.redtraffic.xyz/ph5663c237d9b16/play.m3u8
+18鑲涢杸,http://12204.vod.redtraffic.xyz/ph593d76c75c52f/play.m3u8
+19,https://2.ddyunbo.com/20191004/rURK4pfY/index.m3u8
+19 YO Lizzy琚敺浜哄鑰佺殑鐢蜂汉渚电姱浜嗭紒,http://12204.vod.adultiptv.net/ph5a45c6658c8a7/play.m3u8
+19YO Nympho鍍忓皥妤汉澹竴妯ｅ悶鍤ュ拰浜傛悶鍏洖,http://12156.vod.adultiptv.net/ph56622c44a9b03/play.m3u8
+19姝茬殑涓湅绌哄鍦ㄨ＝鏈嶄腑鎬т氦,http://12156.vod.redtraffic.xyz/ph5884e9bf38c35/play.m3u8
+19姝茬殑鎷抽牠濂硅嚜宸辩殑闄版埗鍜屾瘡涓€鍊嬪湴鏂归兘鍣�,http://10238.vod.redtraffic.xyz/ph5817b7461022c/play.m3u8
+19姝茶倹闁€鍦ㄧ窔鑱挱,http://13216.vod.redtraffic.xyz/ph587c00b7ecac8/play.m3u8
+20,https://2.ddyunbo.com/20191004/FxbqgEFY/index.m3u8
+20姝茬殑濂冲ぇ瀛哥敓鐜╄亰澶�,http://12204.vod.adultiptv.net/ph5a33292f403f7/play.m3u8
+20缇庡厓Real Thai Massage and blowjob with sperm swollow,http://1244.vod.redtraffic.xyz/ph5a03d56928597/play.m3u8
+21,https://2.ddyunbo.com/20191004/3T6aTxbN/index.m3u8
+22,https://2.ddyunbo.com/20191004/GKWK7Q5F/index.m3u8
+22) Molly (a.k.a Regina CL-Erotic),http://12204.vod.adultiptv.net/ph59e72adcd4c2f/play.m3u8
+23,https://2.ddyunbo.com/20191004/HjrnnnDD/index.m3u8
+23鍒嗛悩鍏�29鐪兼痪鍕曢珮娼拰40娆＄疮鍔犺級鑽�,http://10238.vod.redtraffic.xyz/ph597e34fc0c254/play.m3u8
+
+馃嚬馃嚰鍙版咕绾㈡澗,#genre#
+Biza Media,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+
+Blue Hustler 18+,http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
+Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+XXX : CONNECT XXX,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126172
+XXX : CONNECT XXX 1,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126173
+XXX : CONNECT XXX 2,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126174
+XXX : CONNECT XXX 3,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126175
+XXX : CONNECT XXX 4,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126176
+XXX : CONNECT XXX 5,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126177
+XXX : CONNECT XXX 6,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126178
+XXX : CONNECT XXX 7,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126179
+钃濊壊楠楀瓙,http://schnupfistreamer.hopto.me:55875/kikiSat/LlpAxpCFdu/688
+娆�1,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+娆�1,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+
+EROX,http://94.229.250.73:8008/play/a002
+Eroxxxhd,http://94.229.250.73:8008/play/a002
+XXL,http://85.14.32.15:8801/udp/224.100.1.151:56000
+娆х編2[1280*720],http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+娆х編5[1280*720],http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+娆х編7[1280*720],http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+娆х編8[1280*720],http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+娆х編9[1280*720],http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+娆х編12[1280*720],http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+涓夋湰閬�,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+浜屾湰閬�,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+涓€鏈亾,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+
+
+
+1,http://ott3.alwaysdata.net/live/lv.php?id=32
+2,http://ott3.alwaysdata.net/live/lv.php?id=31
+3,http://ott3.alwaysdata.net/live/lv.php?id=30
+4,http://ott3.alwaysdata.net/live/lv.php?id=29
+5,http://ott3.alwaysdata.net/live/lv.php?id=28
+6,http://ott3.alwaysdata.net/live/lv.php?id=27
+ 7,http://ott3.alwaysdata.net/live/lv.php?id=26
+8,http://ott3.alwaysdata.net/live/lv.php?id=25
+9,http://ott3.alwaysdata.net/live/lv.php?id=24
+
+钃濊壊楠楀瓙,http://schnupfistreamer.hopto.me:55875/kikiSat/LlpAxpCFdu/688
+
+涓夋湰閬�,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+浜屾湰閬�,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+涓€鏈亾,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+Vod1,https://pornercdns.com/hls/0067000/67291/fullhd/fullhd.m3u8
+Vod2,https://pornercdns.com/hls/0073000/73268/hd/hd.m3u8
+Vod3,https://pornercdns.com/hls/0073000/73269/hd/hd.m3u8
+Vod4,https://pornercdns.com/hls/0073000/73270/hd/hd.m3u8
+Vod5,https://pornercdns.com/hls/0073000/73271/hd/hd.m3u8
+Vod6,https://pornercdns.com/hls/0073000/73272/hd/hd.m3u8
+Vod7,https://pornercdns.com/hls/0073000/73273/hd/hd.m3u8
+
+鍙版咕,#genre#
+CNN,mitv://ns2.hellotvvod.com:9906/5ae877d0e1b94ca9af3eb8c2810b5f6a.ts
+姘戣,mitv://ns2.hellotvvod.com:9906/0394bf5e709f4d7690f2983884f71a16.ts
+浜洪棿鍗,mitv://ns2.hellotvvod.com:9906/d8aad5849a464c12a4e024bb8ef94561.ts
+鍙拌,mitv://ns2.hellotvvod.com:9906/a7ecfaa54e7c454c8e433973c210c45d.ts
+澶х埍,mitv://ns2.hellotvvod.com:9906/b53b2f02f1434250b8a20375f56eb672.ts
+涓,mitv://ns2.hellotvvod.com:9906/26d6e9e08250439e893b4050d0a31396.ts
+闇归洺鍙版咕鍙�,mitv://ns2.hellotvvod.com:9906/3f424585fa2f49408f94254e9ca0eae3.ts
+鍗庤,mitv://ns2.hellotvvod.com:9906/65b374a9331b4fd69f29447f48b36bc5.ts
+鍏,mitv://ns2.hellotvvod.com:9906/b40028b7c2fc4f6fb14a3ec384d1a665.ts
+鍏鍙拌鍙�,mitv://ns2.hellotvvod.com:9906/27d48d98825343428e0ca5feb6b89489.ts
+濂芥秷鎭�,mitv://ns2.hellotvvod.com:9906/4099e5a6e2fa4ac2b170bf7ac496838a.ts
+鍘熶綇姘戠數瑙嗗彴,mitv://ns2.hellotvvod.com:9906/6ee4a7eb0cb34caa82c4c6eb103374d8.ts
+瀹㈠鐢佃鍙�,mitv://ns2.hellotvvod.com:9906/f4ec2ea0ba924ecba4c66e2774d762ce.ts
+鍥藉鍦扮悊棰戦亾,mitv://ns2.hellotvvod.com:9906/a0ae74df367245b4a57229832487ee4e.ts
+鎺㈢储棰戦亾,mitv://ns2.hellotvvod.com:9906/53f1b40e94ec4acd85fe317ff18b44d4.ts
+TLC鏃呮父鐢熸椿,mitv://ns2.hellotvvod.com:9906/102b23c242424822801034e092dc953e.ts
+鍔ㄧ墿鏄熺悆,mitv://ns2.hellotvvod.com:9906/e1c1fc8ca1a849abbadec2974bf461c7.ts
+CN鍗￠€氶閬�,mitv://ns2.hellotvvod.com:9906/44a3fbe661a3475096d83a4f6ab5a867.ts
+MOMO浜插瓙鍙�,mitv://ns2.hellotvvod.com:9906/4e5c123cf1024951816fe67e61d49493.ts
+涓滄．骞煎辜鍙�,mitv://ns2.hellotvvod.com:9906/4c328660092e48948154b40f915221fa.ts
+绾潵缁煎悎鍙�,mitv://ns2.hellotvvod.com:9906/610474f1951f40e0b94b950a140878ea.ts
+鍏ぇ绗竴鍙�,mitv://ns2.hellotvvod.com:9906/b1b8d0b189664df8902ccfbf10cf9832.ts
+鍏ぇ缁煎悎鍙�,mitv://ns2.hellotvvod.com:9906/cc59958986a94b24890da991fe02daa8.ts
+涓夌珛鍙版咕鍙�,mitv://ns2.hellotvvod.com:9906/ddf476f41f794e2290a46f7eecc9055e.ts
+涓夌珛閮戒細鍙�,mitv://ns2.hellotvvod.com:9906/d35c3c66a2394d9a8e34beaafc32c6d4.ts
+涓滄．缁煎悎鍙�,mitv://ns2.hellotvvod.com:9906/83aadc1ce583452c8ce5e61c7d34b0b2.ts
+瓒呰,mitv://ns2.hellotvvod.com:9906/72274b099c2c48c8847910ec2970d23b.ts
+涓ぉ缁煎悎鍙�,mitv://ns2.hellotvvod.com:9906/c30e91ccdc7246fda4d32219627cacf0.ts
+涓ぉ濞变箰鍙�,mitv://ns2.hellotvvod.com:9906/f89fde09d7c64456b1109f9675b6dddb.ts
+涓滄．鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/23c5d481a1c04d8e8d01c51f5d9b17bd.ts
+鍏ぇ鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/eb2e28d7bacb477391df8f31bb517041.ts
+TVBS娆箰鍙�,mitv://ns2.hellotvvod.com:9906/80e84e6fee044e65942de58e5558df3c.ts
+绾潵鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/1341727ca5114ebaa31f8a2d6addd125.ts
+楂樼偣缁煎悎鍙�,mitv://ns2.hellotvvod.com:9906/5ef7efd85dd341248e96fa68f16a59e3.ts
+BBC World News,mitv://ns2.hellotvvod.com:9906/3111663d06d349b69c2df597860aa331.ts
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/2933c0d4267044b1b1a4231157bdeb5f.ts
+CNBC,mitv://ns2.hellotvvod.com:9906/35f90e1679854741b3187486a8981e7b.ts
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/272e1789dac349de97fccd5d8070b0bb.ts
+HITS,mitv://ns2.hellotvvod.com:9906/91f370e752c44d94b8a516ca9054e994.ts
+澹圭數瑙嗘柊闂诲彴,mitv://ns2.hellotvvod.com:9906/3f740a0d73f44a139ea28bf2b365aa8e.ts
+骞翠唬鏂伴椈,mitv://ns2.hellotvvod.com:9906/0b94b2babd86450f980db1ff668969a3.ts
+涓滄．鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/07cfc4d01b3c4068ac92fc95434f4427.ts
+涓ぉ鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/ffe8e8fa8e244b32bdec3b38a2f2b7aa.ts
+姘戣鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/fd4643e7a06540cb9a30c751f260132b.ts
+涓夌珛鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/684783b8b2184ee486966066ecfb276c.ts
+TVBS鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/4b77b4e4dd394bc6a869f3283d3c42d7.ts
+TVBS,mitv://ns2.hellotvvod.com:9906/8676c2405993453c9d41d4014d3a7481.ts
+涓滄．璐㈢粡鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/078d0c4531f24463b29579ecd6263d59.ts
+闈炲嚒鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/574771e316a048a1bff7bd31e355829c.ts
+鍗鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/48e5078c3a954232a6d182ece9409eb7.ts
+涓滄．鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/6dbd836f8b5542a1a3054b2487286f19.ts
+绾潵鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/4c315afe673041a88ee8125bb9caff4a.ts
+榫欑ゥ鐢靛奖,mitv://ns2.hellotvvod.com:9906/66704d7827ec46a08907c11e29ab2d30.ts
+HBO,mitv://ns2.hellotvvod.com:9906/75ea557adf07436aa61217f9468b54fb.ts
+涓滄．娲嬬墖鍙�,mitv://ns2.hellotvvod.com:9906/c33490e600e148b79fc7a3ce3dad55b8.ts
+AXN,mitv://ns2.hellotvvod.com:9906/7f91dfc2cae44e33946bc663d221c27c.ts
+濂借幈鍧炵數褰卞彴,mitv://ns2.hellotvvod.com:9906/4ccf820d465e47f78f5703217cef645a.ts
+CINEMAX,mitv://ns2.hellotvvod.com:9906/36471f86b15647c0948bc0975598752c.ts
+绾潵鑲蹭箰鍙�,mitv://ns2.hellotvvod.com:9906/62996e6e17b44b89a4aaa378103156cd.ts
+绾潵浣撹偛鍙�,mitv://ns2.hellotvvod.com:9906/0897e131ae134ca2a23447f8b1c23668.ts
+ELEVEN浣撹偛1鍙�,mitv://ns2.hellotvvod.com:9906/bdd2a8a8ae314ddb8dc8b63ba8b2eb77.ts
+绾潵鏃ユ湰,mitv://ns2.hellotvvod.com:9906/e04ee36381e54967b1719adb964bc70d.ts
+鍥藉叴鍗,mitv://ns2.hellotvvod.com:9906/a27ba50463934339bea55b098fd10d3e.ts
+FOX,mitv://ns2.hellotvvod.com:9906/47ce38eb89bc47029fc6521f94b56ce8.ts
+Z棰戦亾,mitv://ns2.hellotvvod.com:9906/da6d6450a3b14c9aad2ac1b8387f6858.ts
+Animax,mitv://ns2.hellotvvod.com:9906/47b8321da3884ef2990da7d870dcb770.ts
+灏煎厠鍎跨棰戦亾,mitv://ns2.hellotvvod.com:9906/95317efaec2c439d9715c94ca0e73145.ts
+MTV,mitv://ns2.hellotvvod.com:9906/5e1eaccb46e9499a92f59e59c490d9a7.ts
+鍏ぇ濞变箰鍙�,mitv://ns2.hellotvvod.com:9906/dca32915625c478a8bb977c1fcf05834.ts
+涓夌珛iNEWS,mitv://ns2.hellotvvod.com:9906/f0bfd3e089974625ae9ec1092d56507f.ts
+榫欏崕鍋跺儚,mitv://ns2.hellotvvod.com:9906/9aafe8e4d4cc47fbb978e85d19ac0a4d.ts
+Arirang,mitv://ns2.hellotvvod.com:9906/10e8045586584a01950286b038d574da.ts
+tvN,mitv://ns2.hellotvvod.com:9906/fef103e098ae429b8140ec9e0dc10be7.ts
+DW,mitv://ns2.hellotvvod.com:9906/5e3cbc2272774870884f7e84cb693c52.ts
+France24,mitv://ns2.hellotvvod.com:9906/1bdd8945ab41450a82209beb77923eaa.ts
+闈炲嚒鍟嗕笟鍙�,mitv://ns2.hellotvvod.com:9906/d6aa5577e7554c5db9d6a3a37a224386.ts
+鍏3鍙�,mitv://ns2.hellotvvod.com:9906/88e93a14d9d94a3e98bd84a38913f9ec.ts
+澶х埍2鍙�,mitv://ns2.hellotvvod.com:9906/223ca01e4e8f429da8a159510af39e18.ts
+ELTV鐢熸椿鑻辫鍙�,mitv://ns2.hellotvvod.com:9906/d5ab8780f4b74801b2c8ed675c8e49ec.ts
+闈栨磱鍗￠€歂ice Bingo,mitv://ns2.hellotvvod.com:9906/664d5cb7798f443b8fb104e261cd7a1a.ts
+闈栧ぉ鍗￠€氬彴,mitv://ns2.hellotvvod.com:9906/eb98f5782ffc41f6bd2bb1a31eb50eea.ts
+杈炬枃瑗块閬�,mitv://ns2.hellotvvod.com:9906/73fb4c16983c472bb5c7a6946dd30f6d.ts
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/cf26154ca9e04f92a38b2572e8b3f1e8.ts
+鍥戒細棰戦亾1,mitv://ns2.hellotvvod.com:9906/114aa7d0a8af4d41992a03cae4003e0d.ts
+鍥戒細棰戦亾2,mitv://ns2.hellotvvod.com:9906/6e061de5d4574debb41706a65e513d3c.ts
+MTV Live,mitv://ns2.hellotvvod.com:9906/7c27e4e9f495427986b87f23c4426cbc.ts
+Mezzo Live,mitv://ns2.hellotvvod.com:9906/13974c3b753a4b7fa240d7c8697235a7.ts
+CLASSICA 鍙ゅ吀涔�,mitv://ns2.hellotvvod.com:9906/f8a91d76248e443c8847fae81887888d.ts
+CMusic,mitv://ns2.hellotvvod.com:9906/32c742738d3949a99963fe5d59613326.ts
+TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/b02bf8302e5e44daa585d4fc21f92e7d.ts
+鍗氭柉楂樼悆,mitv://ns2.hellotvvod.com:9906/de1bd896c5d9476f8344d428264cf268.ts
+鍗氭柉楂樼悆浜屽彴,mitv://ns2.hellotvvod.com:9906/ec378e331cd64dbbbbd3730977c04469.ts
+鍗氭柉缃戠悆鍙�,mitv://ns2.hellotvvod.com:9906/2a7084493c204e2b910c6b42b6703e4f.ts
+鍗氭柉榄呭姏缃�,mitv://ns2.hellotvvod.com:9906/53b5eef4a40744ac86d35b035f4428b2.ts
+鍗氭柉鏃犻檺鍙�,mitv://ns2.hellotvvod.com:9906/f8e5141856a14502bf9581fc546208a1.ts
+鍗氭柉鏃犻檺浜屽彴,mitv://ns2.hellotvvod.com:9906/05648d7433be4d09bbda906da11c1a84.ts
+鍗氭柉杩愬姩,mitv://ns2.hellotvvod.com:9906/c6bec0d071b841bcbe97b08b6fdfacba.ts
+ELEVEN浣撹偛2鍙�,mitv://ns2.hellotvvod.com:9906/60ee1e8bf5784b0192c617efa72ffed4.ts
+鏅烘灄浣撹偛鍙�,mitv://ns2.hellotvvod.com:9906/26be5742600544b497200980c8599f79.ts
+鍗氭柉杩愬姩浜屽彴,mitv://ns2.hellotvvod.com:9906/c024455c614e486793bac3888ea26189.ts
+OUTDOOR,mitv://ns2.hellotvvod.com:9906/57df4f3c442d49e79c659e43034273cc.ts
+HBO寮烘。宸ㄧ尞,mitv://ns2.hellotvvod.com:9906/2c9d5c349fef48ddb2f61ddb1b9d0282.ts
+HBO鍘熷垱宸ㄧ尞,mitv://ns2.hellotvvod.com:9906/31d8b521b4644dc8867981416006391d.ts
+鍥藉鍦扮悊楂樼敾璐ㄩ噹鐢熼閬�,mitv://ns2.hellotvvod.com:9906/8bfc3b40cb5b45a29131165072a56dc4.ts
+BBC Earth,mitv://ns2.hellotvvod.com:9906/594be9e29b4043f0ac0f63f9fda1891e.ts
+Discovery Asia,mitv://ns2.hellotvvod.com:9906/8639fef6fcd8406283b74198a54d1738.ts
+Discovery绉戝棰戦亾,mitv://ns2.hellotvvod.com:9906/2d27efcb3f4c40968ddc552a2aa79ac1.ts
+DMAX,mitv://ns2.hellotvvod.com:9906/c48944ac415e4262b50dfc161e539dad.ts
+EVE,mitv://ns2.hellotvvod.com:9906/fcf34965b37f4e05a23ffe9ab314b967.ts
+HISTORY 2,mitv://ns2.hellotvvod.com:9906/4b1a747fa84f404ea416e5b758cb8525.ts
+鍘嗗彶棰戦亾,mitv://ns2.hellotvvod.com:9906/dfdf1d8bf3744dd5987ed55f7a52d146.ts
+缃渚︾級棰戦亾,mitv://ns2.hellotvvod.com:9906/8f3a8581c6924b9b919c157b6e6b5613.ts
+BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/9f50eef7954e4184abf891fab616cacb.ts
+LUXE TV,mitv://ns2.hellotvvod.com:9906/b3828b39fe6e4f399f3ed16125879042.ts
+Lifetime,mitv://ns2.hellotvvod.com:9906/719f0ef992c843f8bcb9977c701e0343.ts
+KLT-闈栧ぉ鍥介檯鍙�,mitv://ns2.hellotvvod.com:9906/621636a63b57478da76618a49b53a9db.ts
+HGTV灞呭涔愭椿棰戦亾,mitv://ns2.hellotvvod.com:9906/fc0bc391b3b74fa79707bb5662269e78.ts
+Love Nature,mitv://ns2.hellotvvod.com:9906/910e573ddce94ce6867253c6ff9cb067.ts
+缇庨鏄熺悆,mitv://ns2.hellotvvod.com:9906/a51b8f53b033431298135bece8b9f9ce.ts
+浜氭床缇庨棰戦亾,mitv://ns2.hellotvvod.com:9906/619be40d5bb5431ab151c1cedcb64866.ts
+浜氭床鏃呮父鍙�,mitv://ns2.hellotvvod.com:9906/4ab319ec18e24a4a9f7533d0b3e7edc3.ts
+EYE TV鏃呮父鍙�,mitv://ns2.hellotvvod.com:9906/f114e37cc42f4efc8b4397e87f90f36c.ts
+鏃跺皻棰戦亾,mitv://ns2.hellotvvod.com:9906/69d01661332944138845ae247115f872.ts
+濂芥秷鎭�2鍙�,mitv://ns2.hellotvvod.com:9906/cf9cc1e152f44ef58980294c5ee0ee0f.ts
+涓夌珛缁煎悎鍙�,mitv://ns2.hellotvvod.com:9906/b4b44c7ad6514789892b9d9fc23aaf69.ts
+闈栧ぉ璧勮鍙�,mitv://ns2.hellotvvod.com:9906/263ad3ebdf59476fa7380218b97e0f16.ts
+闈栧ぉ缁煎悎鍙�,mitv://ns2.hellotvvod.com:9906/93fc540288ed4f37851e42f628f7f001.ts
+闈栧ぉ鑲蹭箰鍙�,mitv://ns2.hellotvvod.com:9906/0f53200f667149658f34fb128baf1383.ts
+涓缁忓吀鍙�,mitv://ns2.hellotvvod.com:9906/bbfa77b17dce4521a1ecc2e8db10d0f4.ts
+涓鑿侀噰鍙�,mitv://ns2.hellotvvod.com:9906/3ac41c9e546c4e68af75ff51e0b45eb4.ts
+TVBS绮鹃噰鍙�,mitv://ns2.hellotvvod.com:9906/582e5a5a8bc342bd99b82472efcca939.ts
+澹圭數瑙嗙患鍚�,mitv://ns2.hellotvvod.com:9906/46401ffe19884af7b88d60c4d254d621.ts
+绾潵绮鹃噰,mitv://ns2.hellotvvod.com:9906/98d2d2e64b1746a2bb54c6094e352567.ts
+ETtoday缁煎悎鍙�,mitv://ns2.hellotvvod.com:9906/4b7ebf1824fc461ead279b9e3bf44002.ts
+姘戣绗竴鍙�,mitv://ns2.hellotvvod.com:9906/c59f5eafb64c429c9898e3c4e7d58826.ts
+姘戣鍙版咕鍙�,mitv://ns2.hellotvvod.com:9906/dd3c39a1f89143d3bb2d6e6ca93649ee.ts
+Nice TV闈栧ぉ娆箰鍙�,mitv://ns2.hellotvvod.com:9906/95f07c5040c14ae890adc21e2bd92d37.ts
+鍏ぇ浼橀閬�,mitv://ns2.hellotvvod.com:9906/72cbaab72f444e568cbcca9bd245790d.ts
+涓夌珛鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/b896407696384855bfbaf465158c9244.ts
+榫欏崕鎴忓墽,mitv://ns2.hellotvvod.com:9906/55d2ca67746c445dab0299a0e5c9bcf2.ts
+闈栧ぉ鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/587b32aa46ee41a4a43335045be79034.ts
+闈栨磱鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/4fe5a995a2af415588d1c4516947f9a2.ts
+闈栧ぉ鏃ユ湰鍙�,mitv://ns2.hellotvvod.com:9906/e7713d137980443191b03e865e5777e1.ts
+i-Fun鍔ㄦ极鍙�,mitv://ns2.hellotvvod.com:9906/6c6d58adb1324b2a8ea97ba174f74152.ts
+闊╁浗濞变箰鍙�,mitv://ns2.hellotvvod.com:9906/737dfd0a781a4606938dfb92a6838cd3.ts
+鏄熷崼濞变箰鍙�,mitv://ns2.hellotvvod.com:9906/8f63704507ba4efe9d3bbc00e3ac302c.ts
+ROCK Extreme,mitv://ns2.hellotvvod.com:9906/6b92894044cf46c388d761d8e0c513a0.ts
+涓鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/7ce1b4e9c216474a9720b28544d0885b.ts
+瀵板畤鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/62fda9bfa764471ab7141eded293e2d8.ts
+鍗庤鏂伴椈,mitv://ns2.hellotvvod.com:9906/87eec684d1674445b679905f561c811b.ts
+NHK鏂伴椈璧勮鍙�,mitv://ns2.hellotvvod.com:9906/f48b6fbf3a2e4e5da782ae835bd0fc3a.ts
+缇庝簹鐢靛奖鍙癏D,mitv://ns2.hellotvvod.com:9906/beb09c716bbc4616a403b76fc9026512.ts
+榫欏崕鐢靛奖,mitv://ns2.hellotvvod.com:9906/7c8f50a7352049b58dfc7bbb78aada8e.ts
+鏄熷崼HD鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/0542443a632841b5b962af8f287b7e6a.ts
+闈栧ぉ鏄犵敾,mitv://ns2.hellotvvod.com:9906/60e1851230c042d99ebf62dfff667519.ts
+闈栧ぉ鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/1a0fd7b6170841dc828a63854cdab358.ts
+WARNER TV,mitv://ns2.hellotvvod.com:9906/7b91facd11134b7095917ac5f0402711.ts
+Star Movies HD,mitv://ns2.hellotvvod.com:9906/fa446f003f054e4f83ceca2daf3d4b92.ts
+AMC鏈€鐖辩數褰�,mitv://ns2.hellotvvod.com:9906/6e97e38cd04648c0b6914dab05e984f3.ts
+HBO Family,mitv://ns2.hellotvvod.com:9906/e9cb7612372a42b394e3d4caf56c06c4.ts
+CatchPlay鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/2b42588414e34374ae4a92e73e38d0df.ts
+CinemaWorld,mitv://ns2.hellotvvod.com:9906/f3b186675b7d4cc994370eb997aaf612.ts
+澹圭數瑙嗙數褰卞彴,mitv://ns2.hellotvvod.com:9906/cfc7f3c6f88641798fd4c57f0ae09f1f.ts
+閲囨槍褰卞墽鍙�,mitv://ns2.hellotvvod.com:9906/9cdd18a45e9744a69450580b4f8afa79.ts
+浣涘崼鎱堟偛鍙�,mitv://ns2.hellotvvod.com:9906/f2a918eb71c64d00ab0eb59eddd3e144.ts
+TV5Monde,mitv://ns2.hellotvvod.com:9906/6f49b6a4517a41fab67d30e93a1957e7.ts
+Cbeebies,mitv://ns2.hellotvvod.com:9906/fb4ea2515b7f464f88387de9c7d6515e.ts
+EYE TV鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/c74e5eae10bb4f9e9a97e1c0942e421f.ts
+鍙拌鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/b96e51ad47e54f579be39ed930641f8f.ts
+瀵板畤鏂伴椈鍙版咕鍙�,mitv://ns2.hellotvvod.com:9906/03d2c89584694399bc9fe412144ad3ca.ts
+鍙拌璐㈢粡鍙�,mitv://ns2.hellotvvod.com:9906/a3240bb0fe124d2ab7b15d511d701cb8.ts
+鐖卞皵杈剧患鍚堝彴,mitv://ns2.hellotvvod.com:9906/8c3ee7f418a54d76bda0cf8d69a2f545.ts
+鐖卞皵杈惧奖鍓у彴,mitv://ns2.hellotvvod.com:9906/218a6e33c7654d13822f5030422698f9.ts
+ROCK Entertainment,mitv://ns2.hellotvvod.com:9906/849f91b0f6d54bbf994da484636b11fe.ts
+Dreamworks,mitv://ns2.hellotvvod.com:9906/0756e1854fd646f1b25fb789ca52cc70.ts
+TV5MONDE Style 鐢熸椿鏃跺皻,mitv://ns2.hellotvvod.com:9906/aa776aa3c41441d4b7a8d57ee5ea7571.ts
+Travel Channel,mitv://ns2.hellotvvod.com:9906/d219b74024294360ac8e4d1e4db22869.ts
+褰辫糠鏁颁綅鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/02351070157d4a33b49a516e4b5b10ca.ts
+鍗涓枃鍙�,mitv://ns2.hellotvvod.com:9906/cb34596f236a4c85a9718367df9e9c9d.ts
+鐖卞皵杈句綋鑲�1鍙�,mitv://ns2.hellotvvod.com:9906/595998f4529e4f298cdf3149a33c1437.ts
+鐖卞皵杈句綋鑲�2鍙�,mitv://ns2.hellotvvod.com:9906/d277e9d51ec74aea904176f52e2defd9.ts
+鐖卞皵杈句綋鑲�3鍙�,mitv://ns2.hellotvvod.com:9906/1e5f5b63d5934513be98a24b106691ff.ts
+闀滄柊闂�,mitv://ns2.hellotvvod.com:9906/628cf31e0004299e5869953459b77f05.ts
+鍙版咕(澶�),#genre#
+鐖卞皵杈句綋鑲�1鍙�(澶�),mitv://ns2.hellotvvod.com:9906/e8d85cab69554439aa5088770348fb8f.ts
+鐖卞皵杈句綋鑲�2鍙�(澶�),mitv://ns2.hellotvvod.com:9906/ea9010e14e8d4e639d63c896c1170489.ts
+鐖卞皵杈句綋鑲�3鍙�(澶�),mitv://ns2.hellotvvod.com:9906/1d024c698a934e908e98d158b8af0939.ts
+姘戣(澶�),mitv://ns2.hellotvvod.com:9906/a3df5bd9c0ca413b9dbcd5ecd4156b0f.ts
+涓夌珛鍙版咕鍙�(澶�),mitv://ns2.hellotvvod.com:9906/a29da0ffbc6245228464539d31c70c9d.ts
+鍙拌(澶�),mitv://ns2.hellotvvod.com:9906/342f4bfd1dcd46a1b02f12a19aefca70.ts
+澶х埍(澶�),mitv://ns2.hellotvvod.com:9906/2c806191ae504534a8b08bedf845ea49.ts
+涓(澶�),mitv://ns2.hellotvvod.com:9906/0347f8c4e2a644d0996882770099885f.ts
+鍗庤(澶�),mitv://ns2.hellotvvod.com:9906/c98df565ba804bbf8d7aa1a680d2be20.ts
+鍏(澶�),mitv://ns2.hellotvvod.com:9906/a27fc37aa69d48b3944b86ee0c1f7dca.ts
+涓滄．鏂伴椈鍙�(澶�),mitv://ns2.hellotvvod.com:9906/5327288e67214c9797f3d3c55b29c279.ts
+涓浗,#genre#
+CCTV1,mitv://ns2.hellotvvod.com:9906/04164a440a9f45469024b94a831870b9.ts
+CCTV2,mitv://ns2.hellotvvod.com:9906/3fe9445a1f884d09b080c9d50bae0eba.ts
+CCTV3,mitv://ns2.hellotvvod.com:9906/298739e879aa44aab6712612a4355904.ts
+CCTV4,mitv://ns2.hellotvvod.com:9906/d5fd2568898744fabadafefa01cf4761.ts
+CCTV5,mitv://ns2.hellotvvod.com:9906/6dba252bff6c4b3d95cfe35d98463eb8.ts
+CCTV5+,mitv://ns2.hellotvvod.com:9906/37bcfcd4835e4ee78c48292db923111b.ts
+CCTV6,mitv://ns2.hellotvvod.com:9906/0f2e6de734154892a391395f2b35146d.ts
+CCTV7,mitv://ns2.hellotvvod.com:9906/6bb7bfd7063f414f8743d5416924953d.ts
+CCTV8,mitv://ns2.hellotvvod.com:9906/aa2b2cf9dac1458ab432b2886b8a7d3a.ts
+CCTV9,mitv://ns2.hellotvvod.com:9906/9c97722583da499aaec60739857670f9.ts
+CCTV10,mitv://ns2.hellotvvod.com:9906/f08b43e7bcd343dab4b0d682a5465d82.ts
+CCTV11,mitv://ns2.hellotvvod.com:9906/93872fd3153d4f4e95349aa44b121d63.ts
+CCTV12,mitv://ns2.hellotvvod.com:9906/12716edd716443db9d5e53fe88de3e35.ts
+CCTV13,mitv://ns2.hellotvvod.com:9906/d218db0e65ea47738a198d5bc72c0315.ts
+CCTV14,mitv://ns2.hellotvvod.com:9906/f805407279d8491592d8a92b1b2e0435.ts
+CCTV15,mitv://ns2.hellotvvod.com:9906/901fbf78628845c4ae92e28b761f8cd1.ts
+鍖椾含鍗,mitv://ns2.hellotvvod.com:9906/eb24d61588b944bf9834c24c6030fd5a.ts
+澶╂触鍗,mitv://ns2.hellotvvod.com:9906/e997e4a33bf6499b89afd02e2a369368.ts
+娌冲寳鍗,mitv://ns2.hellotvvod.com:9906/7fb0979707b44844b7070288096abe1c.ts
+榛戦緳姹熷崼瑙�,mitv://ns2.hellotvvod.com:9906/5fff07fc2e3a4ea1b3ea363b14a996a4.ts
+杈藉畞鍗,mitv://ns2.hellotvvod.com:9906/05a224b91f4642c09d132373d560942c.ts
+涓滄柟鍗,mitv://ns2.hellotvvod.com:9906/7cd8a377c0594ef4b3ae384fc3441f81.ts
+姹熻嫃鍗,mitv://ns2.hellotvvod.com:9906/d37df4fc0dd4495aa9ca8e9001a6f720.ts
+娴欐睙鍗,mitv://ns2.hellotvvod.com:9906/9efa7eebcd384ba8bcda2d3df02db5ba.ts
+姹熻タ鍗,mitv://ns2.hellotvvod.com:9906/876f9e99f490468fac1b993648869823.ts
+灞变笢鍗,mitv://ns2.hellotvvod.com:9906/42c14cbddd8a48f4a8b50610a9d85255.ts
+涓滃崡鍗,mitv://ns2.hellotvvod.com:9906/ac4501ed77b8435ea80d81e223655521.ts
+婀栧寳鍗,mitv://ns2.hellotvvod.com:9906/5c9c7164816c432e87ec158a29ce7526.ts
+婀栧崡鍗,mitv://ns2.hellotvvod.com:9906/72a1cf601895490d9815c61cf01e5fac.ts
+娣卞湷鍗,mitv://ns2.hellotvvod.com:9906/004a31292fa7428289abcdb070eced46.ts
+骞夸笢鍗,mitv://ns2.hellotvvod.com:9906/9730f56f5f354616b95c7979cd4d0af3.ts
+骞胯タ鍗,mitv://ns2.hellotvvod.com:9906/e99e5a045fb3481f92e804e50e1dc379.ts
+閲嶅簡鍗,mitv://ns2.hellotvvod.com:9906/70b810a26354484b86db57b3e70b1f42.ts
+浜戝崡鍗,mitv://ns2.hellotvvod.com:9906/43037401c9314b0a8c43c1e2bb4cbdc7.ts
+鏄熺┖鍗,mitv://ns2.hellotvvod.com:9906/d262eb6f212b422fac54ea8b19d2eb87.ts
+骞夸笢鍗楁柟鍗,mitv://ns2.hellotvvod.com:9906/4623af4a8d32456c9d960ab0a51733dc.ts
+鐝犳睙鍙�,mitv://ns2.hellotvvod.com:9906/ee8d111603e34d738794d3e9d609ee31.ts
+閲戦拱鍗￠€�,mitv://ns2.hellotvvod.com:9906/453c81d6d6eb4f358c9b7fce801619d7.ts
+榄呭姏瓒崇悆,mitv://ns2.hellotvvod.com:9906/8d65d3e979d3421ea89fd310fe420b26.ts
+鏂拌瑙�,mitv://ns2.hellotvvod.com:9906/a09607b183f44964a6c746c883149a8a.ts
+骞夸笢浣撹偛,mitv://ns2.hellotvvod.com:9906/5238ddac6c8d4e6bbb4a9db5740c1e9c.ts
+CCTV16,mitv://ns2.hellotvvod.com:9906/4b7b5663df9f4ed68905ae02e9797b46.ts
+骞夸笢褰辫,mitv://ns2.hellotvvod.com:9906/b09f3b2e16964d5692299e62a3b9d43a.ts
+娓境,#genre#
+娓彴闆昏31,mitv://ns2.hellotvvod.com:9906/8b840eeb2739481098d274368cb121f7.ts
+娓彴鐢佃32,mitv://ns2.hellotvvod.com:9906/5fb3b8fdfb374ac789aaf77bfbc4f224.ts
+棣欐腐寮€鐢佃,mitv://ns2.hellotvvod.com:9906/a9370612854846a894f9a885cab40605.ts
+锘跨俊缈犲彴(澶�),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
+J2,mitv://ns2.hellotvvod.com:9906/9ba5239618d241e99ca0e61987ad0e39.ts
+鏃犵嚎鏂伴椈鍙�(澶�),mitv://ns2.hellotvvod.com:9906/4179ffc79bf64488a059d73bf058c4d6.ts
+鏃犵嚎鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/a74244a38bc94eb2906a876ce9d70eb0.ts
+鏃犵嚎璐㈢粡路璧勮鍙�,mitv://ns2.hellotvvod.com:9906/dee93a6442744a3091e12afaac2cd2f6.ts
+ViuTVsix,mitv://ns2.hellotvvod.com:9906/39160023a1684ee897383ade9e189227.ts
+ViuTV,mitv://ns2.hellotvvod.com:9906/000e70808ea3473eb5d95e4fe13fe4b4.ts
+鍑ゅ嚢涓枃鍙�,mitv://ns2.hellotvvod.com:9906/10befe0d1286499cbecc03ccf1f8af21.ts
+鍑ゅ嚢璧勮鍙�,mitv://ns2.hellotvvod.com:9906/95dafddc933e4286a722754851d50f7e.ts
+鍑ゅ嚢棣欐腐鍙�,mitv://ns2.hellotvvod.com:9906/6623f8a15c6640899f30521c971c587f.ts
+TVB鏄熸渤(绮�),mitv://ns2.hellotvvod.com:9906/dc9a40ffad43467dabfba5c3dbd8036d.ts
+闃冲厜鍗,mitv://ns2.hellotvvod.com:9906/5ae15997ee7b4f8598ad635a738ad4d5.ts
+婢抽棬-MACAU,mitv://ns2.hellotvvod.com:9906/5b2e0046513549d38e79b6ca9477a22c.ts
+婢抽棬鑾茶姳,mitv://ns2.hellotvvod.com:9906/e992c07d53bb46d3971d90babe5e147d.ts
+now鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
+now鐩存挱鍙�,mitv://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
+HKC鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/59321f2f03974de9a411618c99057ecd.ts
+鍑ゅ嚢鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/ec5a19ad2f204f319cac7b7d02a3371b.ts
+HKC鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/4c326abd969e4990b00ca11cb055286a.ts
+HKC璐㈢粡璧勮鍙�,mitv://ns2.hellotvvod.com:9906/f14771b92dc64e628511854739fec159.ts
+HKC 18,mitv://ns2.hellotvvod.com:9906/d3eb78103c5a43f88a4e36bfd17f5cf7.ts
+HKC 603,mitv://ns2.hellotvvod.com:9906/1953bb2f7aee4480b0df3d5b2a7c38b0.ts
+HKC楂旇偛鍙�,mitv://ns2.hellotvvod.com:9906/4499f5d280624f5e8d90aab393e7d2df.ts
+HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/683e53c2799143318f2b30601b2cc224.ts
+HKC缁煎悎濞变箰鍙�,mitv://ns2.hellotvvod.com:9906/17112e5ca5e7410291080fd7120ebd84.ts
+TVB濞变箰鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/76c51c3849e44a508e6f239c72fcddb2.ts
+缈＄繝鍙�,mitv://ns2.hellotvvod.com:9906/dd193c43d8d144a789e332fef764857b.ts
+TVB缁忓吀鍙�,mitv://ns2.hellotvvod.com:9906/cac20e8b0588407e8a93377cc557c044.ts
+Thrill,mitv://ns2.hellotvvod.com:9906/b67aa79ac1bf493db4935705df4ed033.ts
+鏄庣彔鍙�,mitv://ns2.hellotvvod.com:9906/ac00aa71db8746768272c1b233aa2830.ts
+18鍙�,mitv://ns2.hellotvvod.com:9906/bc7424c9517c48938ec0ad8b8d824f8a.ts
+鐖嗚胺鏄熷奖鍙�,mitv://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
+缇庝簹鐢靛奖鍙�(绮よ),mitv://ns2.hellotvvod.com:9906/75339441b06a447c9c5af39a86aacf3f.ts
+Hands Up,mitv://ns2.hellotvvod.com:9906/a0914b9ba8fb494e917d008e0f45cc3b.ts
+绮よ鐗囧彴,mitv://ns2.hellotvvod.com:9906/8df75ca890094458966f4d729a8a8480.ts
+浜氭床鍓у彴,mitv://ns2.hellotvvod.com:9906/23ff3aecd0514b84950b5f638662a257.ts
+鍔熷か鍙�,mitv://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
+鐩存挱鍙�,mitv://ns2.hellotvvod.com:9906/b144e848d760477094b90434cf9688f7.ts
+鐖嗚胺鍙�,mitv://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
+椹潵瑗夸簹,#genre#
+CNN,mitv://ns2.hellotvvod.com:9906/5ae877d0e1b94ca9af3eb8c2810b5f6a.ts
+TV1,mitv://ns2.hellotvvod.com:9906/a6d112c6afa3482f8cbaeb2e345baa4f.ts
+TV2,mitv://ns2.hellotvvod.com:9906/4669e2d30b324c7e9501d070f50d1e29.ts
+TV3,mitv://ns2.hellotvvod.com:9906/3987b9d1357b46bab616f4b894dea343.ts
+NTV7,mitv://ns2.hellotvvod.com:9906/3a56943ba6374dd7b17322ab24895979.ts
+8TV,mitv://ns2.hellotvvod.com:9906/41cb5e3b4ea34944bb17cc090cfa9b78.ts
+TV9,mitv://ns2.hellotvvod.com:9906/85942ed0fdc742cda28d34c482f2ba75.ts
+Astro Ria HD,mitv://ns2.hellotvvod.com:9906/d60c9f9506264aec9cc4cb458211b95d.ts
+Astro Prima HD,mitv://ns2.hellotvvod.com:9906/ad4d934b41f54d828ebf36f985207d9a.ts
+Astro Oasis HD,mitv://ns2.hellotvvod.com:9906/28222de5f30e42bc92504883884644ba.ts
+Astro Warna HD,mitv://ns2.hellotvvod.com:9906/77eee94341084221bba9bb4c6527d663.ts
+Astro Citra HD,mitv://ns2.hellotvvod.com:9906/51a69ea20cc74bb6bf6e9dad663ae002.ts
+Astro Rania HD,mitv://ns2.hellotvvod.com:9906/57d64a2ceae44300accfbbe5aa116320.ts
+Astro Aura HD,mitv://ns2.hellotvvod.com:9906/44a0ffa09a0c4c7bb611cd4088b98bba.ts
+Al-Hijrah,mitv://ns2.hellotvvod.com:9906/9969060f3a3345d2933d1f0fb1f74f6b.ts
+TV Okey,mitv://ns2.hellotvvod.com:9906/157929a7f61f48ca9916b15c29257850.ts
+SUN TV,mitv://ns2.hellotvvod.com:9906/55ca2c790aeb4de484bf12c3d61552ef.ts
+Astro Cricket,mitv://ns2.hellotvvod.com:9906/ac9fb01ea4ba494f80882b5c3a8837ff.ts
+鐖卞鑹�,mitv://ns2.hellotvvod.com:9906/ecddb042ec4c4bb6b054af29e061cb74.ts
+Astro灏忓お闃�,mitv://ns2.hellotvvod.com:9906/09d0213f918343e4b2f4a72f21c5a524.ts
+Astro AEC(澶�),mitv://ns2.hellotvvod.com:9906/bcc938ab5b5041089e4edb75ccd224d5.ts
+Astro鍙屾槦,mitv://ns2.hellotvvod.com:9906/4b54555a59e94f06a348d05dc8a8c7a6.ts
+Astro鍏ㄤ匠,mitv://ns2.hellotvvod.com:9906/9294b59eeed4484e9f456ec965c12c15.ts
+澶╂槧棰戦亾,mitv://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
+缈＄繝鍙�(鍗庝附鍙�),mitv://ns2.hellotvvod.com:9906/f2200731e1ea4d8cba571ce2cbe1fc86.ts
+Astro AOD HD 311,mitv://ns2.hellotvvod.com:9906/ca200aab2ff7425c9519dddc1b07dea0.ts
+涓ぉ浜氭床鍙�,mitv://ns2.hellotvvod.com:9906/0fcb17074c024d358c704c2b1a30e364.ts
+TVB鏄熸渤(绮�),mitv://ns2.hellotvvod.com:9906/dc9a40ffad43467dabfba5c3dbd8036d.ts
+澶╂槧缁忓吀,mitv://ns2.hellotvvod.com:9906/1d139ee4124e4f0087893f06234b0c9a.ts
+Astro娆㈠枩鍙�(澶�),mitv://ns2.hellotvvod.com:9906/b09e290579d641a4a988c1ab37e67b45.ts
+KBS World,mitv://ns2.hellotvvod.com:9906/769a5755ae5d4a18a1ef9f4aa0b3f747.ts
+ONE,mitv://ns2.hellotvvod.com:9906/802774cd47eb40f1b3cbb326956c2616.ts
+Oh!K,mitv://ns2.hellotvvod.com:9906/3e4652c6d91a48c394101054a27fc067.ts
+Colors Hindi,mitv://ns2.hellotvvod.com:9906/534f73cb9b6e4920b78aab1ac1ee6432.ts
+TVS,mitv://ns2.hellotvvod.com:9906/3f08a105b60d4c659190fb0818c3e6be.ts
+Astro Vaanavil,mitv://ns2.hellotvvod.com:9906/450261e3a3fe44289d4e49a5e9135f64.ts
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/4936b67a005d42fbbaafd803c5251c8a.ts
+Astro Awani,mitv://ns2.hellotvvod.com:9906/0ba7aa43b35b40e9bfa6e5bb2a44df21.ts
+BERNAMA,mitv://ns2.hellotvvod.com:9906/bdd7e6636b9d41a08fc6114b5f1542bc.ts
+CGTN,mitv://ns2.hellotvvod.com:9906/563569aad1c142a9aba185d061b1c69f.ts
+BBC World News,mitv://ns2.hellotvvod.com:9906/3111663d06d349b69c2df597860aa331.ts
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/2933c0d4267044b1b1a4231157bdeb5f.ts
+CNBC,mitv://ns2.hellotvvod.com:9906/35f90e1679854741b3187486a8981e7b.ts
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/272e1789dac349de97fccd5d8070b0bb.ts
+Astro Ceria,mitv://ns2.hellotvvod.com:9906/9679d3e8de1346d3ba71bbc99315dc7f.ts
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/733dcee580804e88973a45d5b7d49a81.ts
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/e42d18de14914d73b9eeb8387897e40a.ts
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/820e782998c1468e8cb29f0ba23769a4.ts
+Boomerang,mitv://ns2.hellotvvod.com:9906/9ce1018c356348109b0d9700862a017d.ts
+AXN浜氭床,mitv://ns2.hellotvvod.com:9906/1899077d9faa47339353ee114fad4772.ts
+KIX,mitv://ns2.hellotvvod.com:9906/f6faa7da234a460585d22522672dd80f.ts
+HITS,mitv://ns2.hellotvvod.com:9906/91f370e752c44d94b8a516ca9054e994.ts
+Astro Arena,mitv://ns2.hellotvvod.com:9906/9edb8832e1a946bc945289eec5ea2185.ts
+Astro SuperSport,mitv://ns2.hellotvvod.com:9906/105791ef70f0493e9a7f3e92dd31e708.ts
+Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/3462a01f29c547a19909b6dcaa59ff9a.ts
+Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/b9a3efab6e6343d8b8385a8d53867d99.ts
+Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/4e28d895a4c941fbb221e9b79b7fee84.ts
+beIN Sports 3,mitv://ns2.hellotvvod.com:9906/b3f63dad92b64fa28208116dab9fdafe.ts
+WWE,mitv://ns2.hellotvvod.com:9906/a5af33cc1f7443c59e8696aaf471ad2e.ts
+Sky News,mitv://ns2.hellotvvod.com:9906/2aeb4c3ccfa944a09e07b4b786ce2a4d.ts
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/44652382c3ac4aedb45f033859cfb9a2.ts
+tvN,mitv://ns2.hellotvvod.com:9906/fef103e098ae429b8140ec9e0dc10be7.ts
+Drama Sangat,mitv://ns2.hellotvvod.com:9906/c54c5fbe807f4d8993387f4bb1ff3c5c.ts
+RTM Sport,mitv://ns2.hellotvvod.com:9906/cf011c8e1f5248d58c668dcb5d2b062d.ts
+Berita RTM,mitv://ns2.hellotvvod.com:9906/b7898804578e4f9795373370f635f4ea.ts
+DW,mitv://ns2.hellotvvod.com:9906/5e3cbc2272774870884f7e84cb693c52.ts
+France24,mitv://ns2.hellotvvod.com:9906/1bdd8945ab41450a82209beb77923eaa.ts
+SPOTV,mitv://ns2.hellotvvod.com:9906/139cf56905c24e66907fff5a464883d2.ts
+beIN Sports,mitv://ns2.hellotvvod.com:9906/ea07726194b8481996417c3659c589ed.ts
+TVB濞变箰鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/76c51c3849e44a508e6f239c72fcddb2.ts
+Astro AEC,mitv://ns2.hellotvvod.com:9906/7d4b9308606144cfab8e645f443528fc.ts
+Awesome TV,mitv://ns2.hellotvvod.com:9906/73dd373770db4d43ae5c9c45cef12731.ts
+ABO Movies Thangathirai HD,mitv://ns2.hellotvvod.com:9906/d5e6c27e2f014778bbc825d681ccfe40.ts
+Colors Tamil,mitv://ns2.hellotvvod.com:9906/a1c780b4d65640818700d3019b26e89e.ts
+BOO,mitv://ns2.hellotvvod.com:9906/ba23b65f9de94d7c82043e11e1df95a4.ts
+TVB缁忓吀鍙�,mitv://ns2.hellotvvod.com:9906/cac20e8b0588407e8a93377cc557c044.ts
+ABC Australia,mitv://ns2.hellotvvod.com:9906/974e2c4f2c9648ba96c209e38176ca22.ts
+Eurosport HD,mitv://ns2.hellotvvod.com:9906/5e78c68dee1d4713952f2d0e394b307b.ts
+Astro Arena 2,mitv://ns2.hellotvvod.com:9906/8c961a83145940bfbc9c5cfc4869c00d.ts
+Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/a6a51cd83c8e4c79b63c069fa61d2e5e.ts
+Astro Vinmeen,mitv://ns2.hellotvvod.com:9906/e1933928fcf44d61b6fb3650c5660c83.ts
+Sun Music,mitv://ns2.hellotvvod.com:9906/74550c2b27bf4e1081be64916bb07c3e.ts
+Chutti TV,mitv://ns2.hellotvvod.com:9906/3cca0393c4fd470c9f27f51e95f5d137.ts
+Adithya,mitv://ns2.hellotvvod.com:9906/d862140e2b004b118fa9eb53b7b1020e.ts
+Star Vijay,mitv://ns2.hellotvvod.com:9906/a922de2a538545feb3257d1f3ea993c0.ts
+Zee Tamil,mitv://ns2.hellotvvod.com:9906/c81f32eb12c84eddbfbe5a515b593c28.ts
+TVBS浜氭床,mitv://ns2.hellotvvod.com:9906/400f8614cd1a4fc29d2dcd94e99489e1.ts
+Astro AOD 352,mitv://ns2.hellotvvod.com:9906/c503d77f9b07482f8e0b59906cb74ab8.ts
+Astro AOD 354,mitv://ns2.hellotvvod.com:9906/f8b80d69bba04450ac85a5b06924f886.ts
+Astro Tutor TV SK,mitv://ns2.hellotvvod.com:9906/c8afc780f11f4bc69e462f679ff1a31b.ts
+Astro Tutor TV SPM,mitv://ns2.hellotvvod.com:9906/e78a4a47f44743ceb37d85892af1e60b.ts
+Premier Sports,mitv://ns2.hellotvvod.com:9906/b8a6cb0598fa43ad8accb7aaddb5d282.ts
+TA-DAA!,mitv://ns2.hellotvvod.com:9906/d38b543dc0ba43d197c6fe48e88500d2.ts
+eGG Network,mitv://ns2.hellotvvod.com:9906/5a4eb84b7f3d4b2698d45c8bca81c60a.ts
+BollyOne,mitv://ns2.hellotvvod.com:9906/a58c9e406a6244c39353303367b57c2d.ts
+HITS Movies,mitv://ns2.hellotvvod.com:9906/a15525a46e4845f4a1d80aacf2ca151d.ts
+SHOWCASE MOVIES,mitv://ns2.hellotvvod.com:9906/7f8bd9a45a8e42d5a05ec8a56eb70ab5.ts
+PrimeTime Channel,mitv://ns2.hellotvvod.com:9906/a90bc2a66a5c4062a5f3c42813b3ed53.ts
+Golf Channel,mitv://ns2.hellotvvod.com:9906/b00d3cb6313647f49fdd4bff7601e3f8.ts
+Astro娆㈠枩鍙�,mitv://ns2.hellotvvod.com:9906/8c13b40d7aa0442ba7ad263a3ecb0116.ts
+Baby TV,mitv://ns2.hellotvvod.com:9906/9901a0991a24462289827c8671c66d36.ts
+beIN Sports 2,mitv://ns2.hellotvvod.com:9906/73777cc290794926b6159693437e8cdd.ts
+鏂板姞鍧�,#genre#
+澶╂槧棰戦亾,mitv://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
+涓ぉ浜氭床鍙�,mitv://ns2.hellotvvod.com:9906/0fcb17074c024d358c704c2b1a30e364.ts
+TVB鏄熸渤(绮�),mitv://ns2.hellotvvod.com:9906/dc9a40ffad43467dabfba5c3dbd8036d.ts
+澶╂槧缁忓吀,mitv://ns2.hellotvvod.com:9906/1d139ee4124e4f0087893f06234b0c9a.ts
+KBS World,mitv://ns2.hellotvvod.com:9906/769a5755ae5d4a18a1ef9f4aa0b3f747.ts
+ONE,mitv://ns2.hellotvvod.com:9906/802774cd47eb40f1b3cbb326956c2616.ts
+Oh!K,mitv://ns2.hellotvvod.com:9906/3e4652c6d91a48c394101054a27fc067.ts
+Colors Hindi,mitv://ns2.hellotvvod.com:9906/534f73cb9b6e4920b78aab1ac1ee6432.ts
+CGTN,mitv://ns2.hellotvvod.com:9906/563569aad1c142a9aba185d061b1c69f.ts
+BBC World News,mitv://ns2.hellotvvod.com:9906/3111663d06d349b69c2df597860aa331.ts
+CNBC,mitv://ns2.hellotvvod.com:9906/35f90e1679854741b3187486a8981e7b.ts
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/272e1789dac349de97fccd5d8070b0bb.ts
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/733dcee580804e88973a45d5b7d49a81.ts
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/e42d18de14914d73b9eeb8387897e40a.ts
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/820e782998c1468e8cb29f0ba23769a4.ts
+Boomerang,mitv://ns2.hellotvvod.com:9906/9ce1018c356348109b0d9700862a017d.ts
+AXN浜氭床,mitv://ns2.hellotvvod.com:9906/1899077d9faa47339353ee114fad4772.ts
+HITS,mitv://ns2.hellotvvod.com:9906/91f370e752c44d94b8a516ca9054e994.ts
+beIN Sports 3,mitv://ns2.hellotvvod.com:9906/b3f63dad92b64fa28208116dab9fdafe.ts
+Mediacorp 5,mitv://ns2.hellotvvod.com:9906/337bb303f3d2417bb0c7478e83f3913c.ts
+Mediacorp 8,mitv://ns2.hellotvvod.com:9906/bdc293885d30410486ee689070d62140.ts
+Suria,mitv://ns2.hellotvvod.com:9906/1e384145a682434fb9776e82df8b22dc.ts
+Vasantham,mitv://ns2.hellotvvod.com:9906/a5557864c97b4586946f51befdc05fdb.ts
+CNA,mitv://ns2.hellotvvod.com:9906/da8d1a998f104b1385e0102bad9eafdb.ts
+Mediacorp U,mitv://ns2.hellotvvod.com:9906/b0f60a17b126409fb62e54e85fc69252.ts
+鍗鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/48e5078c3a954232a6d182ece9409eb7.ts
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/44652382c3ac4aedb45f033859cfb9a2.ts
+Arirang,mitv://ns2.hellotvvod.com:9906/10e8045586584a01950286b038d574da.ts
+Euronews,mitv://ns2.hellotvvod.com:9906/d7221ed13072484e944f7a677dd49db7.ts
+Fight Sports,mitv://ns2.hellotvvod.com:9906/c73639ddb84a444d8a3a251d856b6eea.ts
+GEM,mitv://ns2.hellotvvod.com:9906/0a1e909ccab249338a8b801119a7ebe4.ts
+Horse Racing 89,mitv://ns2.hellotvvod.com:9906/407c4f25a08e4c79bc7f55e17c9b79ec.ts
+Fox News,mitv://ns2.hellotvvod.com:9906/35e12e0c7c124a5098628a28d2e12746.ts
+beIN Sports,mitv://ns2.hellotvvod.com:9906/ea07726194b8481996417c3659c589ed.ts
+HGTV灞呭涔愭椿棰戦亾,mitv://ns2.hellotvvod.com:9906/fc0bc391b3b74fa79707bb5662269e78.ts
+TV5Monde,mitv://ns2.hellotvvod.com:9906/6f49b6a4517a41fab67d30e93a1957e7.ts
+涓滄．浜氭床鍗,mitv://ns2.hellotvvod.com:9906/135c917f22c04330ae2b53926554267f.ts
+Thrill,mitv://ns2.hellotvvod.com:9906/b67aa79ac1bf493db4935705df4ed033.ts
+Hub閮戒細鍙�,mitv://ns2.hellotvvod.com:9906/902a6b93710549089842427f70de3f0e.ts
+TVBS浜氭床,mitv://ns2.hellotvvod.com:9906/400f8614cd1a4fc29d2dcd94e99489e1.ts
+Hub濞卞,mitv://ns2.hellotvvod.com:9906/27a9e87cd5c34edc884770035fa32d23.ts
+NBA,mitv://ns2.hellotvvod.com:9906/13cef6263e5c4c6b8d318a749bd87104.ts
+beIN Sports 2,mitv://ns2.hellotvvod.com:9906/73777cc290794926b6159693437e8cdd.ts
+Hub Sports 1,mitv://ns2.hellotvvod.com:9906/eb38ed0879834735993fc12baf76498d.ts
+Hub Sports 2,mitv://ns2.hellotvvod.com:9906/314f879fc7d547aea8be46198000f737.ts
+Hub Sports 3,mitv://ns2.hellotvvod.com:9906/ec9d318abe9640b0ab2e89537aa28104.ts
+Horse Racing 88,mitv://ns2.hellotvvod.com:9906/f24cb222c8d84694935ff385da7eef23.ts
+鏃ユ湰,#genre#
+NHK-G缁煎悎,mitv://ns2.hellotvvod.com:9906/263f03613ef041e9bcfc078ec41cdda9.ts
+NHK-E鏁欒偛,mitv://ns2.hellotvvod.com:9906/9df361ecb93647a69957cacfd04be5a9.ts
+鏃ユ湰銉嗐儸銉�,mitv://ns2.hellotvvod.com:9906/5b2ef1052dc64c949b4ea8401bec4dec.ts
+TBS銉嗐儸銉�,mitv://ns2.hellotvvod.com:9906/120910f419e749aaadad61ae209d7983.ts
+銉嗐儸銉撴澅浜�,mitv://ns2.hellotvvod.com:9906/2f2b8e9510ae48a3af0435970de42951.ts
+銉曘偢銉嗐儸銉�,mitv://ns2.hellotvvod.com:9906/b1d6bb626ef048709992a90395061b2f.ts
+瑾２銉嗐儸銉�,mitv://ns2.hellotvvod.com:9906/d5aac9d868654161b0516620071b8ccc.ts
+闁㈣タ銉嗐儸銉�,mitv://ns2.hellotvvod.com:9906/5f16ba8332e24638a56535b3dcff702b.ts
+KBS浜兘,mitv://ns2.hellotvvod.com:9906/64dde2c6bee34f44a9526d90e15a026f.ts
+姣庢棩鏀鹃€�,mitv://ns2.hellotvvod.com:9906/35adfbaa625c445d96174b2a39427ab8.ts
+鏈濇棩鏀鹃€�,mitv://ns2.hellotvvod.com:9906/def4cb34f9ef497d8c43eb5841445113.ts
+銉嗐儸銉撳ぇ闃�,mitv://ns2.hellotvvod.com:9906/e82d8c97483a43949e5339f2103f8838.ts
+銉嗐儸銉撴湞鏃�,mitv://ns2.hellotvvod.com:9906/1fb186b62f674ed89a58fce44658fd45.ts
+BS-1,mitv://ns2.hellotvvod.com:9906/0ee63f266dee4b369d377b4963bca9b0.ts
+BS銉椼儸銉熴偄銉�,mitv://ns2.hellotvvod.com:9906/815fca8cf0cb4522932d5036c2bee1db.ts
+BS鏃ャ儐銉�,mitv://ns2.hellotvvod.com:9906/19865217245b4d8da20a2b903106d22d.ts
+BS鏈濇棩,mitv://ns2.hellotvvod.com:9906/6fb0b5a2ec4d448a8bbdefb530d976b9.ts
+BS-TBS,mitv://ns2.hellotvvod.com:9906/271c3bcb43e443da8370f1f3005a8c62.ts
+BS11,mitv://ns2.hellotvvod.com:9906/d224774f4c9a4a1d9e4c8bcfd28604d3.ts
+BS銉曘偢,mitv://ns2.hellotvvod.com:9906/56ac109fcb374a42a7ac1bc3fc727042.ts
+WOWOW銉椼儵銈ゃ儬,mitv://ns2.hellotvvod.com:9906/d7c8bf87af2c4848be1f045d18b44683.ts
+WOWOW銉┿偆銉�,mitv://ns2.hellotvvod.com:9906/12910f20f3f14c6da9256e344882717b.ts
+WOWOW銈枫儘銉�,mitv://ns2.hellotvvod.com:9906/2e8876e531684ff886f500ac2d9f3a38.ts
+銈广偪銉笺兓銉併儯銉炽儘銉�1,mitv://ns2.hellotvvod.com:9906/3c8873fa36f242ab99133d383b5f04a0.ts
+銈广偪銉笺兓銉併儯銉炽儘銉�2,mitv://ns2.hellotvvod.com:9906/997f3abbe81d46deb6cd0ffa3fc29075.ts
+銈广偪銉笺兓銉併儯銉炽儘銉�3,mitv://ns2.hellotvvod.com:9906/8136b2fae4ce4e6a8b98c0aa60a504db.ts
+BS銈儖銉炪儍銈偣,mitv://ns2.hellotvvod.com:9906/1da11ee3b5124ffe967faafd5b9f764a.ts
+J Sports 1,mitv://ns2.hellotvvod.com:9906/e71d2760e0404cc889cd3e79bb1099d5.ts
+J Sports 2,mitv://ns2.hellotvvod.com:9906/d8c0f91875f54c2e86eccd45b505b9b8.ts
+J Sports 3,mitv://ns2.hellotvvod.com:9906/8804d91776ad460997cc2eb03dce7ad0.ts
+J Sports 4,mitv://ns2.hellotvvod.com:9906/35fe178bbdb84df09ee45244f2e75e84.ts
+BS12,mitv://ns2.hellotvvod.com:9906/3e73ea0c3acb45bfab109c887d9627b2.ts
+銈淬儷銉曘儘銉冦儓銉兗銈疕D,mitv://ns2.hellotvvod.com:9906/2db3913124a84b44a3790d5f15a90a31.ts
+鏅備唬鍔囧皞闁€銉併儯銉炽儘銉�,mitv://ns2.hellotvvod.com:9906/d526c7e4841f43579207dc567102f680.ts
+Music Japan TV,mitv://ns2.hellotvvod.com:9906/24424ee5d30042c48c6aae10f1b6ec08.ts
+銈儍銈恒偣銉嗐兗銈枫儳銉矵D,mitv://ns2.hellotvvod.com:9906/1278edd0b79649e3b3d4658c317d6438.ts
+銉囥偅銈广偒銉愩儶銉笺儊銉ｃ兂銉嶃儷,mitv://ns2.hellotvvod.com:9906/48ca150bc41749c2b1904787654b8f86.ts
+銉娿偡銉с儕銉偢銈偘銉┿儠銈ｃ儍銈�,mitv://ns2.hellotvvod.com:9906/635637c76cde4d728f890a7c15246b50.ts
+鏃ャ儐銉琋EWS 24,mitv://ns2.hellotvvod.com:9906/2f34e363187a4191991cc100488d675e.ts
+鏃呫儊銉ｃ兂銉嶃儷,mitv://ns2.hellotvvod.com:9906/0f435712afe2476cb1d39561e3b7e741.ts
+銉曘偂銉熴儶銉煎妵鍫�,mitv://ns2.hellotvvod.com:9906/cb9a9413af454d00a788035ffe01d101.ts
+闊╁浗,#genre#
+Arirang,mitv://ns2.hellotvvod.com:9906/10e8045586584a01950286b038d574da.ts
+KBS1,mitv://ns2.hellotvvod.com:9906/e8754c7d959041aa9370b1b3d94038b5.ts
+KBS2,mitv://ns2.hellotvvod.com:9906/3e4cca913d7e4d99bfd00f5e483c18aa.ts
+KBS Drama,mitv://ns2.hellotvvod.com:9906/3e5e5de390594d2fba22b74ea35321b7.ts
+KBS Joy,mitv://ns2.hellotvvod.com:9906/47d8c86c7e3d40998c2341a2e5e5345b.ts
+SBS,mitv://ns2.hellotvvod.com:9906/a04290b36efe430c949463cb2e99c1ea.ts
+SBS Biz,mitv://ns2.hellotvvod.com:9906/f79df1e7c68f4f4ca1aa4ee83549f30d.ts
+JTBC,mitv://ns2.hellotvvod.com:9906/12b9f4b60e79430181e7edd9d3cbc927.ts
+EBS,mitv://ns2.hellotvvod.com:9906/af8dc933345b444480612ed1e09ecfe4.ts
+YTN,mitv://ns2.hellotvvod.com:9906/9633ae71d8f5473bbe40e8270dc3dcd1.ts
+Mnet,mitv://ns2.hellotvvod.com:9906/10ca5fc531bb442bb28825ef7426b2c3.ts
+tvN,mitv://ns2.hellotvvod.com:9906/fef103e098ae429b8140ec9e0dc10be7.ts
+OCN,mitv://ns2.hellotvvod.com:9906/808926e525824ace9e32639b625c658a.ts
+OCN Movies,mitv://ns2.hellotvvod.com:9906/27bbf37c005441ff88ab241502fd0c2e.ts
+TV Chosun,mitv://ns2.hellotvvod.com:9906/9865b0dd39b7403393d590003403a997.ts
+MBC,mitv://ns2.hellotvvod.com:9906/6aad0b112bad4b3eac84363b9a277f9d.ts
+MBN,mitv://ns2.hellotvvod.com:9906/a77553afcde945cbbbfe573249c0d7e7.ts
+Tooniverse,mitv://ns2.hellotvvod.com:9906/21667e6858e04dab8a5c344a20ed0352.ts
+SPOTV,mitv://ns2.hellotvvod.com:9906/34da16083ecc493992fca8c3ac498604.ts
+SPOTV 2,mitv://ns2.hellotvvod.com:9906/8f20e75dda6c48de94343c043c53450d.ts
+JTBC GOLF,mitv://ns2.hellotvvod.com:9906/c86798d1028e4bbf980e07f161b23b1b.ts
+鍗板凹,#genre#
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/4936b67a005d42fbbaafd803c5251c8a.ts
+Indosiar,mitv://ns2.hellotvvod.com:9906/d3ebecff9fbf4c5e90174d459a5d9f66.ts
+RCTI,mitv://ns2.hellotvvod.com:9906/d1a9e4fb0700406fb9d70ae776d5e776.ts
+娉板浗,#genre#
+Channel 5,mitv://ns2.hellotvvod.com:9906/c91e201f4208495faf843b2c7b5eea75.ts
+NBT,mitv://ns2.hellotvvod.com:9906/95e9b3720b3c43aa8c79899642dc6ba3.ts
+TNN 16,mitv://ns2.hellotvvod.com:9906/5ce89e6c1f684dfea6a93cc47b986e5b.ts
+JKN 18,mitv://ns2.hellotvvod.com:9906/6a834c3ea74045a3851c538555444434.ts
+Voice TV,mitv://ns2.hellotvvod.com:9906/b8df56b49a3848f78f31c122a2782ff3.ts
+Nation TV,mitv://ns2.hellotvvod.com:9906/5e812de5a41f427eae6f2c26576b68e7.ts
+Workpoint TV,mitv://ns2.hellotvvod.com:9906/22e73de454994f638805fc9da2ec7fa9.ts
+true4U,mitv://ns2.hellotvvod.com:9906/865a0d0706864a30a7d180c4a7288fb6.ts
+GMM 25,mitv://ns2.hellotvvod.com:9906/0b15dc30074f43149ee075ce038346d4.ts
+Channel 8,mitv://ns2.hellotvvod.com:9906/9d4f3a3bceb047c79fee0a8c2ac23ba6.ts
+Mono 29,mitv://ns2.hellotvvod.com:9906/46688ed1b9584110b04bc2b2042cc2ac.ts
+MCOT,mitv://ns2.hellotvvod.com:9906/4e702183e2024dde9a1bf7ddd7ea772a.ts
+ONE,mitv://ns2.hellotvvod.com:9906/fd3ed3bddc6c42388a61e0c0e04d234d.ts
+Thairath TV,mitv://ns2.hellotvvod.com:9906/dd87a62e61b1439bbeb12cf0a89bcebe.ts
+Channel 3,mitv://ns2.hellotvvod.com:9906/20c2fdb35d3f41f1bf4b6406e6c7fcb7.ts
+Amarin TV,mitv://ns2.hellotvvod.com:9906/de57a94bac1d43248d462d1e194e246d.ts
+Channel 7,mitv://ns2.hellotvvod.com:9906/cf3e8575db63416093f10dcf35f0d15c.ts
+PPTV,mitv://ns2.hellotvvod.com:9906/973576dd8fbf4c1eb295be0d6191c4a8.ts
+Boomerang,mitv://ns2.hellotvvod.com:9906/c05f389c25d1400b9f288fa0d45db82e.ts
+Toonee,mitv://ns2.hellotvvod.com:9906/09f5908d16364df2934b1dc862409831.ts
+Thai Parliament TV,mitv://ns2.hellotvvod.com:9906/ed88415e7ea04932bdec49e52e1a89cb.ts
+Thai PBS,mitv://ns2.hellotvvod.com:9906/e840562ef73446b0a0cb2690500f411a.ts
+News 1,mitv://ns2.hellotvvod.com:9906/fe0551d3e3194924842c4d629d1715bc.ts
+Zee Nung,mitv://ns2.hellotvvod.com:9906/303c69320f3145d98eeb5cd8b3940b04.ts
+Channel 4050,mitv://ns2.hellotvvod.com:9906/b6e2d2f6454f4b008ad93b29c1c4423d.ts
+TVB Thai,mitv://ns2.hellotvvod.com:9906/69fdeaae286a45789199164ad2373da0.ts
+Bluesky,mitv://ns2.hellotvvod.com:9906/2f86c08bb3a64dbd9df828fb2194c959.ts
+Top News,mitv://ns2.hellotvvod.com:9906/51bfc95869dd44efbae87efdcfdf848d.ts
+True Sport 2,mitv://ns2.hellotvvod.com:9906/b05dd5cfa370485db3eece8c9d4ef851.ts
+True Sport 3,mitv://ns2.hellotvvod.com:9906/c54ddb9528334c26941d5d9202ab06db.ts
+True Sport 4,mitv://ns2.hellotvvod.com:9906/7cbcae76cca24cbeb89c32066c7c0a38.ts
+True Sport 5,mitv://ns2.hellotvvod.com:9906/0f032216262a4445835fef82e96c006d.ts
+True Sport 7,mitv://ns2.hellotvvod.com:9906/f08b292ef7374999a32f9395e56943a2.ts
+鑿插緥瀹�,#genre#
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/733dcee580804e88973a45d5b7d49a81.ts
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/e42d18de14914d73b9eeb8387897e40a.ts
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/820e782998c1468e8cb29f0ba23769a4.ts
+Boomerang,mitv://ns2.hellotvvod.com:9906/9ce1018c356348109b0d9700862a017d.ts
+GMA,mitv://ns2.hellotvvod.com:9906/dc32c4eaee164b0e9cecc67541969059.ts
+TV5,mitv://ns2.hellotvvod.com:9906/e3d3083a6f7c4715951458a153e92418.ts
+Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/a6c64c0e57ab4d1bae6e62d9d714558f.ts
+鍗板害,#genre#
+SUN TV,mitv://ns2.hellotvvod.com:9906/55ca2c790aeb4de484bf12c3d61552ef.ts
+CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/caa2c737612a4cadbb1f57313afdf977.ts
+India TV,mitv://ns2.hellotvvod.com:9906/853e701a5ca6498b878e932dbcfc7c27.ts
+Janam TV,mitv://ns2.hellotvvod.com:9906/3c7bab5894604ca082a4e521cf8e2e67.ts
+Colors Tamil,mitv://ns2.hellotvvod.com:9906/a1c780b4d65640818700d3019b26e89e.ts
+NDTV,mitv://ns2.hellotvvod.com:9906/a48c67f7f0af45a7b7f3598b30ecccdc.ts
+Sun Music,mitv://ns2.hellotvvod.com:9906/74550c2b27bf4e1081be64916bb07c3e.ts
+Chutti TV,mitv://ns2.hellotvvod.com:9906/3cca0393c4fd470c9f27f51e95f5d137.ts
+Adithya,mitv://ns2.hellotvvod.com:9906/d862140e2b004b118fa9eb53b7b1020e.ts
+Star Vijay,mitv://ns2.hellotvvod.com:9906/a922de2a538545feb3257d1f3ea993c0.ts
+Zee Tamil,mitv://ns2.hellotvvod.com:9906/c81f32eb12c84eddbfbe5a515b593c28.ts
+缇庡浗,#genre#
+CNN,mitv://ns2.hellotvvod.com:9906/5ae877d0e1b94ca9af3eb8c2810b5f6a.ts
+CNBC,mitv://ns2.hellotvvod.com:9906/35f90e1679854741b3187486a8981e7b.ts
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/272e1789dac349de97fccd5d8070b0bb.ts
+ESPN,mitv://ns2.hellotvvod.com:9906/eb60fb7bd7574bb18e1f50de981ec0b2.ts
+CBSN,mitv://ns2.hellotvvod.com:9906/655f053a88c340fd8211f7713cff73af.ts
+Fox News,mitv://ns2.hellotvvod.com:9906/35e12e0c7c124a5098628a28d2e12746.ts
+Food Network,mitv://ns2.hellotvvod.com:9906/00b9dfd8a9b14d969686d9ef092e265c.ts
+NBA,mitv://ns2.hellotvvod.com:9906/13cef6263e5c4c6b8d318a749bd87104.ts
+鏂伴椈,#genre#
+CNN,mitv://ns2.hellotvvod.com:9906/5ae877d0e1b94ca9af3eb8c2810b5f6a.ts
+鏃犵嚎鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/a74244a38bc94eb2906a876ce9d70eb0.ts
+鏃犵嚎璐㈢粡路璧勮鍙�,mitv://ns2.hellotvvod.com:9906/dee93a6442744a3091e12afaac2cd2f6.ts
+CGTN,mitv://ns2.hellotvvod.com:9906/563569aad1c142a9aba185d061b1c69f.ts
+BBC World News,mitv://ns2.hellotvvod.com:9906/3111663d06d349b69c2df597860aa331.ts
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/2933c0d4267044b1b1a4231157bdeb5f.ts
+CNBC,mitv://ns2.hellotvvod.com:9906/35f90e1679854741b3187486a8981e7b.ts
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/272e1789dac349de97fccd5d8070b0bb.ts
+CNA,mitv://ns2.hellotvvod.com:9906/da8d1a998f104b1385e0102bad9eafdb.ts
+澹圭數瑙嗘柊闂诲彴,mitv://ns2.hellotvvod.com:9906/3f740a0d73f44a139ea28bf2b365aa8e.ts
+骞翠唬鏂伴椈,mitv://ns2.hellotvvod.com:9906/0b94b2babd86450f980db1ff668969a3.ts
+now鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
+now鐩存挱鍙�,mitv://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
+涓滄．鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/07cfc4d01b3c4068ac92fc95434f4427.ts
+涓ぉ鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/ffe8e8fa8e244b32bdec3b38a2f2b7aa.ts
+姘戣鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/fd4643e7a06540cb9a30c751f260132b.ts
+涓夌珛鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/684783b8b2184ee486966066ecfb276c.ts
+TVBS鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/4b77b4e4dd394bc6a869f3283d3c42d7.ts
+涓滄．璐㈢粡鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/078d0c4531f24463b29579ecd6263d59.ts
+闈炲嚒鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/574771e316a048a1bff7bd31e355829c.ts
+TNN 16,mitv://ns2.hellotvvod.com:9906/5ce89e6c1f684dfea6a93cc47b986e5b.ts
+JKN 18,mitv://ns2.hellotvvod.com:9906/6a834c3ea74045a3851c538555444434.ts
+涓夌珛iNEWS,mitv://ns2.hellotvvod.com:9906/f0bfd3e089974625ae9ec1092d56507f.ts
+Sky News,mitv://ns2.hellotvvod.com:9906/2aeb4c3ccfa944a09e07b4b786ce2a4d.ts
+DW,mitv://ns2.hellotvvod.com:9906/5e3cbc2272774870884f7e84cb693c52.ts
+Euronews,mitv://ns2.hellotvvod.com:9906/d7221ed13072484e944f7a677dd49db7.ts
+France24,mitv://ns2.hellotvvod.com:9906/1bdd8945ab41450a82209beb77923eaa.ts
+CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/caa2c737612a4cadbb1f57313afdf977.ts
+HKC鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/4c326abd969e4990b00ca11cb055286a.ts
+闈炲嚒鍟嗕笟鍙�,mitv://ns2.hellotvvod.com:9906/d6aa5577e7554c5db9d6a3a37a224386.ts
+HKC璐㈢粡璧勮鍙�,mitv://ns2.hellotvvod.com:9906/f14771b92dc64e628511854739fec159.ts
+鍥戒細棰戦亾1,mitv://ns2.hellotvvod.com:9906/114aa7d0a8af4d41992a03cae4003e0d.ts
+鍥戒細棰戦亾2,mitv://ns2.hellotvvod.com:9906/6e061de5d4574debb41706a65e513d3c.ts
+CBSN,mitv://ns2.hellotvvod.com:9906/655f053a88c340fd8211f7713cff73af.ts
+Fox News,mitv://ns2.hellotvvod.com:9906/35e12e0c7c124a5098628a28d2e12746.ts
+涓鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/7ce1b4e9c216474a9720b28544d0885b.ts
+瀵板畤鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/62fda9bfa764471ab7141eded293e2d8.ts
+鍗庤鏂伴椈,mitv://ns2.hellotvvod.com:9906/87eec684d1674445b679905f561c811b.ts
+NHK鏂伴椈璧勮鍙�,mitv://ns2.hellotvvod.com:9906/f48b6fbf3a2e4e5da782ae835bd0fc3a.ts
+ABC Australia,mitv://ns2.hellotvvod.com:9906/974e2c4f2c9648ba96c209e38176ca22.ts
+鍙拌鏂伴椈鍙�,mitv://ns2.hellotvvod.com:9906/b96e51ad47e54f579be39ed930641f8f.ts
+瀵板畤鏂伴椈鍙版咕鍙�,mitv://ns2.hellotvvod.com:9906/03d2c89584694399bc9fe412144ad3ca.ts
+鍙拌璐㈢粡鍙�,mitv://ns2.hellotvvod.com:9906/a3240bb0fe124d2ab7b15d511d701cb8.ts
+闀滄柊闂�,mitv://ns2.hellotvvod.com:9906/628cf31e0004299e5869953459b77f05.ts
+闊充箰,#genre#
+MTV,mitv://ns2.hellotvvod.com:9906/5e1eaccb46e9499a92f59e59c490d9a7.ts
+Music Japan TV,mitv://ns2.hellotvvod.com:9906/24424ee5d30042c48c6aae10f1b6ec08.ts
+MTV Live,mitv://ns2.hellotvvod.com:9906/7c27e4e9f495427986b87f23c4426cbc.ts
+Mezzo Live,mitv://ns2.hellotvvod.com:9906/13974c3b753a4b7fa240d7c8697235a7.ts
+CLASSICA 鍙ゅ吀涔�,mitv://ns2.hellotvvod.com:9906/f8a91d76248e443c8847fae81887888d.ts
+CMusic,mitv://ns2.hellotvvod.com:9906/32c742738d3949a99963fe5d59613326.ts
+浣撹偛,#genre#
+CCTV5,mitv://ns2.hellotvvod.com:9906/6dba252bff6c4b3d95cfe35d98463eb8.ts
+CCTV5+,mitv://ns2.hellotvvod.com:9906/37bcfcd4835e4ee78c48292db923111b.ts
+榄呭姏瓒崇悆,mitv://ns2.hellotvvod.com:9906/8d65d3e979d3421ea89fd310fe420b26.ts
+鏂拌瑙�,mitv://ns2.hellotvvod.com:9906/a09607b183f44964a6c746c883149a8a.ts
+骞夸笢浣撹偛,mitv://ns2.hellotvvod.com:9906/5238ddac6c8d4e6bbb4a9db5740c1e9c.ts
+Astro Cricket,mitv://ns2.hellotvvod.com:9906/ac9fb01ea4ba494f80882b5c3a8837ff.ts
+Astro Arena,mitv://ns2.hellotvvod.com:9906/9edb8832e1a946bc945289eec5ea2185.ts
+Astro SuperSport,mitv://ns2.hellotvvod.com:9906/105791ef70f0493e9a7f3e92dd31e708.ts
+Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/3462a01f29c547a19909b6dcaa59ff9a.ts
+Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/b9a3efab6e6343d8b8385a8d53867d99.ts
+Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/4e28d895a4c941fbb221e9b79b7fee84.ts
+beIN Sports 3,mitv://ns2.hellotvvod.com:9906/b3f63dad92b64fa28208116dab9fdafe.ts
+WWE,mitv://ns2.hellotvvod.com:9906/a5af33cc1f7443c59e8696aaf471ad2e.ts
+绾潵鑲蹭箰鍙�,mitv://ns2.hellotvvod.com:9906/62996e6e17b44b89a4aaa378103156cd.ts
+绾潵浣撹偛鍙�,mitv://ns2.hellotvvod.com:9906/0897e131ae134ca2a23447f8b1c23668.ts
+ELEVEN浣撹偛1鍙�,mitv://ns2.hellotvvod.com:9906/bdd2a8a8ae314ddb8dc8b63ba8b2eb77.ts
+Z棰戦亾,mitv://ns2.hellotvvod.com:9906/da6d6450a3b14c9aad2ac1b8387f6858.ts
+J Sports 1,mitv://ns2.hellotvvod.com:9906/e71d2760e0404cc889cd3e79bb1099d5.ts
+J Sports 2,mitv://ns2.hellotvvod.com:9906/d8c0f91875f54c2e86eccd45b505b9b8.ts
+J Sports 3,mitv://ns2.hellotvvod.com:9906/8804d91776ad460997cc2eb03dce7ad0.ts
+J Sports 4,mitv://ns2.hellotvvod.com:9906/35fe178bbdb84df09ee45244f2e75e84.ts
+RTM Sport,mitv://ns2.hellotvvod.com:9906/cf011c8e1f5248d58c668dcb5d2b062d.ts
+Skynet Sports HD,mitv://ns2.hellotvvod.com:9906/075e4a03cbec40ab92a890d9471456dd.ts
+Skynet Sports 2,mitv://ns2.hellotvvod.com:9906/8139124ee1bb497fb0fc624ed3539662.ts
+Skynet Sports 5,mitv://ns2.hellotvvod.com:9906/599bcefb5052412e90c682025ce9133f.ts
+Skynet Sports 6,mitv://ns2.hellotvvod.com:9906/0c4528c1a6994be7b4d11302c8a600c1.ts
+Fight Sports,mitv://ns2.hellotvvod.com:9906/c73639ddb84a444d8a3a251d856b6eea.ts
+Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/a6c64c0e57ab4d1bae6e62d9d714558f.ts
+ESPN,mitv://ns2.hellotvvod.com:9906/eb60fb7bd7574bb18e1f50de981ec0b2.ts
+HKC 18,mitv://ns2.hellotvvod.com:9906/d3eb78103c5a43f88a4e36bfd17f5cf7.ts
+HKC 603,mitv://ns2.hellotvvod.com:9906/1953bb2f7aee4480b0df3d5b2a7c38b0.ts
+HKC楂旇偛鍙�,mitv://ns2.hellotvvod.com:9906/4499f5d280624f5e8d90aab393e7d2df.ts
+HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/683e53c2799143318f2b30601b2cc224.ts
+鐖卞皵杈句綋鑲�1鍙�(澶�),mitv://ns2.hellotvvod.com:9906/e8d85cab69554439aa5088770348fb8f.ts
+鐖卞皵杈句綋鑲�2鍙�(澶�),mitv://ns2.hellotvvod.com:9906/ea9010e14e8d4e639d63c896c1170489.ts
+鐖卞皵杈句綋鑲�3鍙�(澶�),mitv://ns2.hellotvvod.com:9906/1d024c698a934e908e98d158b8af0939.ts
+TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/b02bf8302e5e44daa585d4fc21f92e7d.ts
+鍗氭柉楂樼悆,mitv://ns2.hellotvvod.com:9906/de1bd896c5d9476f8344d428264cf268.ts
+鍗氭柉楂樼悆浜屽彴,mitv://ns2.hellotvvod.com:9906/ec378e331cd64dbbbbd3730977c04469.ts
+鍗氭柉缃戠悆鍙�,mitv://ns2.hellotvvod.com:9906/2a7084493c204e2b910c6b42b6703e4f.ts
+鍗氭柉榄呭姏缃�,mitv://ns2.hellotvvod.com:9906/53b5eef4a40744ac86d35b035f4428b2.ts
+鍗氭柉鏃犻檺鍙�,mitv://ns2.hellotvvod.com:9906/f8e5141856a14502bf9581fc546208a1.ts
+鍗氭柉鏃犻檺浜屽彴,mitv://ns2.hellotvvod.com:9906/05648d7433be4d09bbda906da11c1a84.ts
+SPOTV,mitv://ns2.hellotvvod.com:9906/139cf56905c24e66907fff5a464883d2.ts
+鍗氭柉杩愬姩,mitv://ns2.hellotvvod.com:9906/c6bec0d071b841bcbe97b08b6fdfacba.ts
+ELEVEN浣撹偛2鍙�,mitv://ns2.hellotvvod.com:9906/60ee1e8bf5784b0192c617efa72ffed4.ts
+鏅烘灄浣撹偛鍙�,mitv://ns2.hellotvvod.com:9906/26be5742600544b497200980c8599f79.ts
+鍗氭柉杩愬姩浜屽彴,mitv://ns2.hellotvvod.com:9906/c024455c614e486793bac3888ea26189.ts
+beIN Sports,mitv://ns2.hellotvvod.com:9906/ea07726194b8481996417c3659c589ed.ts
+Eurosport HD,mitv://ns2.hellotvvod.com:9906/5e78c68dee1d4713952f2d0e394b307b.ts
+Astro Arena 2,mitv://ns2.hellotvvod.com:9906/8c961a83145940bfbc9c5cfc4869c00d.ts
+Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/a6a51cd83c8e4c79b63c069fa61d2e5e.ts
+NBA,mitv://ns2.hellotvvod.com:9906/13cef6263e5c4c6b8d318a749bd87104.ts
+Premier Sports,mitv://ns2.hellotvvod.com:9906/b8a6cb0598fa43ad8accb7aaddb5d282.ts
+eGG Network,mitv://ns2.hellotvvod.com:9906/5a4eb84b7f3d4b2698d45c8bca81c60a.ts
+Golf Channel,mitv://ns2.hellotvvod.com:9906/b00d3cb6313647f49fdd4bff7601e3f8.ts
+CCTV16,mitv://ns2.hellotvvod.com:9906/4b7b5663df9f4ed68905ae02e9797b46.ts
+True Sport 2,mitv://ns2.hellotvvod.com:9906/b05dd5cfa370485db3eece8c9d4ef851.ts
+True Sport 3,mitv://ns2.hellotvvod.com:9906/c54ddb9528334c26941d5d9202ab06db.ts
+True Sport 4,mitv://ns2.hellotvvod.com:9906/7cbcae76cca24cbeb89c32066c7c0a38.ts
+True Sport 5,mitv://ns2.hellotvvod.com:9906/0f032216262a4445835fef82e96c006d.ts
+True Sport 7,mitv://ns2.hellotvvod.com:9906/f08b292ef7374999a32f9395e56943a2.ts
+beIN Sports 2,mitv://ns2.hellotvvod.com:9906/73777cc290794926b6159693437e8cdd.ts
+鐖卞皵杈句綋鑲�1鍙�,mitv://ns2.hellotvvod.com:9906/595998f4529e4f298cdf3149a33c1437.ts
+鐖卞皵杈句綋鑲�2鍙�,mitv://ns2.hellotvvod.com:9906/d277e9d51ec74aea904176f52e2defd9.ts
+鐖卞皵杈句綋鑲�3鍙�,mitv://ns2.hellotvvod.com:9906/1e5f5b63d5934513be98a24b106691ff.ts
+Hub Sports 1,mitv://ns2.hellotvvod.com:9906/eb38ed0879834735993fc12baf76498d.ts
+Hub Sports 2,mitv://ns2.hellotvvod.com:9906/314f879fc7d547aea8be46198000f737.ts
+Hub Sports 3,mitv://ns2.hellotvvod.com:9906/ec9d318abe9640b0ab2e89537aa28104.ts
+鐭ヨ瘑,#genre#
+CCTV9,mitv://ns2.hellotvvod.com:9906/9c97722583da499aaec60739857670f9.ts
+鍥藉鍦扮悊棰戦亾,mitv://ns2.hellotvvod.com:9906/a0ae74df367245b4a57229832487ee4e.ts
+鎺㈢储棰戦亾,mitv://ns2.hellotvvod.com:9906/53f1b40e94ec4acd85fe317ff18b44d4.ts
+TLC鏃呮父鐢熸椿,mitv://ns2.hellotvvod.com:9906/102b23c242424822801034e092dc953e.ts
+鍔ㄧ墿鏄熺悆,mitv://ns2.hellotvvod.com:9906/e1c1fc8ca1a849abbadec2974bf461c7.ts
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/44652382c3ac4aedb45f033859cfb9a2.ts
+ELTV鐢熸椿鑻辫鍙�,mitv://ns2.hellotvvod.com:9906/d5ab8780f4b74801b2c8ed675c8e49ec.ts
+杈炬枃瑗块閬�,mitv://ns2.hellotvvod.com:9906/73fb4c16983c472bb5c7a6946dd30f6d.ts
+鍥藉鍦扮悊楂樼敾璐ㄩ噹鐢熼閬�,mitv://ns2.hellotvvod.com:9906/8bfc3b40cb5b45a29131165072a56dc4.ts
+BBC Earth,mitv://ns2.hellotvvod.com:9906/594be9e29b4043f0ac0f63f9fda1891e.ts
+Discovery Asia,mitv://ns2.hellotvvod.com:9906/8639fef6fcd8406283b74198a54d1738.ts
+Discovery绉戝棰戦亾,mitv://ns2.hellotvvod.com:9906/2d27efcb3f4c40968ddc552a2aa79ac1.ts
+DMAX,mitv://ns2.hellotvvod.com:9906/c48944ac415e4262b50dfc161e539dad.ts
+EVE,mitv://ns2.hellotvvod.com:9906/fcf34965b37f4e05a23ffe9ab314b967.ts
+HISTORY 2,mitv://ns2.hellotvvod.com:9906/4b1a747fa84f404ea416e5b758cb8525.ts
+鍘嗗彶棰戦亾,mitv://ns2.hellotvvod.com:9906/dfdf1d8bf3744dd5987ed55f7a52d146.ts
+缃渚︾級棰戦亾,mitv://ns2.hellotvvod.com:9906/8f3a8581c6924b9b919c157b6e6b5613.ts
+BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/9f50eef7954e4184abf891fab616cacb.ts
+LUXE TV,mitv://ns2.hellotvvod.com:9906/b3828b39fe6e4f399f3ed16125879042.ts
+Lifetime,mitv://ns2.hellotvvod.com:9906/719f0ef992c843f8bcb9977c701e0343.ts
+KLT-闈栧ぉ鍥介檯鍙�,mitv://ns2.hellotvvod.com:9906/621636a63b57478da76618a49b53a9db.ts
+HGTV灞呭涔愭椿棰戦亾,mitv://ns2.hellotvvod.com:9906/fc0bc391b3b74fa79707bb5662269e78.ts
+Love Nature,mitv://ns2.hellotvvod.com:9906/910e573ddce94ce6867253c6ff9cb067.ts
+缇庨鏄熺悆,mitv://ns2.hellotvvod.com:9906/a51b8f53b033431298135bece8b9f9ce.ts
+浜氭床缇庨棰戦亾,mitv://ns2.hellotvvod.com:9906/619be40d5bb5431ab151c1cedcb64866.ts
+Food Network,mitv://ns2.hellotvvod.com:9906/00b9dfd8a9b14d969686d9ef092e265c.ts
+浜氭床鏃呮父鍙�,mitv://ns2.hellotvvod.com:9906/4ab319ec18e24a4a9f7533d0b3e7edc3.ts
+EYE TV鏃呮父鍙�,mitv://ns2.hellotvvod.com:9906/f114e37cc42f4efc8b4397e87f90f36c.ts
+鏃跺皻棰戦亾,mitv://ns2.hellotvvod.com:9906/69d01661332944138845ae247115f872.ts
+TV5MONDE Style 鐢熸椿鏃跺皻,mitv://ns2.hellotvvod.com:9906/aa776aa3c41441d4b7a8d57ee5ea7571.ts
+Travel Channel,mitv://ns2.hellotvvod.com:9906/d219b74024294360ac8e4d1e4db22869.ts
+鍎垮皯,#genre#
+CCTV14,mitv://ns2.hellotvvod.com:9906/f805407279d8491592d8a92b1b2e0435.ts
+CN鍗￠€氶閬�,mitv://ns2.hellotvvod.com:9906/44a3fbe661a3475096d83a4f6ab5a867.ts
+鏄熺┖鍗,mitv://ns2.hellotvvod.com:9906/d262eb6f212b422fac54ea8b19d2eb87.ts
+閲戦拱鍗￠€�,mitv://ns2.hellotvvod.com:9906/453c81d6d6eb4f358c9b7fce801619d7.ts
+MOMO浜插瓙鍙�,mitv://ns2.hellotvvod.com:9906/4e5c123cf1024951816fe67e61d49493.ts
+Astro灏忓お闃�,mitv://ns2.hellotvvod.com:9906/09d0213f918343e4b2f4a72f21c5a524.ts
+Astro Ceria,mitv://ns2.hellotvvod.com:9906/9679d3e8de1346d3ba71bbc99315dc7f.ts
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/733dcee580804e88973a45d5b7d49a81.ts
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/e42d18de14914d73b9eeb8387897e40a.ts
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/820e782998c1468e8cb29f0ba23769a4.ts
+Boomerang,mitv://ns2.hellotvvod.com:9906/9ce1018c356348109b0d9700862a017d.ts
+Animax,mitv://ns2.hellotvvod.com:9906/47b8321da3884ef2990da7d870dcb770.ts
+灏煎厠鍎跨棰戦亾,mitv://ns2.hellotvvod.com:9906/95317efaec2c439d9715c94ca0e73145.ts
+闈栨磱鍗￠€歂ice Bingo,mitv://ns2.hellotvvod.com:9906/664d5cb7798f443b8fb104e261cd7a1a.ts
+闈栧ぉ鍗￠€氬彴,mitv://ns2.hellotvvod.com:9906/eb98f5782ffc41f6bd2bb1a31eb50eea.ts
+杈炬枃瑗块閬�,mitv://ns2.hellotvvod.com:9906/73fb4c16983c472bb5c7a6946dd30f6d.ts
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/cf26154ca9e04f92a38b2572e8b3f1e8.ts
+Cbeebies,mitv://ns2.hellotvvod.com:9906/fb4ea2515b7f464f88387de9c7d6515e.ts
+Dreamworks,mitv://ns2.hellotvvod.com:9906/0756e1854fd646f1b25fb789ca52cc70.ts
+Baby TV,mitv://ns2.hellotvvod.com:9906/9901a0991a24462289827c8671c66d36.ts
+Hands Up,mitv://ns2.hellotvvod.com:9906/a0914b9ba8fb494e917d008e0f45cc3b.ts
+鐢靛奖,#genre#
+CCTV6,mitv://ns2.hellotvvod.com:9906/0f2e6de734154892a391395f2b35146d.ts
+澶╂槧棰戦亾,mitv://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
+澶╂槧缁忓吀,mitv://ns2.hellotvvod.com:9906/1d139ee4124e4f0087893f06234b0c9a.ts
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/4936b67a005d42fbbaafd803c5251c8a.ts
+HKC鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/59321f2f03974de9a411618c99057ecd.ts
+鍑ゅ嚢鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/ec5a19ad2f204f319cac7b7d02a3371b.ts
+鍗鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/48e5078c3a954232a6d182ece9409eb7.ts
+涓滄．鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/6dbd836f8b5542a1a3054b2487286f19.ts
+绾潵鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/4c315afe673041a88ee8125bb9caff4a.ts
+榫欑ゥ鐢靛奖,mitv://ns2.hellotvvod.com:9906/66704d7827ec46a08907c11e29ab2d30.ts
+HBO,mitv://ns2.hellotvvod.com:9906/75ea557adf07436aa61217f9468b54fb.ts
+涓滄．娲嬬墖鍙�,mitv://ns2.hellotvvod.com:9906/c33490e600e148b79fc7a3ce3dad55b8.ts
+AXN,mitv://ns2.hellotvvod.com:9906/7f91dfc2cae44e33946bc663d221c27c.ts
+濂借幈鍧炵數褰卞彴,mitv://ns2.hellotvvod.com:9906/4ccf820d465e47f78f5703217cef645a.ts
+CINEMAX,mitv://ns2.hellotvvod.com:9906/36471f86b15647c0948bc0975598752c.ts
+绾潵鑲蹭箰鍙�,mitv://ns2.hellotvvod.com:9906/62996e6e17b44b89a4aaa378103156cd.ts
+HBO寮烘。宸ㄧ尞,mitv://ns2.hellotvvod.com:9906/2c9d5c349fef48ddb2f61ddb1b9d0282.ts
+HBO鍘熷垱宸ㄧ尞,mitv://ns2.hellotvvod.com:9906/31d8b521b4644dc8867981416006391d.ts
+缇庝簹鐢靛奖鍙癏D,mitv://ns2.hellotvvod.com:9906/beb09c716bbc4616a403b76fc9026512.ts
+榫欏崕鐢靛奖,mitv://ns2.hellotvvod.com:9906/7c8f50a7352049b58dfc7bbb78aada8e.ts
+鏄熷崼HD鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/0542443a632841b5b962af8f287b7e6a.ts
+闈栧ぉ鏄犵敾,mitv://ns2.hellotvvod.com:9906/60e1851230c042d99ebf62dfff667519.ts
+闈栧ぉ鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/1a0fd7b6170841dc828a63854cdab358.ts
+WARNER TV,mitv://ns2.hellotvvod.com:9906/7b91facd11134b7095917ac5f0402711.ts
+Star Movies HD,mitv://ns2.hellotvvod.com:9906/fa446f003f054e4f83ceca2daf3d4b92.ts
+AMC鏈€鐖辩數褰�,mitv://ns2.hellotvvod.com:9906/6e97e38cd04648c0b6914dab05e984f3.ts
+HBO Family,mitv://ns2.hellotvvod.com:9906/e9cb7612372a42b394e3d4caf56c06c4.ts
+CatchPlay鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/2b42588414e34374ae4a92e73e38d0df.ts
+CinemaWorld,mitv://ns2.hellotvvod.com:9906/f3b186675b7d4cc994370eb997aaf612.ts
+澹圭數瑙嗙數褰卞彴,mitv://ns2.hellotvvod.com:9906/cfc7f3c6f88641798fd4c57f0ae09f1f.ts
+閲囨槍褰卞墽鍙�,mitv://ns2.hellotvvod.com:9906/9cdd18a45e9744a69450580b4f8afa79.ts
+BOO,mitv://ns2.hellotvvod.com:9906/ba23b65f9de94d7c82043e11e1df95a4.ts
+Thrill,mitv://ns2.hellotvvod.com:9906/b67aa79ac1bf493db4935705df4ed033.ts
+鐖嗚胺鏄熷奖鍙�,mitv://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
+HITS Movies,mitv://ns2.hellotvvod.com:9906/a15525a46e4845f4a1d80aacf2ca151d.ts
+SHOWCASE MOVIES,mitv://ns2.hellotvvod.com:9906/7f8bd9a45a8e42d5a05ec8a56eb70ab5.ts
+褰辫糠鏁颁綅鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/02351070157d4a33b49a516e4b5b10ca.ts
+缇庝簹鐢靛奖鍙�(绮よ),mitv://ns2.hellotvvod.com:9906/75339441b06a447c9c5af39a86aacf3f.ts
+鐖嗚胺鍙�,mitv://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
+鎴忓墽,#genre#
+涓滄．鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/23c5d481a1c04d8e8d01c51f5d9b17bd.ts
+鍏ぇ鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/eb2e28d7bacb477391df8f31bb517041.ts
+绾潵鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/1341727ca5114ebaa31f8a2d6addd125.ts
+涓夌珛鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/b896407696384855bfbaf465158c9244.ts
+榫欏崕鎴忓墽,mitv://ns2.hellotvvod.com:9906/55d2ca67746c445dab0299a0e5c9bcf2.ts
+闈栧ぉ鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/587b32aa46ee41a4a43335045be79034.ts
+闈栨磱鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/4fe5a995a2af415588d1c4516947f9a2.ts
+EYE TV鎴忓墽鍙�,mitv://ns2.hellotvvod.com:9906/c74e5eae10bb4f9e9a97e1c0942e421f.ts
+鐖卞皵杈惧奖鍓у彴,mitv://ns2.hellotvvod.com:9906/218a6e33c7654d13822f5030422698f9.ts
+Hub濞卞,mitv://ns2.hellotvvod.com:9906/27a9e87cd5c34edc884770035fa32d23.ts
+浜氭床鍓у彴,mitv://ns2.hellotvvod.com:9906/23ff3aecd0514b84950b5f638662a257.ts
+SP,#genre#
+褰╄櫣e鍙�,mitv://ns2.hellotvvod.com:9906/abf66e1926ce4018b7b059016c3e2d9b.ts
+褰╄櫣鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/d4c614b8b1e9426a858fb8331d47f4a4.ts
+LOOK TV,mitv://ns2.hellotvvod.com:9906/e94eb5756d7a42b3adf338b1a4a5344a.ts
+娼樻湹鍟︾帺缇庡彴,mitv://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
+鎯婅壋鎴愪汉鐢靛奖鍙�,mitv://ns2.hellotvvod.com:9906/bcfdd9d57f1544dcaa10e84a2f239f19.ts
+鏉捐1鍙�,mitv://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts
+鏉捐2鍙�,mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
+娼樻湹鍟︾矇绾㈠彴,mitv://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
+棣欒晧鍙�,mitv://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
+HOT,mitv://ns2.hellotvvod.com:9906/88652a8699964209acf41b25e2c15094.ts
+鏉捐3鍙�,mitv://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
+JStar鏋侀檺鍙�,mitv://ns2.hellotvvod.com:9906/47b422bd6c57400484fa154649963af0.ts
+HAPPY,mitv://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
+K,mitv://ns2.hellotvvod.com:9906/04538c5c882f4f34b22ae5342aa666b7.ts
