@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/ml5177/yuan/blob/main/BL0608.jar",
+  "spider":
     {
       "key": "腾讯官网",
       "name": "腾讯官网",
@@ -503,4 +503,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
+  "spider": "https://github.com/ml5177/yuan/blob/main/BL0608.jar"
 }
